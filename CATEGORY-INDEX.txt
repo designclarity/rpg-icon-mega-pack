@@ -1,0 +1,1289 @@
+RPG ICON MEGA-PACK - CATEGORY INDEX
+1262 original icons
+============================================================
+
+Weapons (317) - png32/weapons/, png64/weapons/
+------------------------------------------------------------
+  iron_straight_straight_round_sword.png        Iron Straight Sword
+  mithril_straight_straight_square_sword.png    Mithril Straight Sword
+  bronze_straight_straight_gem_sword.png        Bronze Straight Sword
+  iron_straight_curved_up_square_sword.png      Iron Straight Sword
+  mithril_straight_curved_up_spike_sword.png    Mithril Straight Sword
+  bronze_straight_curved_down_round_sword.png   Bronze Straight Sword
+  iron_straight_curved_down_spike_sword.png     Iron Straight Sword
+  mithril_straight_curved_down_gem_sword.png    Mithril Straight Sword
+  bronze_straight_round_square_sword.png        Bronze Straight Sword
+  iron_straight_round_gem_sword.png             Iron Straight Sword
+  mithril_straight_diamond_round_sword.png      Mithril Straight Sword
+  bronze_straight_diamond_spike_sword.png       Bronze Straight Sword
+  iron_wide_straight_round_sword.png            Iron Wide Sword
+  mithril_wide_straight_square_sword.png        Mithril Wide Sword
+  bronze_wide_straight_gem_sword.png            Bronze Wide Sword
+  iron_wide_curved_up_square_sword.png          Iron Wide Sword
+  mithril_wide_curved_up_spike_sword.png        Mithril Wide Sword
+  bronze_wide_curved_down_round_sword.png       Bronze Wide Sword
+  iron_wide_curved_down_spike_sword.png         Iron Wide Sword
+  mithril_wide_curved_down_gem_sword.png        Mithril Wide Sword
+  bronze_wide_round_square_sword.png            Bronze Wide Sword
+  iron_wide_round_gem_sword.png                 Iron Wide Sword
+  mithril_wide_diamond_round_sword.png          Mithril Wide Sword
+  bronze_wide_diamond_spike_sword.png           Bronze Wide Sword
+  iron_rapier_straight_round_sword.png          Iron Rapier Sword
+  mithril_rapier_straight_square_sword.png      Mithril Rapier Sword
+  bronze_rapier_straight_gem_sword.png          Bronze Rapier Sword
+  iron_rapier_curved_up_square_sword.png        Iron Rapier Sword
+  mithril_rapier_curved_up_spike_sword.png      Mithril Rapier Sword
+  bronze_rapier_curved_down_round_sword.png     Bronze Rapier Sword
+  iron_rapier_curved_down_spike_sword.png       Iron Rapier Sword
+  mithril_rapier_curved_down_gem_sword.png      Mithril Rapier Sword
+  bronze_rapier_round_square_sword.png          Bronze Rapier Sword
+  iron_rapier_round_gem_sword.png               Iron Rapier Sword
+  mithril_rapier_diamond_round_sword.png        Mithril Rapier Sword
+  bronze_rapier_diamond_spike_sword.png         Bronze Rapier Sword
+  iron_curved_straight_round_sword.png          Iron Curved Sword
+  mithril_curved_straight_square_sword.png      Mithril Curved Sword
+  bronze_curved_straight_gem_sword.png          Bronze Curved Sword
+  iron_curved_curved_up_square_sword.png        Iron Curved Sword
+  mithril_curved_curved_up_spike_sword.png      Mithril Curved Sword
+  bronze_curved_curved_down_round_sword.png     Bronze Curved Sword
+  iron_curved_curved_down_spike_sword.png       Iron Curved Sword
+  mithril_curved_curved_down_gem_sword.png      Mithril Curved Sword
+  bronze_curved_round_square_sword.png          Bronze Curved Sword
+  iron_curved_round_gem_sword.png               Iron Curved Sword
+  mithril_curved_diamond_round_sword.png        Mithril Curved Sword
+  bronze_curved_diamond_spike_sword.png         Bronze Curved Sword
+  iron_jagged_straight_round_sword.png          Iron Jagged Sword
+  mithril_jagged_straight_square_sword.png      Mithril Jagged Sword
+  bronze_jagged_straight_gem_sword.png          Bronze Jagged Sword
+  iron_jagged_curved_up_square_sword.png        Iron Jagged Sword
+  mithril_jagged_curved_up_spike_sword.png      Mithril Jagged Sword
+  bronze_jagged_curved_down_round_sword.png     Bronze Jagged Sword
+  iron_jagged_curved_down_spike_sword.png       Iron Jagged Sword
+  mithril_jagged_curved_down_gem_sword.png      Mithril Jagged Sword
+  bronze_jagged_round_square_sword.png          Bronze Jagged Sword
+  iron_jagged_round_gem_sword.png               Iron Jagged Sword
+  mithril_jagged_diamond_round_sword.png        Mithril Jagged Sword
+  bronze_jagged_diamond_spike_sword.png         Bronze Jagged Sword
+  iron_short_straight_round_sword.png           Iron Short Sword
+  mithril_short_straight_square_sword.png       Mithril Short Sword
+  bronze_short_straight_gem_sword.png           Bronze Short Sword
+  iron_short_curved_up_square_sword.png         Iron Short Sword
+  mithril_short_curved_up_spike_sword.png       Mithril Short Sword
+  bronze_short_curved_down_round_sword.png      Bronze Short Sword
+  iron_short_curved_down_spike_sword.png        Iron Short Sword
+  mithril_short_curved_down_gem_sword.png       Mithril Short Sword
+  bronze_short_round_square_sword.png           Bronze Short Sword
+  iron_short_round_gem_sword.png                Iron Short Sword
+  mithril_short_diamond_round_sword.png         Mithril Short Sword
+  bronze_short_diamond_spike_sword.png          Bronze Short Sword
+  iron_leaf_straight_round_sword.png            Iron Leaf Sword
+  mithril_leaf_straight_square_sword.png        Mithril Leaf Sword
+  bronze_leaf_straight_gem_sword.png            Bronze Leaf Sword
+  iron_leaf_curved_up_square_sword.png          Iron Leaf Sword
+  mithril_leaf_curved_up_spike_sword.png        Mithril Leaf Sword
+  bronze_leaf_curved_down_round_sword.png       Bronze Leaf Sword
+  iron_leaf_curved_down_spike_sword.png         Iron Leaf Sword
+  mithril_leaf_curved_down_gem_sword.png        Mithril Leaf Sword
+  bronze_leaf_round_square_sword.png            Bronze Leaf Sword
+  iron_leaf_round_gem_sword.png                 Iron Leaf Sword
+  mithril_leaf_diamond_round_sword.png          Mithril Leaf Sword
+  bronze_leaf_diamond_spike_sword.png           Bronze Leaf Sword
+  iron_serrated_straight_round_sword.png        Iron Serrated Sword
+  iron_serrated_curved_up_square_sword.png      Iron Serrated Sword
+  bronze_serrated_curved_down_round_sword.png   Bronze Serrated Sword
+  iron_serrated_curved_down_spike_sword.png     Iron Serrated Sword
+  bronze_serrated_round_square_sword.png        Bronze Serrated Sword
+  iron_serrated_round_gem_sword.png             Iron Serrated Sword
+  mithril_serrated_diamond_round_sword.png      Mithril Serrated Sword
+  bronze_serrated_diamond_spike_sword.png       Bronze Serrated Sword
+  iron_straight_straight_round_dagger.png       Iron Straight Dagger
+  iron_straight_straight_spike_dagger.png       Iron Straight Dagger
+  iron_straight_curved_up_round_dagger.png      Iron Straight Dagger
+  iron_straight_curved_up_spike_dagger.png      Iron Straight Dagger
+  iron_straight_curved_down_round_dagger.png    Iron Straight Dagger
+  iron_straight_curved_down_spike_dagger.png    Iron Straight Dagger
+  iron_straight_round_round_dagger.png          Iron Straight Dagger
+  iron_straight_round_spike_dagger.png          Iron Straight Dagger
+  iron_straight_diamond_round_dagger.png        Iron Straight Dagger
+  iron_straight_diamond_spike_dagger.png        Iron Straight Dagger
+  iron_curved_straight_round_dagger.png         Iron Curved Dagger
+  iron_curved_straight_spike_dagger.png         Iron Curved Dagger
+  iron_curved_curved_up_round_dagger.png        Iron Curved Dagger
+  iron_curved_curved_up_spike_dagger.png        Iron Curved Dagger
+  iron_curved_curved_down_round_dagger.png      Iron Curved Dagger
+  iron_curved_curved_down_spike_dagger.png      Iron Curved Dagger
+  iron_curved_round_round_dagger.png            Iron Curved Dagger
+  iron_curved_round_spike_dagger.png            Iron Curved Dagger
+  iron_curved_diamond_round_dagger.png          Iron Curved Dagger
+  iron_curved_diamond_spike_dagger.png          Iron Curved Dagger
+  iron_jagged_straight_round_dagger.png         Iron Jagged Dagger
+  iron_jagged_straight_spike_dagger.png         Iron Jagged Dagger
+  iron_jagged_curved_up_round_dagger.png        Iron Jagged Dagger
+  iron_jagged_curved_up_spike_dagger.png        Iron Jagged Dagger
+  iron_jagged_curved_down_round_dagger.png      Iron Jagged Dagger
+  iron_jagged_curved_down_spike_dagger.png      Iron Jagged Dagger
+  iron_jagged_round_round_dagger.png            Iron Jagged Dagger
+  iron_jagged_round_spike_dagger.png            Iron Jagged Dagger
+  iron_jagged_diamond_round_dagger.png          Iron Jagged Dagger
+  iron_jagged_diamond_spike_dagger.png          Iron Jagged Dagger
+  iron_short_straight_round_dagger.png          Iron Short Dagger
+  iron_short_straight_spike_dagger.png          Iron Short Dagger
+  iron_short_curved_up_round_dagger.png         Iron Short Dagger
+  iron_short_curved_up_spike_dagger.png         Iron Short Dagger
+  iron_short_curved_down_round_dagger.png       Iron Short Dagger
+  iron_short_curved_down_spike_dagger.png       Iron Short Dagger
+  iron_short_round_round_dagger.png             Iron Short Dagger
+  iron_short_round_spike_dagger.png             Iron Short Dagger
+  iron_short_diamond_round_dagger.png           Iron Short Dagger
+  iron_short_diamond_spike_dagger.png           Iron Short Dagger
+  iron_serrated_curved_down_round_dagger.png    Iron Serrated Dagger
+  iron_single_oak_axe.png                       Iron Single Axe (oak)
+  iron_single_wrapped_axe.png                   Iron Single Axe (wrapped)
+  iron_single_long_axe.png                      Iron Single Axe (long)
+  steel_single_oak_axe.png                      Steel Single Axe (oak)
+  steel_single_wrapped_axe.png                  Steel Single Axe (wrapped)
+  steel_single_long_axe.png                     Steel Single Axe (long)
+  bronze_single_oak_axe.png                     Bronze Single Axe (oak)
+  bronze_single_wrapped_axe.png                 Bronze Single Axe (wrapped)
+  bronze_single_long_axe.png                    Bronze Single Axe (long)
+  shadow_single_oak_axe.png                     Shadow Single Axe (oak)
+  shadow_single_wrapped_axe.png                 Shadow Single Axe (wrapped)
+  shadow_single_long_axe.png                    Shadow Single Axe (long)
+  iron_double_oak_axe.png                       Iron Double Axe (oak)
+  iron_double_wrapped_axe.png                   Iron Double Axe (wrapped)
+  iron_double_long_axe.png                      Iron Double Axe (long)
+  steel_double_oak_axe.png                      Steel Double Axe (oak)
+  steel_double_wrapped_axe.png                  Steel Double Axe (wrapped)
+  steel_double_long_axe.png                     Steel Double Axe (long)
+  bronze_double_oak_axe.png                     Bronze Double Axe (oak)
+  bronze_double_wrapped_axe.png                 Bronze Double Axe (wrapped)
+  bronze_double_long_axe.png                    Bronze Double Axe (long)
+  shadow_double_oak_axe.png                     Shadow Double Axe (oak)
+  shadow_double_wrapped_axe.png                 Shadow Double Axe (wrapped)
+  shadow_double_long_axe.png                    Shadow Double Axe (long)
+  iron_crescent_oak_axe.png                     Iron Crescent Axe (oak)
+  iron_crescent_wrapped_axe.png                 Iron Crescent Axe (wrapped)
+  iron_crescent_long_axe.png                    Iron Crescent Axe (long)
+  steel_crescent_oak_axe.png                    Steel Crescent Axe (oak)
+  steel_crescent_wrapped_axe.png                Steel Crescent Axe (wrapped)
+  steel_crescent_long_axe.png                   Steel Crescent Axe (long)
+  bronze_crescent_oak_axe.png                   Bronze Crescent Axe (oak)
+  bronze_crescent_wrapped_axe.png               Bronze Crescent Axe (wrapped)
+  bronze_crescent_long_axe.png                  Bronze Crescent Axe (long)
+  shadow_crescent_oak_axe.png                   Shadow Crescent Axe (oak)
+  shadow_crescent_wrapped_axe.png               Shadow Crescent Axe (wrapped)
+  shadow_crescent_long_axe.png                  Shadow Crescent Axe (long)
+  iron_bearded_oak_axe.png                      Iron Bearded Axe (oak)
+  iron_bearded_wrapped_axe.png                  Iron Bearded Axe (wrapped)
+  iron_bearded_long_axe.png                     Iron Bearded Axe (long)
+  steel_bearded_oak_axe.png                     Steel Bearded Axe (oak)
+  steel_bearded_wrapped_axe.png                 Steel Bearded Axe (wrapped)
+  steel_bearded_long_axe.png                    Steel Bearded Axe (long)
+  bronze_bearded_oak_axe.png                    Bronze Bearded Axe (oak)
+  bronze_bearded_wrapped_axe.png                Bronze Bearded Axe (wrapped)
+  bronze_bearded_long_axe.png                   Bronze Bearded Axe (long)
+  shadow_bearded_oak_axe.png                    Shadow Bearded Axe (oak)
+  shadow_bearded_wrapped_axe.png                Shadow Bearded Axe (wrapped)
+  shadow_bearded_long_axe.png                   Shadow Bearded Axe (long)
+  iron_flanged_oak_mace.png                     Iron Flanged Mace (oak)
+  iron_flanged_ironshod_mace.png                Iron Flanged Mace (ironshod)
+  steel_flanged_oak_mace.png                    Steel Flanged Mace (oak)
+  steel_flanged_ironshod_mace.png               Steel Flanged Mace (ironshod)
+  bronze_flanged_oak_mace.png                   Bronze Flanged Mace (oak)
+  bronze_flanged_ironshod_mace.png              Bronze Flanged Mace (ironshod)
+  iron_spiked_oak_mace.png                      Iron Spiked Mace (oak)
+  iron_spiked_ironshod_mace.png                 Iron Spiked Mace (ironshod)
+  steel_spiked_oak_mace.png                     Steel Spiked Mace (oak)
+  steel_spiked_ironshod_mace.png                Steel Spiked Mace (ironshod)
+  bronze_spiked_oak_mace.png                    Bronze Spiked Mace (oak)
+  bronze_spiked_ironshod_mace.png               Bronze Spiked Mace (ironshod)
+  iron_morningstar_oak_mace.png                 Iron Morningstar Mace (oak)
+  iron_morningstar_ironshod_mace.png            Iron Morningstar Mace (ironshod)
+  steel_morningstar_oak_mace.png                Steel Morningstar Mace (oak)
+  steel_morningstar_ironshod_mace.png           Steel Morningstar Mace (ironshod)
+  bronze_morningstar_oak_mace.png               Bronze Morningstar Mace (oak)
+  bronze_morningstar_ironshod_mace.png          Bronze Morningstar Mace (ironshod)
+  iron_cube_oak_mace.png                        Iron Cube Mace (oak)
+  iron_cube_ironshod_mace.png                   Iron Cube Mace (ironshod)
+  steel_cube_oak_mace.png                       Steel Cube Mace (oak)
+  steel_cube_ironshod_mace.png                  Steel Cube Mace (ironshod)
+  bronze_cube_oak_mace.png                      Bronze Cube Mace (oak)
+  bronze_cube_ironshod_mace.png                 Bronze Cube Mace (ironshod)
+  iron_disc_oak_mace.png                        Iron Disc Mace (oak)
+  iron_disc_ironshod_mace.png                   Iron Disc Mace (ironshod)
+  steel_disc_oak_mace.png                       Steel Disc Mace (oak)
+  steel_disc_ironshod_mace.png                  Steel Disc Mace (ironshod)
+  bronze_disc_oak_mace.png                      Bronze Disc Mace (oak)
+  bronze_disc_ironshod_mace.png                 Bronze Disc Mace (ironshod)
+  iron_hammer_oak_mace.png                      Iron Hammer Mace (oak)
+  iron_hammer_ironshod_mace.png                 Iron Hammer Mace (ironshod)
+  steel_hammer_oak_mace.png                     Steel Hammer Mace (oak)
+  steel_hammer_ironshod_mace.png                Steel Hammer Mace (ironshod)
+  bronze_hammer_oak_mace.png                    Bronze Hammer Mace (oak)
+  bronze_hammer_ironshod_mace.png               Bronze Hammer Mace (ironshod)
+  iron_leaf_ash_spear.png                       Iron Leaf Spear (ash)
+  iron_leaf_darkwood_spear.png                  Iron Leaf Spear (darkwood)
+  steel_leaf_ash_spear.png                      Steel Leaf Spear (ash)
+  steel_leaf_darkwood_spear.png                 Steel Leaf Spear (darkwood)
+  bronze_leaf_ash_spear.png                     Bronze Leaf Spear (ash)
+  bronze_leaf_darkwood_spear.png                Bronze Leaf Spear (darkwood)
+  iron_diamond_ash_spear.png                    Iron Diamond Spear (ash)
+  iron_diamond_darkwood_spear.png               Iron Diamond Spear (darkwood)
+  steel_diamond_ash_spear.png                   Steel Diamond Spear (ash)
+  steel_diamond_darkwood_spear.png              Steel Diamond Spear (darkwood)
+  bronze_diamond_ash_spear.png                  Bronze Diamond Spear (ash)
+  bronze_diamond_darkwood_spear.png             Bronze Diamond Spear (darkwood)
+  iron_barbed_ash_spear.png                     Iron Barbed Spear (ash)
+  iron_barbed_darkwood_spear.png                Iron Barbed Spear (darkwood)
+  steel_barbed_ash_spear.png                    Steel Barbed Spear (ash)
+  steel_barbed_darkwood_spear.png               Steel Barbed Spear (darkwood)
+  bronze_barbed_ash_spear.png                   Bronze Barbed Spear (ash)
+  bronze_barbed_darkwood_spear.png              Bronze Barbed Spear (darkwood)
+  iron_trident_ash_spear.png                    Iron Trident Spear (ash)
+  iron_trident_darkwood_spear.png               Iron Trident Spear (darkwood)
+  steel_trident_ash_spear.png                   Steel Trident Spear (ash)
+  steel_trident_darkwood_spear.png              Steel Trident Spear (darkwood)
+  bronze_trident_ash_spear.png                  Bronze Trident Spear (ash)
+  bronze_trident_darkwood_spear.png             Bronze Trident Spear (darkwood)
+  iron_pike_ash_spear.png                       Iron Pike Spear (ash)
+  iron_pike_darkwood_spear.png                  Iron Pike Spear (darkwood)
+  steel_pike_ash_spear.png                      Steel Pike Spear (ash)
+  steel_pike_darkwood_spear.png                 Steel Pike Spear (darkwood)
+  bronze_pike_ash_spear.png                     Bronze Pike Spear (ash)
+  bronze_pike_darkwood_spear.png                Bronze Pike Spear (darkwood)
+  longbow_oak_plain_0.png                       Longbow (Oak, plain)
+  longbow_darkwood_nocked_1.png                 Longbow (Darkwood, nocked)
+  longbow_yew_wrapped_2.png                     Longbow (Yew, wrapped)
+  longbow_oak_tipped_3.png                      Longbow (Oak, tipped)
+  recurve_oak_plain_4.png                       Recurve (Oak, plain)
+  recurve_bronze_nocked_5.png                   Recurve (Bronze, nocked)
+  recurve_yew_wrapped_6.png                     Recurve (Yew, wrapped)
+  shortbow_oak_plain_7.png                      Shortbow (Oak, plain)
+  shortbow_yew_nocked_8.png                     Shortbow (Yew, nocked)
+  shortbow_darkwood_wrapped_9.png               Shortbow (Darkwood, wrapped)
+  crossbow_oak_plain_10.png                     Crossbow (Oak, plain)
+  crossbow_steel_nocked_11.png                  Crossbow (Steel, nocked)
+  longbow_bronze_nocked_12.png                  Longbow (Bronze, nocked)
+  recurve_oak_tipped_13.png                     Recurve (Oak, tipped)
+  shortbow_bronze_plain_14.png                  Shortbow (Bronze, plain)
+  crossbow_darkwood_wrapped_15.png              Crossbow (Darkwood, wrapped)
+  oak_staff_fire_orb.png                        Oak Staff of Fire Orb
+  oak_staff_frost_orb.png                       Oak Staff of Frost Orb
+  oak_staff_nature_orb.png                      Oak Staff of Nature Orb
+  oak_staff_shadow_orb.png                      Oak Staff of Shadow Orb
+  oak_staff_crystal.png                         Oak Staff of Crystal
+  oak_staff_skull.png                           Oak Staff of Skull
+  oak_staff_star.png                            Oak Staff of Star
+  oak_staff_moon.png                            Oak Staff of Moon
+  oak_staff_flame.png                           Oak Staff of Flame
+  oak_staff_feather.png                         Oak Staff of Feather
+  darkwood_staff_fire_orb.png                   Darkwood Staff of Fire Orb
+  darkwood_staff_frost_orb.png                  Darkwood Staff of Frost Orb
+  darkwood_staff_nature_orb.png                 Darkwood Staff of Nature Orb
+  darkwood_staff_shadow_orb.png                 Darkwood Staff of Shadow Orb
+  darkwood_staff_crystal.png                    Darkwood Staff of Crystal
+  darkwood_staff_skull.png                      Darkwood Staff of Skull
+  darkwood_staff_star.png                       Darkwood Staff of Star
+  darkwood_staff_moon.png                       Darkwood Staff of Moon
+  darkwood_staff_flame.png                      Darkwood Staff of Flame
+  darkwood_staff_feather.png                    Darkwood Staff of Feather
+  ironshod_staff_fire_orb.png                   Ironshod Staff of Fire Orb
+  ironshod_staff_frost_orb.png                  Ironshod Staff of Frost Orb
+  ironshod_staff_nature_orb.png                 Ironshod Staff of Nature Orb
+  ironshod_staff_shadow_orb.png                 Ironshod Staff of Shadow Orb
+  ironshod_staff_crystal.png                    Ironshod Staff of Crystal
+  ironshod_staff_skull.png                      Ironshod Staff of Skull
+  ironshod_staff_star.png                       Ironshod Staff of Star
+  ironshod_staff_moon.png                       Ironshod Staff of Moon
+  ironshod_staff_flame.png                      Ironshod Staff of Flame
+  ironshod_staff_feather.png                    Ironshod Staff of Feather
+  straight_wand_spark.png                       Straight Wand (spark)
+  straight_wand_star.png                        Straight Wand (star)
+  straight_wand_orb.png                         Straight Wand (orb)
+  straight_wand_crystal.png                     Straight Wand (crystal)
+  straight_wand_leaf.png                        Straight Wand (leaf)
+  straight_wand_ember.png                       Straight Wand (ember)
+  twisted_wand_spark.png                        Twisted Wand (spark)
+  twisted_wand_star.png                         Twisted Wand (star)
+  twisted_wand_orb.png                          Twisted Wand (orb)
+  twisted_wand_crystal.png                      Twisted Wand (crystal)
+  twisted_wand_leaf.png                         Twisted Wand (leaf)
+  twisted_wand_ember.png                        Twisted Wand (ember)
+  bent_wand_spark.png                           Bent Wand (spark)
+  bent_wand_star.png                            Bent Wand (star)
+  bent_wand_orb.png                             Bent Wand (orb)
+  bent_wand_crystal.png                         Bent Wand (crystal)
+  bent_wand_leaf.png                            Bent Wand (leaf)
+  bent_wand_ember.png                           Bent Wand (ember)
+  gnarled_wand_spark.png                        Gnarled Wand (spark)
+  gnarled_wand_star.png                         Gnarled Wand (star)
+  gnarled_wand_orb.png                          Gnarled Wand (orb)
+  gnarled_wand_crystal.png                      Gnarled Wand (crystal)
+  gnarled_wand_leaf.png                         Gnarled Wand (leaf)
+  gnarled_wand_ember.png                        Gnarled Wand (ember)
+
+Armor (161) - png32/armor/, png64/armor/
+------------------------------------------------------------
+  iron_round_shield.png                         Iron Round Shield
+  bronze_round_shield.png                       Bronze Round Shield
+  steel_round_cross_shield.png                  Steel Round Shield (cross)
+  iron_round_chevron_shield.png                 Iron Round Shield (chevron)
+  bronze_round_chevron_shield.png               Bronze Round Shield (chevron)
+  steel_round_stripe_shield.png                 Steel Round Shield (stripe)
+  iron_round_circle_shield.png                  Iron Round Shield (circle)
+  bronze_round_circle_shield.png                Bronze Round Shield (circle)
+  steel_round_skull_shield.png                  Steel Round Shield (skull)
+  iron_round_star_shield.png                    Iron Round Shield (star)
+  bronze_round_star_shield.png                  Bronze Round Shield (star)
+  steel_heater_shield.png                       Steel Heater Shield
+  iron_heater_cross_shield.png                  Iron Heater Shield (cross)
+  bronze_heater_cross_shield.png                Bronze Heater Shield (cross)
+  steel_heater_chevron_shield.png               Steel Heater Shield (chevron)
+  iron_heater_stripe_shield.png                 Iron Heater Shield (stripe)
+  bronze_heater_stripe_shield.png               Bronze Heater Shield (stripe)
+  steel_heater_circle_shield.png                Steel Heater Shield (circle)
+  iron_heater_skull_shield.png                  Iron Heater Shield (skull)
+  bronze_heater_skull_shield.png                Bronze Heater Shield (skull)
+  steel_heater_star_shield.png                  Steel Heater Shield (star)
+  iron_kite_shield.png                          Iron Kite Shield
+  bronze_kite_shield.png                        Bronze Kite Shield
+  steel_kite_cross_shield.png                   Steel Kite Shield (cross)
+  iron_kite_chevron_shield.png                  Iron Kite Shield (chevron)
+  bronze_kite_chevron_shield.png                Bronze Kite Shield (chevron)
+  steel_kite_stripe_shield.png                  Steel Kite Shield (stripe)
+  iron_kite_circle_shield.png                   Iron Kite Shield (circle)
+  bronze_kite_circle_shield.png                 Bronze Kite Shield (circle)
+  steel_kite_skull_shield.png                   Steel Kite Shield (skull)
+  iron_kite_star_shield.png                     Iron Kite Shield (star)
+  bronze_kite_star_shield.png                   Bronze Kite Shield (star)
+  steel_tower_shield.png                        Steel Tower Shield
+  iron_tower_cross_shield.png                   Iron Tower Shield (cross)
+  bronze_tower_cross_shield.png                 Bronze Tower Shield (cross)
+  steel_tower_chevron_shield.png                Steel Tower Shield (chevron)
+  iron_tower_stripe_shield.png                  Iron Tower Shield (stripe)
+  bronze_tower_stripe_shield.png                Bronze Tower Shield (stripe)
+  steel_tower_circle_shield.png                 Steel Tower Shield (circle)
+  iron_tower_skull_shield.png                   Iron Tower Shield (skull)
+  bronze_tower_skull_shield.png                 Bronze Tower Shield (skull)
+  steel_tower_star_shield.png                   Steel Tower Shield (star)
+  iron_buckler_shield.png                       Iron Buckler Shield
+  bronze_buckler_shield.png                     Bronze Buckler Shield
+  steel_buckler_cross_shield.png                Steel Buckler Shield (cross)
+  iron_buckler_chevron_shield.png               Iron Buckler Shield (chevron)
+  bronze_buckler_chevron_shield.png             Bronze Buckler Shield (chevron)
+  steel_buckler_stripe_shield.png               Steel Buckler Shield (stripe)
+  iron_buckler_circle_shield.png                Iron Buckler Shield (circle)
+  bronze_buckler_circle_shield.png              Bronze Buckler Shield (circle)
+  steel_buckler_skull_shield.png                Steel Buckler Shield (skull)
+  iron_buckler_star_shield.png                  Iron Buckler Shield (star)
+  bronze_buckler_star_shield.png                Bronze Buckler Shield (star)
+  steel_oval_shield.png                         Steel Oval Shield
+  iron_oval_cross_shield.png                    Iron Oval Shield (cross)
+  bronze_oval_cross_shield.png                  Bronze Oval Shield (cross)
+  steel_oval_chevron_shield.png                 Steel Oval Shield (chevron)
+  iron_oval_stripe_shield.png                   Iron Oval Shield (stripe)
+  bronze_oval_stripe_shield.png                 Bronze Oval Shield (stripe)
+  steel_oval_circle_shield.png                  Steel Oval Shield (circle)
+  iron_oval_skull_shield.png                    Iron Oval Shield (skull)
+  bronze_oval_skull_shield.png                  Bronze Oval Shield (skull)
+  steel_oval_star_shield.png                    Steel Oval Shield (star)
+  iron_diamond_shield.png                       Iron Diamond Shield
+  bronze_diamond_shield.png                     Bronze Diamond Shield
+  steel_diamond_cross_shield.png                Steel Diamond Shield (cross)
+  iron_diamond_chevron_shield.png               Iron Diamond Shield (chevron)
+  bronze_diamond_chevron_shield.png             Bronze Diamond Shield (chevron)
+  steel_diamond_stripe_shield.png               Steel Diamond Shield (stripe)
+  iron_diamond_circle_shield.png                Iron Diamond Shield (circle)
+  bronze_diamond_circle_shield.png              Bronze Diamond Shield (circle)
+  steel_diamond_skull_shield.png                Steel Diamond Shield (skull)
+  iron_knight_helmet.png                        Iron Knight Helmet
+  steel_knight_helmet.png                       Steel Knight Helmet
+  bronze_knight_helmet.png                      Bronze Knight Helmet
+  iron_nasal_helmet.png                         Iron Nasal Helmet
+  steel_nasal_helmet.png                        Steel Nasal Helmet
+  bronze_nasal_helmet.png                       Bronze Nasal Helmet
+  iron_viking_helmet.png                        Iron Viking Helmet
+  steel_viking_helmet.png                       Steel Viking Helmet
+  bronze_viking_helmet.png                      Bronze Viking Helmet
+  iron_kettle_helmet.png                        Iron Kettle Helmet
+  steel_kettle_helmet.png                       Steel Kettle Helmet
+  bronze_kettle_helmet.png                      Bronze Kettle Helmet
+  hood_helmet.png                               Hood Helmet
+  crown_helmet.png                              Crown Helmet
+  circlet_helmet.png                            Circlet Helmet
+  mage_hat_helmet.png                           Mage Hat Helmet
+  iron_cuirass_chestplate.png                   Iron Cuirass Chestplate
+  steel_cuirass_chestplate.png                  Steel Cuirass Chestplate
+  bronze_cuirass_chestplate.png                 Bronze Cuirass Chestplate
+  mithril_cuirass_chestplate.png                Mithril Cuirass Chestplate
+  iron_chainmail_chestplate.png                 Iron Chainmail Chestplate
+  steel_chainmail_chestplate.png                Steel Chainmail Chestplate
+  bronze_chainmail_chestplate.png               Bronze Chainmail Chestplate
+  mithril_chainmail_chestplate.png              Mithril Chainmail Chestplate
+  iron_plate_chestplate.png                     Iron Plate Chestplate
+  steel_plate_chestplate.png                    Steel Plate Chestplate
+  bronze_plate_chestplate.png                   Bronze Plate Chestplate
+  mithril_plate_chestplate.png                  Mithril Plate Chestplate
+  leather_chestplate.png                        Leather Chestplate
+  robes_chestplate.png                          Robes Chestplate
+  iron_greave.png                               Iron Greave
+  steel_greave.png                              Steel Greave
+  bronze_greave.png                             Bronze Greave
+  leather_greave.png                            Leather Greave
+  iron_sabaton.png                              Iron Sabaton
+  steel_sabaton.png                             Steel Sabaton
+  bronze_sabaton.png                            Bronze Sabaton
+  leather_sabaton.png                           Leather Sabaton
+  boot.png                                      Boot
+  shoe.png                                      Shoe
+  iron_mitten_gauntlet.png                      Iron Mitten Gauntlet
+  steel_mitten_gauntlet.png                     Steel Mitten Gauntlet
+  bronze_mitten_gauntlet.png                    Bronze Mitten Gauntlet
+  leather_mitten_gauntlet.png                   Leather Mitten Gauntlet
+  iron_plate_gauntlet.png                       Iron Plate Gauntlet
+  steel_plate_gauntlet.png                      Steel Plate Gauntlet
+  bronze_plate_gauntlet.png                     Bronze Plate Gauntlet
+  leather_plate_gauntlet.png                    Leather Plate Gauntlet
+  iron_clawed_gauntlet.png                      Iron Clawed Gauntlet
+  steel_clawed_gauntlet.png                     Steel Clawed Gauntlet
+  bronze_clawed_gauntlet.png                    Bronze Clawed Gauntlet
+  leather_clawed_gauntlet.png                   Leather Clawed Gauntlet
+  glove_gauntlet.png                            Glove Gauntlet
+  iron_round_pauldron.png                       Iron Round Pauldron
+  steel_round_pauldron.png                      Steel Round Pauldron
+  bronze_round_pauldron.png                     Bronze Round Pauldron
+  gold_round_pauldron.png                       Gold Round Pauldron
+  iron_spiked_pauldron.png                      Iron Spiked Pauldron
+  steel_spiked_pauldron.png                     Steel Spiked Pauldron
+  bronze_spiked_pauldron.png                    Bronze Spiked Pauldron
+  gold_spiked_pauldron.png                      Gold Spiked Pauldron
+  iron_layered_pauldron.png                     Iron Layered Pauldron
+  steel_layered_pauldron.png                    Steel Layered Pauldron
+  bronze_layered_pauldron.png                   Bronze Layered Pauldron
+  gold_layered_pauldron.png                     Gold Layered Pauldron
+  brown_square_belt.png                         Brown Belt (square buckle)
+  black_square_belt.png                         Black Belt (square buckle)
+  red_square_belt.png                           Red Belt (square buckle)
+  brown_round_belt.png                          Brown Belt (round buckle)
+  black_round_belt.png                          Black Belt (round buckle)
+  red_round_belt.png                            Red Belt (round buckle)
+  brown_skull_belt.png                          Brown Belt (skull buckle)
+  black_skull_belt.png                          Black Belt (skull buckle)
+  red_skull_belt.png                            Red Belt (skull buckle)
+  brown_gem_belt.png                            Brown Belt (gem buckle)
+  black_gem_belt.png                            Black Belt (gem buckle)
+  red_gem_belt.png                              Red Belt (gem buckle)
+  red_traveler_cloak.png                        Red Traveler Cloak
+  blue_traveler_cloak.png                       Blue Traveler Cloak
+  green_traveler_cloak.png                      Green Traveler Cloak
+  purple_traveler_cloak.png                     Purple Traveler Cloak
+  red_royal_cloak.png                           Red Royal Cloak
+  blue_royal_cloak.png                          Blue Royal Cloak
+  green_royal_cloak.png                         Green Royal Cloak
+  purple_royal_cloak.png                        Purple Royal Cloak
+  red_hooded_cloak.png                          Red Hooded Cloak
+  blue_hooded_cloak.png                         Blue Hooded Cloak
+  green_hooded_cloak.png                        Green Hooded Cloak
+  purple_hooded_cloak.png                       Purple Hooded Cloak
+
+Potions & Consumables (174) - png32/potions/, png64/potions/
+------------------------------------------------------------
+  healing_potion_flask_cork.png                 Healing Potion (flask, cork)
+  healing_potion_flask.png                      Healing Potion (flask)
+  mana_potion_flask_cap.png                     Mana Potion (flask, cap)
+  poison_potion_flask_cork.png                  Poison Potion (flask, cork)
+  poison_potion_flask.png                       Poison Potion (flask)
+  shadow_potion_flask_cap.png                   Shadow Potion (flask, cap)
+  fire_potion_flask_cork.png                    Fire Potion (flask, cork)
+  fire_potion_flask.png                         Fire Potion (flask)
+  frost_potion_flask_cap.png                    Frost Potion (flask, cap)
+  nature_potion_flask_cork.png                  Nature Potion (flask, cork)
+  nature_potion_flask.png                       Nature Potion (flask)
+  love_potion_flask_cap.png                     Love Potion (flask, cap)
+  holy_potion_flask_cork.png                    Holy Potion (flask, cork)
+  holy_potion_flask.png                         Holy Potion (flask)
+  stamina_potion_flask_cap.png                  Stamina Potion (flask, cap)
+  healing_potion_tall_vial_cork.png             Healing Potion (tall vial, cork)
+  healing_potion_tall_vial.png                  Healing Potion (tall vial)
+  mana_potion_tall_vial_cap.png                 Mana Potion (tall vial, cap)
+  poison_potion_tall_vial_cork.png              Poison Potion (tall vial, cork)
+  poison_potion_tall_vial.png                   Poison Potion (tall vial)
+  shadow_potion_tall_vial_cap.png               Shadow Potion (tall vial, cap)
+  fire_potion_tall_vial_cork.png                Fire Potion (tall vial, cork)
+  fire_potion_tall_vial.png                     Fire Potion (tall vial)
+  frost_potion_tall_vial_cap.png                Frost Potion (tall vial, cap)
+  nature_potion_tall_vial_cork.png              Nature Potion (tall vial, cork)
+  nature_potion_tall_vial.png                   Nature Potion (tall vial)
+  love_potion_tall_vial_cap.png                 Love Potion (tall vial, cap)
+  holy_potion_tall_vial_cork.png                Holy Potion (tall vial, cork)
+  holy_potion_tall_vial.png                     Holy Potion (tall vial)
+  stamina_potion_tall_vial_cap.png              Stamina Potion (tall vial, cap)
+  healing_potion_square_bottle_cork.png         Healing Potion (square bottle, cork)
+  healing_potion_square_bottle.png              Healing Potion (square bottle)
+  mana_potion_square_bottle_cap.png             Mana Potion (square bottle, cap)
+  poison_potion_square_bottle_cork.png          Poison Potion (square bottle, cork)
+  poison_potion_square_bottle.png               Poison Potion (square bottle)
+  shadow_potion_square_bottle_cap.png           Shadow Potion (square bottle, cap)
+  fire_potion_square_bottle_cork.png            Fire Potion (square bottle, cork)
+  fire_potion_square_bottle.png                 Fire Potion (square bottle)
+  frost_potion_square_bottle_cap.png            Frost Potion (square bottle, cap)
+  nature_potion_square_bottle_cork.png          Nature Potion (square bottle, cork)
+  nature_potion_square_bottle.png               Nature Potion (square bottle)
+  love_potion_square_bottle_cap.png             Love Potion (square bottle, cap)
+  holy_potion_square_bottle_cork.png            Holy Potion (square bottle, cork)
+  holy_potion_square_bottle.png                 Holy Potion (square bottle)
+  stamina_potion_square_bottle_cap.png          Stamina Potion (square bottle, cap)
+  healing_potion_gourd_cork.png                 Healing Potion (gourd, cork)
+  healing_potion_gourd.png                      Healing Potion (gourd)
+  mana_potion_gourd_cap.png                     Mana Potion (gourd, cap)
+  poison_potion_gourd_cork.png                  Poison Potion (gourd, cork)
+  poison_potion_gourd.png                       Poison Potion (gourd)
+  shadow_potion_gourd_cap.png                   Shadow Potion (gourd, cap)
+  fire_potion_gourd_cork.png                    Fire Potion (gourd, cork)
+  fire_potion_gourd.png                         Fire Potion (gourd)
+  frost_potion_gourd_cap.png                    Frost Potion (gourd, cap)
+  nature_potion_gourd_cork.png                  Nature Potion (gourd, cork)
+  nature_potion_gourd.png                       Nature Potion (gourd)
+  love_potion_gourd_cap.png                     Love Potion (gourd, cap)
+  holy_potion_gourd_cork.png                    Holy Potion (gourd, cork)
+  holy_potion_gourd.png                         Holy Potion (gourd)
+  stamina_potion_gourd_cap.png                  Stamina Potion (gourd, cap)
+  healing_potion_teardrop_cork.png              Healing Potion (teardrop, cork)
+  healing_potion_teardrop.png                   Healing Potion (teardrop)
+  mana_potion_teardrop_cap.png                  Mana Potion (teardrop, cap)
+  poison_potion_teardrop_cork.png               Poison Potion (teardrop, cork)
+  poison_potion_teardrop.png                    Poison Potion (teardrop)
+  shadow_potion_teardrop_cap.png                Shadow Potion (teardrop, cap)
+  fire_potion_teardrop_cork.png                 Fire Potion (teardrop, cork)
+  fire_potion_teardrop.png                      Fire Potion (teardrop)
+  frost_potion_teardrop_cap.png                 Frost Potion (teardrop, cap)
+  nature_potion_teardrop_cork.png               Nature Potion (teardrop, cork)
+  nature_potion_teardrop.png                    Nature Potion (teardrop)
+  love_potion_teardrop_cap.png                  Love Potion (teardrop, cap)
+  holy_potion_teardrop_cork.png                 Holy Potion (teardrop, cork)
+  holy_potion_teardrop.png                      Holy Potion (teardrop)
+  stamina_potion_teardrop_cap.png               Stamina Potion (teardrop, cap)
+  healing_potion_wide_jar_cork.png              Healing Potion (wide jar, cork)
+  healing_potion_wide_jar.png                   Healing Potion (wide jar)
+  mana_potion_wide_jar_cap.png                  Mana Potion (wide jar, cap)
+  poison_potion_wide_jar_cork.png               Poison Potion (wide jar, cork)
+  poison_potion_wide_jar.png                    Poison Potion (wide jar)
+  shadow_potion_wide_jar_cap.png                Shadow Potion (wide jar, cap)
+  fire_potion_wide_jar_cork.png                 Fire Potion (wide jar, cork)
+  fire_potion_wide_jar.png                      Fire Potion (wide jar)
+  frost_potion_wide_jar_cap.png                 Frost Potion (wide jar, cap)
+  nature_potion_wide_jar_cork.png               Nature Potion (wide jar, cork)
+  nature_potion_wide_jar.png                    Nature Potion (wide jar)
+  love_potion_wide_jar_cap.png                  Love Potion (wide jar, cap)
+  holy_potion_wide_jar_cork.png                 Holy Potion (wide jar, cork)
+  holy_potion_wide_jar.png                      Holy Potion (wide jar)
+  stamina_potion_wide_jar_cap.png               Stamina Potion (wide jar, cap)
+  healing_potion_phial_cork.png                 Healing Potion (phial, cork)
+  healing_potion_phial.png                      Healing Potion (phial)
+  mana_potion_phial_cap.png                     Mana Potion (phial, cap)
+  poison_potion_phial_cork.png                  Poison Potion (phial, cork)
+  poison_potion_phial.png                       Poison Potion (phial)
+  shadow_potion_phial_cap.png                   Shadow Potion (phial, cap)
+  fire_potion_phial_cork.png                    Fire Potion (phial, cork)
+  fire_potion_phial.png                         Fire Potion (phial)
+  frost_potion_phial_cap.png                    Frost Potion (phial, cap)
+  nature_potion_phial_cork.png                  Nature Potion (phial, cork)
+  nature_potion_phial.png                       Nature Potion (phial)
+  love_potion_phial_cap.png                     Love Potion (phial, cap)
+  holy_potion_phial_cork.png                    Holy Potion (phial, cork)
+  holy_potion_phial.png                         Holy Potion (phial)
+  stamina_potion_phial_cap.png                  Stamina Potion (phial, cap)
+  healing_potion_round_belly_cork.png           Healing Potion (round belly, cork)
+  healing_potion_round_belly.png                Healing Potion (round belly)
+  mana_potion_round_belly_cap.png               Mana Potion (round belly, cap)
+  poison_potion_round_belly_cork.png            Poison Potion (round belly, cork)
+  poison_potion_round_belly.png                 Poison Potion (round belly)
+  bread_fresh.png                               Bread (fresh)
+  bread_cooked.png                              Bread (cooked)
+  meat_fresh.png                                Meat (fresh)
+  meat_cooked.png                               Meat (cooked)
+  apple_fresh.png                               Apple (fresh)
+  apple_cooked.png                              Apple (cooked)
+  cheese_fresh.png                              Cheese (fresh)
+  cheese_cooked.png                             Cheese (cooked)
+  fish_fresh.png                                Fish (fresh)
+  fish_cooked.png                               Fish (cooked)
+  mushroom_fresh.png                            Mushroom (fresh)
+  mushroom_cooked.png                           Mushroom (cooked)
+  pie_fresh.png                                 Pie (fresh)
+  pie_cooked.png                                Pie (cooked)
+  carrot_fresh.png                              Carrot (fresh)
+  carrot_cooked.png                             Carrot (cooked)
+  cake_fresh.png                                Cake (fresh)
+  cake_cooked.png                               Cake (cooked)
+  egg_fresh.png                                 Egg (fresh)
+  egg_cooked.png                                Egg (cooked)
+  berries_fresh.png                             Berries (fresh)
+  berries_cooked.png                            Berries (cooked)
+  drumstick_fresh.png                           Drumstick (fresh)
+  drumstick_cooked.png                          Drumstick (cooked)
+  herb_sprig_sprout.png                         Sprig Herb (sprout)
+  herb_sprig_mature.png                         Sprig Herb (mature)
+  herb_flower_sprout.png                        Flower Herb (sprout)
+  herb_flower_mature.png                        Flower Herb (mature)
+  herb_root_sprout.png                          Root Herb (sprout)
+  herb_root_mature.png                          Root Herb (mature)
+  herb_bluecap_sprout.png                       Bluecap Herb (sprout)
+  herb_bluecap_mature.png                       Bluecap Herb (mature)
+  herb_glowshroom_sprout.png                    Glowshroom Herb (sprout)
+  herb_glowshroom_mature.png                    Glowshroom Herb (mature)
+  herb_thorn_sprout.png                         Thorn Herb (sprout)
+  herb_thorn_mature.png                         Thorn Herb (mature)
+  herb_moss_sprout.png                          Moss Herb (sprout)
+  herb_moss_mature.png                          Moss Herb (mature)
+  herb_sunpetal_sprout.png                      Sunpetal Herb (sprout)
+  herb_sunpetal_mature.png                      Sunpetal Herb (mature)
+  healing_elixir_slim.png                       Healing Elixir (slim)
+  mana_elixir_slim.png                          Mana Elixir (slim)
+  poison_elixir_slim.png                        Poison Elixir (slim)
+  shadow_elixir_slim.png                        Shadow Elixir (slim)
+  fire_elixir_slim.png                          Fire Elixir (slim)
+  frost_elixir_slim.png                         Frost Elixir (slim)
+  nature_elixir_slim.png                        Nature Elixir (slim)
+  love_elixir_slim.png                          Love Elixir (slim)
+  holy_elixir_slim.png                          Holy Elixir (slim)
+  stamina_elixir_slim.png                       Stamina Elixir (slim)
+  healing_elixir_bulb.png                       Healing Elixir (bulb)
+  mana_elixir_bulb.png                          Mana Elixir (bulb)
+  poison_elixir_bulb.png                        Poison Elixir (bulb)
+  shadow_elixir_bulb.png                        Shadow Elixir (bulb)
+  fire_elixir_bulb.png                          Fire Elixir (bulb)
+  frost_elixir_bulb.png                         Frost Elixir (bulb)
+  nature_elixir_bulb.png                        Nature Elixir (bulb)
+  love_elixir_bulb.png                          Love Elixir (bulb)
+  holy_elixir_bulb.png                          Holy Elixir (bulb)
+  stamina_elixir_bulb.png                       Stamina Elixir (bulb)
+  healing_elixir_twin.png                       Healing Elixir (twin)
+  mana_elixir_twin.png                          Mana Elixir (twin)
+  poison_elixir_twin.png                        Poison Elixir (twin)
+  shadow_elixir_twin.png                        Shadow Elixir (twin)
+
+Magic (147) - png32/magic/, png64/magic/
+------------------------------------------------------------
+  ember_rune_cross.png                          Ember Rune (cross)
+  frost_rune_cross.png                          Frost Rune (cross)
+  venom_rune_cross.png                          Venom Rune (cross)
+  shadow_rune_cross.png                         Shadow Rune (cross)
+  storm_rune_cross.png                          Storm Rune (cross)
+  blood_rune_cross.png                          Blood Rune (cross)
+  ember_rune_x.png                              Ember Rune (x)
+  frost_rune_x.png                              Frost Rune (x)
+  venom_rune_x.png                              Venom Rune (x)
+  shadow_rune_x.png                             Shadow Rune (x)
+  storm_rune_x.png                              Storm Rune (x)
+  blood_rune_x.png                              Blood Rune (x)
+  ember_rune_triangle.png                       Ember Rune (triangle)
+  frost_rune_triangle.png                       Frost Rune (triangle)
+  venom_rune_triangle.png                       Venom Rune (triangle)
+  shadow_rune_triangle.png                      Shadow Rune (triangle)
+  storm_rune_triangle.png                       Storm Rune (triangle)
+  blood_rune_triangle.png                       Blood Rune (triangle)
+  ember_rune_square.png                         Ember Rune (square)
+  frost_rune_square.png                         Frost Rune (square)
+  venom_rune_square.png                         Venom Rune (square)
+  shadow_rune_square.png                        Shadow Rune (square)
+  storm_rune_square.png                         Storm Rune (square)
+  blood_rune_square.png                         Blood Rune (square)
+  ember_rune_zigzag.png                         Ember Rune (zigzag)
+  frost_rune_zigzag.png                         Frost Rune (zigzag)
+  venom_rune_zigzag.png                         Venom Rune (zigzag)
+  shadow_rune_zigzag.png                        Shadow Rune (zigzag)
+  storm_rune_zigzag.png                         Storm Rune (zigzag)
+  blood_rune_zigzag.png                         Blood Rune (zigzag)
+  ember_rune_dots.png                           Ember Rune (dots)
+  frost_rune_dots.png                           Frost Rune (dots)
+  venom_rune_dots.png                           Venom Rune (dots)
+  shadow_rune_dots.png                          Shadow Rune (dots)
+  storm_rune_dots.png                           Storm Rune (dots)
+  blood_rune_dots.png                           Blood Rune (dots)
+  ember_rune_star.png                           Ember Rune (star)
+  frost_rune_star.png                           Frost Rune (star)
+  venom_rune_star.png                           Venom Rune (star)
+  shadow_rune_star.png                          Shadow Rune (star)
+  storm_rune_star.png                           Storm Rune (star)
+  blood_rune_star.png                           Blood Rune (star)
+  ember_rune_diamond.png                        Ember Rune (diamond)
+  frost_rune_diamond.png                        Frost Rune (diamond)
+  venom_rune_diamond.png                        Venom Rune (diamond)
+  shadow_rune_diamond.png                       Shadow Rune (diamond)
+  storm_rune_diamond.png                        Storm Rune (diamond)
+  blood_rune_diamond.png                        Blood Rune (diamond)
+  ember_rune_wave.png                           Ember Rune (wave)
+  frost_rune_wave.png                           Frost Rune (wave)
+  venom_rune_wave.png                           Venom Rune (wave)
+  shadow_rune_wave.png                          Shadow Rune (wave)
+  storm_rune_wave.png                           Storm Rune (wave)
+  blood_rune_wave.png                           Blood Rune (wave)
+  ember_rune_fork.png                           Ember Rune (fork)
+  frost_rune_fork.png                           Frost Rune (fork)
+  venom_rune_fork.png                           Venom Rune (fork)
+  shadow_rune_fork.png                          Shadow Rune (fork)
+  storm_rune_fork.png                           Storm Rune (fork)
+  blood_rune_fork.png                           Blood Rune (fork)
+  fire_orb_plain.png                            Fire Orb (plain)
+  fire_orb_swirl.png                            Fire Orb (swirl)
+  frost_orb_plain.png                           Frost Orb (plain)
+  frost_orb_swirl.png                           Frost Orb (swirl)
+  nature_orb_plain.png                          Nature Orb (plain)
+  nature_orb_swirl.png                          Nature Orb (swirl)
+  shadow_orb_plain.png                          Shadow Orb (plain)
+  shadow_orb_swirl.png                          Shadow Orb (swirl)
+  arcane_orb_plain.png                          Arcane Orb (plain)
+  arcane_orb_swirl.png                          Arcane Orb (swirl)
+  holy_orb_plain.png                            Holy Orb (plain)
+  holy_orb_swirl.png                            Holy Orb (swirl)
+  blood_orb_plain.png                           Blood Orb (plain)
+  blood_orb_swirl.png                           Blood Orb (swirl)
+  storm_orb_plain.png                           Storm Orb (plain)
+  storm_orb_swirl.png                           Storm Orb (swirl)
+  open_scroll_wax_red.png                       Open Scroll (wax red)
+  open_scroll_wax_blue.png                      Open Scroll (wax blue)
+  open_scroll_gold.png                          Open Scroll (gold)
+  open_scroll_none.png                          Open Scroll (none)
+  rolled_scroll_wax_red.png                     Rolled Scroll (wax red)
+  rolled_scroll_wax_blue.png                    Rolled Scroll (wax blue)
+  rolled_scroll_gold.png                        Rolled Scroll (gold)
+  rolled_scroll_none.png                        Rolled Scroll (none)
+  tied_scroll_wax_red.png                       Tied Scroll (wax red)
+  tied_scroll_wax_blue.png                      Tied Scroll (wax blue)
+  tied_scroll_gold.png                          Tied Scroll (gold)
+  tied_scroll_none.png                          Tied Scroll (none)
+  torn_scroll_wax_red.png                       Torn Scroll (wax red)
+  torn_scroll_wax_blue.png                      Torn Scroll (wax blue)
+  torn_scroll_gold.png                          Torn Scroll (gold)
+  torn_scroll_none.png                          Torn Scroll (none)
+  ancient_scroll_wax_red.png                    Ancient Scroll (wax red)
+  ancient_scroll_wax_blue.png                   Ancient Scroll (wax blue)
+  ancient_scroll_gold.png                       Ancient Scroll (gold)
+  ancient_scroll_none.png                       Ancient Scroll (none)
+  crimson_spellbook_star.png                    Crimson Spellbook (star)
+  crimson_spellbook_moon.png                    Crimson Spellbook (moon)
+  crimson_spellbook_eye.png                     Crimson Spellbook (eye)
+  azure_spellbook_star.png                      Azure Spellbook (star)
+  azure_spellbook_moon.png                      Azure Spellbook (moon)
+  azure_spellbook_eye.png                       Azure Spellbook (eye)
+  emerald_spellbook_star.png                    Emerald Spellbook (star)
+  emerald_spellbook_moon.png                    Emerald Spellbook (moon)
+  emerald_spellbook_eye.png                     Emerald Spellbook (eye)
+  violet_spellbook_star.png                     Violet Spellbook (star)
+  violet_spellbook_moon.png                     Violet Spellbook (moon)
+  violet_spellbook_eye.png                      Violet Spellbook (eye)
+  obsidian_spellbook_star.png                   Obsidian Spellbook (star)
+  obsidian_spellbook_moon.png                   Obsidian Spellbook (moon)
+  obsidian_spellbook_eye.png                    Obsidian Spellbook (eye)
+  parchment_spellbook_star.png                  Parchment Spellbook (star)
+  parchment_spellbook_moon.png                  Parchment Spellbook (moon)
+  parchment_spellbook_eye.png                   Parchment Spellbook (eye)
+  teal_spellbook_star.png                       Teal Spellbook (star)
+  teal_spellbook_moon.png                       Teal Spellbook (moon)
+  teal_spellbook_eye.png                        Teal Spellbook (eye)
+  ruby_crystal_shard.png                        Ruby Crystal (shard)
+  sapphire_crystal_shard.png                    Sapphire Crystal (shard)
+  emerald_crystal_shard.png                     Emerald Crystal (shard)
+  amethyst_crystal_shard.png                    Amethyst Crystal (shard)
+  topaz_crystal_shard.png                       Topaz Crystal (shard)
+  aqua_crystal_shard.png                        Aqua Crystal (shard)
+  ruby_crystal_cluster.png                      Ruby Crystal (cluster)
+  sapphire_crystal_cluster.png                  Sapphire Crystal (cluster)
+  emerald_crystal_cluster.png                   Emerald Crystal (cluster)
+  amethyst_crystal_cluster.png                  Amethyst Crystal (cluster)
+  topaz_crystal_cluster.png                     Topaz Crystal (cluster)
+  aqua_crystal_cluster.png                      Aqua Crystal (cluster)
+  ruby_crystal_prism.png                        Ruby Crystal (prism)
+  sapphire_crystal_prism.png                    Sapphire Crystal (prism)
+  emerald_crystal_prism.png                     Emerald Crystal (prism)
+  amethyst_crystal_prism.png                    Amethyst Crystal (prism)
+  topaz_crystal_prism.png                       Topaz Crystal (prism)
+  aqua_crystal_prism.png                        Aqua Crystal (prism)
+  ruby_crystal_geode.png                        Ruby Crystal (geode)
+  sapphire_crystal_geode.png                    Sapphire Crystal (geode)
+  emerald_crystal_geode.png                     Emerald Crystal (geode)
+  amethyst_crystal_geode.png                    Amethyst Crystal (geode)
+  topaz_crystal_geode.png                       Topaz Crystal (geode)
+  aqua_crystal_geode.png                        Aqua Crystal (geode)
+  ruby_crystal_obelisk.png                      Ruby Crystal (obelisk)
+  sapphire_crystal_obelisk.png                  Sapphire Crystal (obelisk)
+  emerald_crystal_obelisk.png                   Emerald Crystal (obelisk)
+  amethyst_crystal_obelisk.png                  Amethyst Crystal (obelisk)
+  topaz_crystal_obelisk.png                     Topaz Crystal (obelisk)
+  aqua_crystal_obelisk.png                      Aqua Crystal (obelisk)
+
+Treasure (164) - png32/treasure/, png64/treasure/
+------------------------------------------------------------
+  gold_coins_single.png                         Gold Coins (single)
+  gold_coins_stack.png                          Gold Coins (stack)
+  gold_coins_pile.png                           Gold Coins (pile)
+  gold_coins_scattered.png                      Gold Coins (scattered)
+  silver_coins_single.png                       Silver Coins (single)
+  silver_coins_stack.png                        Silver Coins (stack)
+  silver_coins_pile.png                         Silver Coins (pile)
+  silver_coins_scattered.png                    Silver Coins (scattered)
+  bronze_coins_single.png                       Bronze Coins (single)
+  bronze_coins_stack.png                        Bronze Coins (stack)
+  bronze_coins_pile.png                         Bronze Coins (pile)
+  bronze_coins_scattered.png                    Bronze Coins (scattered)
+  copper_coins_single.png                       Copper Coins (single)
+  copper_coins_stack.png                        Copper Coins (stack)
+  copper_coins_pile.png                         Copper Coins (pile)
+  copper_coins_scattered.png                    Copper Coins (scattered)
+  mithril_coins_single.png                      Mithril Coins (single)
+  mithril_coins_stack.png                       Mithril Coins (stack)
+  mithril_coins_pile.png                        Mithril Coins (pile)
+  mithril_coins_scattered.png                   Mithril Coins (scattered)
+  ruby_round_gem.png                            Ruby Gem (round)
+  sapphire_round_gem.png                        Sapphire Gem (round)
+  emerald_round_gem.png                         Emerald Gem (round)
+  amethyst_round_gem.png                        Amethyst Gem (round)
+  topaz_round_gem.png                           Topaz Gem (round)
+  aqua_round_gem.png                            Aqua Gem (round)
+  rose_round_gem.png                            Rose Gem (round)
+  ruby_diamond_gem.png                          Ruby Gem (diamond)
+  sapphire_diamond_gem.png                      Sapphire Gem (diamond)
+  emerald_diamond_gem.png                       Emerald Gem (diamond)
+  amethyst_diamond_gem.png                      Amethyst Gem (diamond)
+  topaz_diamond_gem.png                         Topaz Gem (diamond)
+  aqua_diamond_gem.png                          Aqua Gem (diamond)
+  rose_diamond_gem.png                          Rose Gem (diamond)
+  ruby_emerald_gem.png                          Ruby Gem (emerald)
+  sapphire_emerald_gem.png                      Sapphire Gem (emerald)
+  emerald_emerald_gem.png                       Emerald Gem (emerald)
+  amethyst_emerald_gem.png                      Amethyst Gem (emerald)
+  topaz_emerald_gem.png                         Topaz Gem (emerald)
+  aqua_emerald_gem.png                          Aqua Gem (emerald)
+  rose_emerald_gem.png                          Rose Gem (emerald)
+  ruby_triangle_gem.png                         Ruby Gem (triangle)
+  sapphire_triangle_gem.png                     Sapphire Gem (triangle)
+  emerald_triangle_gem.png                      Emerald Gem (triangle)
+  amethyst_triangle_gem.png                     Amethyst Gem (triangle)
+  topaz_triangle_gem.png                        Topaz Gem (triangle)
+  aqua_triangle_gem.png                         Aqua Gem (triangle)
+  rose_triangle_gem.png                         Rose Gem (triangle)
+  ruby_oval_gem.png                             Ruby Gem (oval)
+  sapphire_oval_gem.png                         Sapphire Gem (oval)
+  emerald_oval_gem.png                          Emerald Gem (oval)
+  amethyst_oval_gem.png                         Amethyst Gem (oval)
+  topaz_oval_gem.png                            Topaz Gem (oval)
+  aqua_oval_gem.png                             Aqua Gem (oval)
+  rose_oval_gem.png                             Rose Gem (oval)
+  ruby_hexagon_gem.png                          Ruby Gem (hexagon)
+  sapphire_hexagon_gem.png                      Sapphire Gem (hexagon)
+  emerald_hexagon_gem.png                       Emerald Gem (hexagon)
+  amethyst_hexagon_gem.png                      Amethyst Gem (hexagon)
+  topaz_hexagon_gem.png                         Topaz Gem (hexagon)
+  aqua_hexagon_gem.png                          Aqua Gem (hexagon)
+  rose_hexagon_gem.png                          Rose Gem (hexagon)
+  ruby_shard_gem.png                            Ruby Gem (shard)
+  sapphire_shard_gem.png                        Sapphire Gem (shard)
+  emerald_shard_gem.png                         Emerald Gem (shard)
+  amethyst_shard_gem.png                        Amethyst Gem (shard)
+  topaz_shard_gem.png                           Topaz Gem (shard)
+  aqua_shard_gem.png                            Aqua Gem (shard)
+  rose_shard_gem.png                            Rose Gem (shard)
+  wooden_chest_closed.png                       Wooden Chest (closed)
+  wooden_chest_open.png                         Wooden Chest (open)
+  wooden_chest_locked.png                       Wooden Chest (locked)
+  wooden_chest_trapped.png                      Wooden Chest (trapped)
+  ironbound_chest_closed.png                    Ironbound Chest (closed)
+  ironbound_chest_open.png                      Ironbound Chest (open)
+  ironbound_chest_locked.png                    Ironbound Chest (locked)
+  ironbound_chest_trapped.png                   Ironbound Chest (trapped)
+  golden_chest_closed.png                       Golden Chest (closed)
+  golden_chest_open.png                         Golden Chest (open)
+  golden_chest_locked.png                       Golden Chest (locked)
+  golden_chest_trapped.png                      Golden Chest (trapped)
+  darkwood_chest_closed.png                     Darkwood Chest (closed)
+  darkwood_chest_open.png                       Darkwood Chest (open)
+  darkwood_chest_locked.png                     Darkwood Chest (locked)
+  darkwood_chest_trapped.png                    Darkwood Chest (trapped)
+  round_key_single.png                          Round Key (single teeth)
+  round_key_double.png                          Round Key (double teeth)
+  round_key_triple.png                          Round Key (triple teeth)
+  square_key_single.png                         Square Key (single teeth)
+  square_key_double.png                         Square Key (double teeth)
+  square_key_triple.png                         Square Key (triple teeth)
+  diamond_key_single.png                        Diamond Key (single teeth)
+  diamond_key_double.png                        Diamond Key (double teeth)
+  diamond_key_triple.png                        Diamond Key (triple teeth)
+  ornate_key_single.png                         Ornate Key (single teeth)
+  ornate_key_double.png                         Ornate Key (double teeth)
+  ornate_key_triple.png                         Ornate Key (triple teeth)
+  skull_key_single.png                          Skull Key (single teeth)
+  skull_key_double.png                          Skull Key (double teeth)
+  skull_key_triple.png                          Skull Key (triple teeth)
+  gold_ring_ruby.png                            Gold Ring (ruby)
+  gold_ring_sapphire.png                        Gold Ring (sapphire)
+  gold_ring_emerald.png                         Gold Ring (emerald)
+  gold_ring.png                                 Gold Ring
+  gold_ring_diamond.png                         Gold Ring (diamond)
+  gold_ring_amethyst.png                        Gold Ring (amethyst)
+  silver_ring_ruby.png                          Silver Ring (ruby)
+  silver_ring_sapphire.png                      Silver Ring (sapphire)
+  silver_ring_emerald.png                       Silver Ring (emerald)
+  silver_ring.png                               Silver Ring
+  silver_ring_diamond.png                       Silver Ring (diamond)
+  silver_ring_amethyst.png                      Silver Ring (amethyst)
+  bronze_ring_ruby.png                          Bronze Ring (ruby)
+  bronze_ring_sapphire.png                      Bronze Ring (sapphire)
+  bronze_ring_emerald.png                       Bronze Ring (emerald)
+  bronze_ring.png                               Bronze Ring
+  bronze_ring_diamond.png                       Bronze Ring (diamond)
+  bronze_ring_amethyst.png                      Bronze Ring (amethyst)
+  dark_ring_ruby.png                            Dark Ring (ruby)
+  dark_ring_sapphire.png                        Dark Ring (sapphire)
+  dark_ring_emerald.png                         Dark Ring (emerald)
+  dark_ring.png                                 Dark Ring
+  dark_ring_diamond.png                         Dark Ring (diamond)
+  dark_ring_amethyst.png                        Dark Ring (amethyst)
+  teardrop_amulet_ruby.png                      Teardrop Amulet (ruby)
+  teardrop_amulet_sapphire.png                  Teardrop Amulet (sapphire)
+  teardrop_amulet_emerald.png                   Teardrop Amulet (emerald)
+  teardrop_amulet_amber.png                     Teardrop Amulet (amber)
+  teardrop_amulet_amethyst.png                  Teardrop Amulet (amethyst)
+  circle_amulet_ruby.png                        Circle Amulet (ruby)
+  circle_amulet_sapphire.png                    Circle Amulet (sapphire)
+  circle_amulet_emerald.png                     Circle Amulet (emerald)
+  circle_amulet_amber.png                       Circle Amulet (amber)
+  circle_amulet_amethyst.png                    Circle Amulet (amethyst)
+  diamond_amulet_ruby.png                       Diamond Amulet (ruby)
+  diamond_amulet_sapphire.png                   Diamond Amulet (sapphire)
+  diamond_amulet_emerald.png                    Diamond Amulet (emerald)
+  diamond_amulet_amber.png                      Diamond Amulet (amber)
+  diamond_amulet_amethyst.png                   Diamond Amulet (amethyst)
+  fang_amulet_ruby.png                          Fang Amulet (ruby)
+  fang_amulet_sapphire.png                      Fang Amulet (sapphire)
+  fang_amulet_emerald.png                       Fang Amulet (emerald)
+  fang_amulet_amber.png                         Fang Amulet (amber)
+  fang_amulet_amethyst.png                      Fang Amulet (amethyst)
+  coin_amulet_ruby.png                          Coin Amulet (ruby)
+  coin_amulet_sapphire.png                      Coin Amulet (sapphire)
+  coin_amulet_emerald.png                       Coin Amulet (emerald)
+  coin_amulet_amber.png                         Coin Amulet (amber)
+  coin_amulet_amethyst.png                      Coin Amulet (amethyst)
+  gold_royal_crown.png                          Gold Royal Crown
+  silver_royal_crown.png                        Silver Royal Crown
+  bronze_royal_crown.png                        Bronze Royal Crown
+  gold_circlet_crown.png                        Gold Circlet Crown
+  silver_circlet_crown.png                      Silver Circlet Crown
+  bronze_circlet_crown.png                      Bronze Circlet Crown
+  gold_war_crown.png                            Gold War Crown
+  silver_war_crown.png                          Silver War Crown
+  bronze_war_crown.png                          Bronze War Crown
+  gold_laurel_crown.png                         Gold Laurel Crown
+  silver_laurel_crown.png                       Silver Laurel Crown
+  bronze_laurel_crown.png                       Bronze Laurel Crown
+  gold_tiara_crown.png                          Gold Tiara Crown
+  silver_tiara_crown.png                        Silver Tiara Crown
+  bronze_tiara_crown.png                        Bronze Tiara Crown
+
+Monsters (97) - png32/monsters/, png64/monsters/
+------------------------------------------------------------
+  green_slime_happy.png                         Green Slime (happy)
+  green_slime_angry.png                         Green Slime (angry)
+  blue_slime_happy.png                          Blue Slime (happy)
+  blue_slime_angry.png                          Blue Slime (angry)
+  red_slime_happy.png                           Red Slime (happy)
+  red_slime_angry.png                           Red Slime (angry)
+  purple_slime_happy.png                        Purple Slime (happy)
+  purple_slime_angry.png                        Purple Slime (angry)
+  gold_slime_happy.png                          Gold Slime (happy)
+  gold_slime_angry.png                          Gold Slime (angry)
+  shadow_slime_happy.png                        Shadow Slime (happy)
+  shadow_slime_angry.png                        Shadow Slime (angry)
+  frost_slime_happy.png                         Frost Slime (happy)
+  frost_slime_angry.png                         Frost Slime (angry)
+  lava_slime_happy.png                          Lava Slime (happy)
+  lava_slime_angry.png                          Lava Slime (angry)
+  bone_skull_human.png                          Bone Skull (human)
+  dark_skull_human.png                          Dark Skull (human)
+  mossy_skull_human.png                         Mossy Skull (human)
+  bone_skull_horned.png                         Bone Skull (horned)
+  dark_skull_horned.png                         Dark Skull (horned)
+  mossy_skull_horned.png                        Mossy Skull (horned)
+  bone_skull_beast.png                          Bone Skull (beast)
+  dark_skull_beast.png                          Dark Skull (beast)
+  mossy_skull_beast.png                         Mossy Skull (beast)
+  bone_skull_small.png                          Bone Skull (small)
+  dark_skull_small.png                          Dark Skull (small)
+  mossy_skull_small.png                         Mossy Skull (small)
+  bone_skull_cracked.png                        Bone Skull (cracked)
+  dark_skull_cracked.png                        Dark Skull (cracked)
+  mossy_skull_cracked.png                       Mossy Skull (cracked)
+  brown_bat_up.png                              Brown Bat (wings up)
+  brown_bat_down.png                            Brown Bat (wings down)
+  black_bat_up.png                              Black Bat (wings up)
+  black_bat_down.png                            Black Bat (wings down)
+  red_bat_up.png                                Red Bat (wings up)
+  red_bat_down.png                              Red Bat (wings down)
+  purple_bat_up.png                             Purple Bat (wings up)
+  purple_bat_down.png                           Purple Bat (wings down)
+  floating_eye_red_round.png                    Floating Eye (red, round pupil)
+  floating_eye_red_slit.png                     Floating Eye (red, slit pupil)
+  floating_eye_blue_round.png                   Floating Eye (blue, round pupil)
+  floating_eye_blue_slit.png                    Floating Eye (blue, slit pupil)
+  floating_eye_green_round.png                  Floating Eye (green, round pupil)
+  floating_eye_green_slit.png                   Floating Eye (green, slit pupil)
+  floating_eye_purple_round.png                 Floating Eye (purple, round pupil)
+  floating_eye_purple_slit.png                  Floating Eye (purple, slit pupil)
+  floating_eye_gold_round.png                   Floating Eye (gold, round pupil)
+  floating_eye_gold_slit.png                    Floating Eye (gold, slit pupil)
+  floating_eye_shadow_round.png                 Floating Eye (shadow, round pupil)
+  floating_eye_shadow_slit.png                  Floating Eye (shadow, slit pupil)
+  white_ghost_boo.png                           White Ghost (boo)
+  white_ghost_wail.png                          White Ghost (wail)
+  blue_ghost_boo.png                            Blue Ghost (boo)
+  blue_ghost_wail.png                           Blue Ghost (wail)
+  green_ghost_boo.png                           Green Ghost (boo)
+  green_ghost_wail.png                          Green Ghost (wail)
+  purple_ghost_boo.png                          Purple Ghost (boo)
+  purple_ghost_wail.png                         Purple Ghost (wail)
+  black_spider_marked.png                       Black Spider (marked)
+  black_spider_plain.png                        Black Spider (plain)
+  red_spider_marked.png                         Red Spider (marked)
+  red_spider_plain.png                          Red Spider (plain)
+  purple_spider_marked.png                      Purple Spider (marked)
+  purple_spider_plain.png                       Purple Spider (plain)
+  brown_spider_marked.png                       Brown Spider (marked)
+  brown_spider_plain.png                        Brown Spider (plain)
+  green_dragon_egg_spotted.png                  Green Dragon Egg (spotted)
+  green_dragon_egg_zigzag.png                   Green Dragon Egg (zigzag)
+  blue_dragon_egg_spotted.png                   Blue Dragon Egg (spotted)
+  blue_dragon_egg_zigzag.png                    Blue Dragon Egg (zigzag)
+  red_dragon_egg_spotted.png                    Red Dragon Egg (spotted)
+  red_dragon_egg_zigzag.png                     Red Dragon Egg (zigzag)
+  purple_dragon_egg_spotted.png                 Purple Dragon Egg (spotted)
+  purple_dragon_egg_zigzag.png                  Purple Dragon Egg (zigzag)
+  gold_dragon_egg_spotted.png                   Gold Dragon Egg (spotted)
+  gold_dragon_egg_zigzag.png                    Gold Dragon Egg (zigzag)
+  shadow_dragon_egg_spotted.png                 Shadow Dragon Egg (spotted)
+  shadow_dragon_egg_zigzag.png                  Shadow Dragon Egg (zigzag)
+  purple_tentacle_curl_left.png                 Purple Tentacle (curl left)
+  purple_tentacle_curl_right.png                Purple Tentacle (curl right)
+  green_tentacle_curl_left.png                  Green Tentacle (curl left)
+  green_tentacle_curl_right.png                 Green Tentacle (curl right)
+  red_tentacle_curl_left.png                    Red Tentacle (curl left)
+  red_tentacle_curl_right.png                   Red Tentacle (curl right)
+  blue_tentacle_curl_left.png                   Blue Tentacle (curl left)
+  blue_tentacle_curl_right.png                  Blue Tentacle (curl right)
+  blue_wisp_trail.png                           Blue Wisp (trail)
+  blue_wisp_no_trail.png                        Blue Wisp (no trail)
+  green_wisp_trail.png                          Green Wisp (trail)
+  green_wisp_no_trail.png                       Green Wisp (no trail)
+  purple_wisp_trail.png                         Purple Wisp (trail)
+  purple_wisp_no_trail.png                      Purple Wisp (no trail)
+  gold_wisp_trail.png                           Gold Wisp (trail)
+  gold_wisp_no_trail.png                        Gold Wisp (no trail)
+  red_wisp_trail.png                            Red Wisp (trail)
+  red_wisp_no_trail.png                         Red Wisp (no trail)
+
+Tools & Items (122) - png32/items/, png64/items/
+------------------------------------------------------------
+  lantern_square_lit.png                        Lantern Square (lit)
+  lantern_square_unlit.png                      Lantern Square (unlit)
+  lantern_round_lit.png                         Lantern Round (lit)
+  lantern_round_unlit.png                       Lantern Round (unlit)
+  torch_lit.png                                 Torch (lit)
+  torch_unlit.png                               Torch (unlit)
+  candle_cluster_lit.png                        Candle Cluster (lit)
+  candle_cluster_unlit.png                      Candle Cluster (unlit)
+  oil_lamp_lit.png                              Oil Lamp (lit)
+  oil_lamp_unlit.png                            Oil Lamp (unlit)
+  brazier_lit.png                               Brazier (lit)
+  brazier_unlit.png                             Brazier (unlit)
+  chandelier_lit.png                            Chandelier (lit)
+  chandelier_unlit.png                          Chandelier (unlit)
+  glowstone_lit.png                             Glowstone (lit)
+  glowstone_unlit.png                           Glowstone (unlit)
+  rope_coil_standard.png                        Rope Coil (standard)
+  rope_coil_dark_iron.png                       Rope Coil (dark iron)
+  grappling_hook_standard.png                   Grappling Hook (standard)
+  grappling_hook_dark_iron.png                  Grappling Hook (dark iron)
+  chain_standard.png                            Chain (standard)
+  chain_dark_iron.png                           Chain (dark iron)
+  net_standard.png                              Net (standard)
+  net_dark_iron.png                             Net (dark iron)
+  pulley_standard.png                           Pulley (standard)
+  pulley_dark_iron.png                          Pulley (dark iron)
+  hook_standard.png                             Hook (standard)
+  hook_dark_iron.png                            Hook (dark iron)
+  scroll_map_marked.png                         Scroll Map (marked)
+  scroll_map_plain.png                          Scroll Map (plain)
+  folded_map_marked.png                         Folded Map (marked)
+  folded_map_plain.png                          Folded Map (plain)
+  treasure_map_marked.png                       Treasure Map (marked)
+  treasure_map_plain.png                        Treasure Map (plain)
+  world_map_marked.png                          World Map (marked)
+  world_map_plain.png                           World Map (plain)
+  dungeon_map_marked.png                        Dungeon Map (marked)
+  dungeon_map_plain.png                         Dungeon Map (plain)
+  compass_0.png                                 Compass (variant 1)
+  compass_1.png                                 Compass (variant 2)
+  compass_2.png                                 Compass (variant 3)
+  compass_3.png                                 Compass (variant 4)
+  compass_4.png                                 Compass (variant 5)
+  compass_5.png                                 Compass (variant 6)
+  round_bomb.png                                Round Bomb
+  dynamite.png                                  Dynamite
+  powder_keg.png                                Powder Keg
+  grenade.png                                   Grenade
+  firecracker.png                               Firecracker
+  smoke_bomb.png                                Smoke Bomb
+  bomb_bundle.png                               Bomb Bundle
+  big_keg.png                                   Big Keg
+  powder_horn.png                               Powder Horn
+  land_mine.png                                 Land Mine
+  arrow.png                                     Arrow
+  bolt.png                                      Bolt
+  fire_arrow.png                                Fire Arrow
+  frost_arrow.png                               Frost Arrow
+  quiver.png                                    Quiver
+  bundle.png                                    Bundle
+  long_arrow.png                                Long Arrow
+  barbed_arrow.png                              Barbed Arrow
+  hunting_arrow.png                             Hunting Arrow
+  war_bolt.png                                  War Bolt
+  javelin.png                                   Javelin
+  quiver_full.png                               Quiver Full
+  signal_arrow.png                              Signal Arrow
+  blunt_arrow.png                               Blunt Arrow
+  pickaxe_oak.png                               Pickaxe (oak)
+  pickaxe_darkwood.png                          Pickaxe (darkwood)
+  shovel_oak.png                                Shovel (oak)
+  shovel_darkwood.png                           Shovel (darkwood)
+  hoe_oak.png                                   Hoe (oak)
+  hoe_darkwood.png                              Hoe (darkwood)
+  sickle_oak.png                                Sickle (oak)
+  sickle_darkwood.png                           Sickle (darkwood)
+  trowel_oak.png                                Trowel (oak)
+  trowel_darkwood.png                           Trowel (darkwood)
+  bucket_full.png                               Bucket (full)
+  bucket_empty.png                              Bucket (empty)
+  tankard_full.png                              Tankard (full)
+  tankard_empty.png                             Tankard (empty)
+  bowl_full.png                                 Bowl (full)
+  bowl_empty.png                                Bowl (empty)
+  plate_full.png                                Plate (full)
+  plate_empty.png                               Plate (empty)
+  waterskin_full.png                            Waterskin (full)
+  waterskin_empty.png                           Waterskin (empty)
+  tent_day.png                                  Tent (day)
+  tent_night.png                                Tent (night)
+  bedroll_day.png                               Bedroll (day)
+  bedroll_night.png                             Bedroll (night)
+  campfire_day.png                              Campfire (day)
+  campfire_night.png                            Campfire (night)
+  banner_day.png                                Banner (day)
+  banner_night.png                              Banner (night)
+  crate_day.png                                 Crate (day)
+  crate_night.png                               Crate (night)
+  lute_notes.png                                Lute (notes)
+  lute_silent.png                               Lute (silent)
+  horn_notes.png                                Horn (notes)
+  horn_silent.png                               Horn (silent)
+  drum_notes.png                                Drum (notes)
+  drum_silent.png                               Drum (silent)
+  flute_notes.png                               Flute (notes)
+  flute_silent.png                              Flute (silent)
+  red_tome_closed.png                           Red Tome (closed)
+  red_tome_open.png                             Red Tome (open)
+  blue_tome_closed.png                          Blue Tome (closed)
+  blue_tome_open.png                            Blue Tome (open)
+  green_tome_closed.png                         Green Tome (closed)
+  green_tome_open.png                           Green Tome (open)
+  purple_tome_closed.png                        Purple Tome (closed)
+  purple_tome_open.png                          Purple Tome (open)
+  candle_0.png                                  Candle (variant 1)
+  candle_1.png                                  Candle (variant 2)
+  candle_2.png                                  Candle (variant 3)
+  candle_3.png                                  Candle (variant 4)
+  candle_4.png                                  Candle (variant 5)
+  candle_5.png                                  Candle (variant 6)
+  candle_6.png                                  Candle (variant 7)
+  candle_7.png                                  Candle (variant 8)
+
+UI Elements (80) - png32/ui/, png64/ui/
+------------------------------------------------------------
+  red_heart_full.png                            Red Heart (full)
+  red_heart_container.png                       Red Heart (container)
+  blue_heart_full.png                           Blue Heart (full)
+  blue_heart_container.png                      Blue Heart (container)
+  green_heart_full.png                          Green Heart (full)
+  green_heart_container.png                     Green Heart (container)
+  purple_heart_full.png                         Purple Heart (full)
+  purple_heart_container.png                    Purple Heart (container)
+  gold_heart_full.png                           Gold Heart (full)
+  gold_heart_container.png                      Gold Heart (container)
+  dark_heart_full.png                           Dark Heart (full)
+  dark_heart_container.png                      Dark Heart (container)
+  blue_mana_drop.png                            Blue Mana (drop)
+  blue_mana_vial.png                            Blue Mana (vial)
+  green_mana_drop.png                           Green Mana (drop)
+  green_mana_vial.png                           Green Mana (vial)
+  purple_mana_drop.png                          Purple Mana (drop)
+  purple_mana_vial.png                          Purple Mana (vial)
+  red_mana_drop.png                             Red Mana (drop)
+  red_mana_vial.png                             Red Mana (vial)
+  gold_mana_drop.png                            Gold Mana (drop)
+  gold_mana_vial.png                            Gold Mana (vial)
+  gold_star_plain.png                           Gold Star (plain)
+  gold_star_sparkle.png                         Gold Star (sparkle)
+  silver_star_plain.png                         Silver Star (plain)
+  silver_star_sparkle.png                       Silver Star (sparkle)
+  bronze_star_plain.png                         Bronze Star (plain)
+  bronze_star_sparkle.png                       Bronze Star (sparkle)
+  red_star_plain.png                            Red Star (plain)
+  red_star_sparkle.png                          Red Star (sparkle)
+  arrow_up_gold.png                             Arrow Up (gold)
+  arrow_up_steel.png                            Arrow Up (steel)
+  arrow_up_red.png                              Arrow Up (red)
+  arrow_down_gold.png                           Arrow Down (gold)
+  arrow_down_steel.png                          Arrow Down (steel)
+  arrow_down_red.png                            Arrow Down (red)
+  arrow_left_gold.png                           Arrow Left (gold)
+  arrow_left_steel.png                          Arrow Left (steel)
+  arrow_left_red.png                            Arrow Left (red)
+  arrow_right_gold.png                          Arrow Right (gold)
+  arrow_right_steel.png                         Arrow Right (steel)
+  arrow_right_red.png                           Arrow Right (red)
+  status_poison.png                             Status: Poison
+  status_burn.png                               Status: Burn
+  status_freeze.png                             Status: Freeze
+  status_stun.png                               Status: Stun
+  status_shield_up.png                          Status: Shield Up
+  status_rage.png                               Status: Rage
+  status_haste.png                              Status: Haste
+  status_curse.png                              Status: Curse
+  status_charm.png                              Status: Charm
+  status_regen.png                              Status: Regen
+  status_silence.png                            Status: Silence
+  status_blessed.png                            Status: Blessed
+  round_button_red.png                          Round Button (red)
+  round_button_blue.png                         Round Button (blue)
+  round_button_green.png                        Round Button (green)
+  round_button_gold.png                         Round Button (gold)
+  round_button_gray.png                         Round Button (gray)
+  square_button_red.png                         Square Button (red)
+  square_button_blue.png                        Square Button (blue)
+  square_button_green.png                       Square Button (green)
+  square_button_gold.png                        Square Button (gold)
+  square_button_gray.png                        Square Button (gray)
+  red_banner_swallowtail.png                    Red Banner (swallowtail)
+  red_banner_straight.png                       Red Banner (straight)
+  blue_banner_swallowtail.png                   Blue Banner (swallowtail)
+  blue_banner_straight.png                      Blue Banner (straight)
+  green_banner_swallowtail.png                  Green Banner (swallowtail)
+  green_banner_straight.png                     Green Banner (straight)
+  purple_banner_swallowtail.png                 Purple Banner (swallowtail)
+  purple_banner_straight.png                    Purple Banner (straight)
+  blue_level_gem_1pip.png                       Blue Level Gem (1 pip)
+  blue_level_gem_2pip.png                       Blue Level Gem (2 pip)
+  green_level_gem_1pip.png                      Green Level Gem (1 pip)
+  green_level_gem_2pip.png                      Green Level Gem (2 pip)
+  red_level_gem_1pip.png                        Red Level Gem (1 pip)
+  red_level_gem_2pip.png                        Red Level Gem (2 pip)
+  purple_level_gem_1pip.png                     Purple Level Gem (1 pip)
+  purple_level_gem_2pip.png                     Purple Level Gem (2 pip)

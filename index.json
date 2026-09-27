@@ -1,0 +1,5102 @@
+{
+  "pack": "rpg-icon-mega-pack",
+  "total": 1262,
+  "categories": {
+    "weapons": {
+      "title": "Weapons",
+      "count": 317,
+      "icons": [
+        {
+          "file": "iron_straight_straight_round_sword.png",
+          "label": "Iron Straight Sword"
+        },
+        {
+          "file": "mithril_straight_straight_square_sword.png",
+          "label": "Mithril Straight Sword"
+        },
+        {
+          "file": "bronze_straight_straight_gem_sword.png",
+          "label": "Bronze Straight Sword"
+        },
+        {
+          "file": "iron_straight_curved_up_square_sword.png",
+          "label": "Iron Straight Sword"
+        },
+        {
+          "file": "mithril_straight_curved_up_spike_sword.png",
+          "label": "Mithril Straight Sword"
+        },
+        {
+          "file": "bronze_straight_curved_down_round_sword.png",
+          "label": "Bronze Straight Sword"
+        },
+        {
+          "file": "iron_straight_curved_down_spike_sword.png",
+          "label": "Iron Straight Sword"
+        },
+        {
+          "file": "mithril_straight_curved_down_gem_sword.png",
+          "label": "Mithril Straight Sword"
+        },
+        {
+          "file": "bronze_straight_round_square_sword.png",
+          "label": "Bronze Straight Sword"
+        },
+        {
+          "file": "iron_straight_round_gem_sword.png",
+          "label": "Iron Straight Sword"
+        },
+        {
+          "file": "mithril_straight_diamond_round_sword.png",
+          "label": "Mithril Straight Sword"
+        },
+        {
+          "file": "bronze_straight_diamond_spike_sword.png",
+          "label": "Bronze Straight Sword"
+        },
+        {
+          "file": "iron_wide_straight_round_sword.png",
+          "label": "Iron Wide Sword"
+        },
+        {
+          "file": "mithril_wide_straight_square_sword.png",
+          "label": "Mithril Wide Sword"
+        },
+        {
+          "file": "bronze_wide_straight_gem_sword.png",
+          "label": "Bronze Wide Sword"
+        },
+        {
+          "file": "iron_wide_curved_up_square_sword.png",
+          "label": "Iron Wide Sword"
+        },
+        {
+          "file": "mithril_wide_curved_up_spike_sword.png",
+          "label": "Mithril Wide Sword"
+        },
+        {
+          "file": "bronze_wide_curved_down_round_sword.png",
+          "label": "Bronze Wide Sword"
+        },
+        {
+          "file": "iron_wide_curved_down_spike_sword.png",
+          "label": "Iron Wide Sword"
+        },
+        {
+          "file": "mithril_wide_curved_down_gem_sword.png",
+          "label": "Mithril Wide Sword"
+        },
+        {
+          "file": "bronze_wide_round_square_sword.png",
+          "label": "Bronze Wide Sword"
+        },
+        {
+          "file": "iron_wide_round_gem_sword.png",
+          "label": "Iron Wide Sword"
+        },
+        {
+          "file": "mithril_wide_diamond_round_sword.png",
+          "label": "Mithril Wide Sword"
+        },
+        {
+          "file": "bronze_wide_diamond_spike_sword.png",
+          "label": "Bronze Wide Sword"
+        },
+        {
+          "file": "iron_rapier_straight_round_sword.png",
+          "label": "Iron Rapier Sword"
+        },
+        {
+          "file": "mithril_rapier_straight_square_sword.png",
+          "label": "Mithril Rapier Sword"
+        },
+        {
+          "file": "bronze_rapier_straight_gem_sword.png",
+          "label": "Bronze Rapier Sword"
+        },
+        {
+          "file": "iron_rapier_curved_up_square_sword.png",
+          "label": "Iron Rapier Sword"
+        },
+        {
+          "file": "mithril_rapier_curved_up_spike_sword.png",
+          "label": "Mithril Rapier Sword"
+        },
+        {
+          "file": "bronze_rapier_curved_down_round_sword.png",
+          "label": "Bronze Rapier Sword"
+        },
+        {
+          "file": "iron_rapier_curved_down_spike_sword.png",
+          "label": "Iron Rapier Sword"
+        },
+        {
+          "file": "mithril_rapier_curved_down_gem_sword.png",
+          "label": "Mithril Rapier Sword"
+        },
+        {
+          "file": "bronze_rapier_round_square_sword.png",
+          "label": "Bronze Rapier Sword"
+        },
+        {
+          "file": "iron_rapier_round_gem_sword.png",
+          "label": "Iron Rapier Sword"
+        },
+        {
+          "file": "mithril_rapier_diamond_round_sword.png",
+          "label": "Mithril Rapier Sword"
+        },
+        {
+          "file": "bronze_rapier_diamond_spike_sword.png",
+          "label": "Bronze Rapier Sword"
+        },
+        {
+          "file": "iron_curved_straight_round_sword.png",
+          "label": "Iron Curved Sword"
+        },
+        {
+          "file": "mithril_curved_straight_square_sword.png",
+          "label": "Mithril Curved Sword"
+        },
+        {
+          "file": "bronze_curved_straight_gem_sword.png",
+          "label": "Bronze Curved Sword"
+        },
+        {
+          "file": "iron_curved_curved_up_square_sword.png",
+          "label": "Iron Curved Sword"
+        },
+        {
+          "file": "mithril_curved_curved_up_spike_sword.png",
+          "label": "Mithril Curved Sword"
+        },
+        {
+          "file": "bronze_curved_curved_down_round_sword.png",
+          "label": "Bronze Curved Sword"
+        },
+        {
+          "file": "iron_curved_curved_down_spike_sword.png",
+          "label": "Iron Curved Sword"
+        },
+        {
+          "file": "mithril_curved_curved_down_gem_sword.png",
+          "label": "Mithril Curved Sword"
+        },
+        {
+          "file": "bronze_curved_round_square_sword.png",
+          "label": "Bronze Curved Sword"
+        },
+        {
+          "file": "iron_curved_round_gem_sword.png",
+          "label": "Iron Curved Sword"
+        },
+        {
+          "file": "mithril_curved_diamond_round_sword.png",
+          "label": "Mithril Curved Sword"
+        },
+        {
+          "file": "bronze_curved_diamond_spike_sword.png",
+          "label": "Bronze Curved Sword"
+        },
+        {
+          "file": "iron_jagged_straight_round_sword.png",
+          "label": "Iron Jagged Sword"
+        },
+        {
+          "file": "mithril_jagged_straight_square_sword.png",
+          "label": "Mithril Jagged Sword"
+        },
+        {
+          "file": "bronze_jagged_straight_gem_sword.png",
+          "label": "Bronze Jagged Sword"
+        },
+        {
+          "file": "iron_jagged_curved_up_square_sword.png",
+          "label": "Iron Jagged Sword"
+        },
+        {
+          "file": "mithril_jagged_curved_up_spike_sword.png",
+          "label": "Mithril Jagged Sword"
+        },
+        {
+          "file": "bronze_jagged_curved_down_round_sword.png",
+          "label": "Bronze Jagged Sword"
+        },
+        {
+          "file": "iron_jagged_curved_down_spike_sword.png",
+          "label": "Iron Jagged Sword"
+        },
+        {
+          "file": "mithril_jagged_curved_down_gem_sword.png",
+          "label": "Mithril Jagged Sword"
+        },
+        {
+          "file": "bronze_jagged_round_square_sword.png",
+          "label": "Bronze Jagged Sword"
+        },
+        {
+          "file": "iron_jagged_round_gem_sword.png",
+          "label": "Iron Jagged Sword"
+        },
+        {
+          "file": "mithril_jagged_diamond_round_sword.png",
+          "label": "Mithril Jagged Sword"
+        },
+        {
+          "file": "bronze_jagged_diamond_spike_sword.png",
+          "label": "Bronze Jagged Sword"
+        },
+        {
+          "file": "iron_short_straight_round_sword.png",
+          "label": "Iron Short Sword"
+        },
+        {
+          "file": "mithril_short_straight_square_sword.png",
+          "label": "Mithril Short Sword"
+        },
+        {
+          "file": "bronze_short_straight_gem_sword.png",
+          "label": "Bronze Short Sword"
+        },
+        {
+          "file": "iron_short_curved_up_square_sword.png",
+          "label": "Iron Short Sword"
+        },
+        {
+          "file": "mithril_short_curved_up_spike_sword.png",
+          "label": "Mithril Short Sword"
+        },
+        {
+          "file": "bronze_short_curved_down_round_sword.png",
+          "label": "Bronze Short Sword"
+        },
+        {
+          "file": "iron_short_curved_down_spike_sword.png",
+          "label": "Iron Short Sword"
+        },
+        {
+          "file": "mithril_short_curved_down_gem_sword.png",
+          "label": "Mithril Short Sword"
+        },
+        {
+          "file": "bronze_short_round_square_sword.png",
+          "label": "Bronze Short Sword"
+        },
+        {
+          "file": "iron_short_round_gem_sword.png",
+          "label": "Iron Short Sword"
+        },
+        {
+          "file": "mithril_short_diamond_round_sword.png",
+          "label": "Mithril Short Sword"
+        },
+        {
+          "file": "bronze_short_diamond_spike_sword.png",
+          "label": "Bronze Short Sword"
+        },
+        {
+          "file": "iron_leaf_straight_round_sword.png",
+          "label": "Iron Leaf Sword"
+        },
+        {
+          "file": "mithril_leaf_straight_square_sword.png",
+          "label": "Mithril Leaf Sword"
+        },
+        {
+          "file": "bronze_leaf_straight_gem_sword.png",
+          "label": "Bronze Leaf Sword"
+        },
+        {
+          "file": "iron_leaf_curved_up_square_sword.png",
+          "label": "Iron Leaf Sword"
+        },
+        {
+          "file": "mithril_leaf_curved_up_spike_sword.png",
+          "label": "Mithril Leaf Sword"
+        },
+        {
+          "file": "bronze_leaf_curved_down_round_sword.png",
+          "label": "Bronze Leaf Sword"
+        },
+        {
+          "file": "iron_leaf_curved_down_spike_sword.png",
+          "label": "Iron Leaf Sword"
+        },
+        {
+          "file": "mithril_leaf_curved_down_gem_sword.png",
+          "label": "Mithril Leaf Sword"
+        },
+        {
+          "file": "bronze_leaf_round_square_sword.png",
+          "label": "Bronze Leaf Sword"
+        },
+        {
+          "file": "iron_leaf_round_gem_sword.png",
+          "label": "Iron Leaf Sword"
+        },
+        {
+          "file": "mithril_leaf_diamond_round_sword.png",
+          "label": "Mithril Leaf Sword"
+        },
+        {
+          "file": "bronze_leaf_diamond_spike_sword.png",
+          "label": "Bronze Leaf Sword"
+        },
+        {
+          "file": "iron_serrated_straight_round_sword.png",
+          "label": "Iron Serrated Sword"
+        },
+        {
+          "file": "iron_serrated_curved_up_square_sword.png",
+          "label": "Iron Serrated Sword"
+        },
+        {
+          "file": "bronze_serrated_curved_down_round_sword.png",
+          "label": "Bronze Serrated Sword"
+        },
+        {
+          "file": "iron_serrated_curved_down_spike_sword.png",
+          "label": "Iron Serrated Sword"
+        },
+        {
+          "file": "bronze_serrated_round_square_sword.png",
+          "label": "Bronze Serrated Sword"
+        },
+        {
+          "file": "iron_serrated_round_gem_sword.png",
+          "label": "Iron Serrated Sword"
+        },
+        {
+          "file": "mithril_serrated_diamond_round_sword.png",
+          "label": "Mithril Serrated Sword"
+        },
+        {
+          "file": "bronze_serrated_diamond_spike_sword.png",
+          "label": "Bronze Serrated Sword"
+        },
+        {
+          "file": "iron_straight_straight_round_dagger.png",
+          "label": "Iron Straight Dagger"
+        },
+        {
+          "file": "iron_straight_straight_spike_dagger.png",
+          "label": "Iron Straight Dagger"
+        },
+        {
+          "file": "iron_straight_curved_up_round_dagger.png",
+          "label": "Iron Straight Dagger"
+        },
+        {
+          "file": "iron_straight_curved_up_spike_dagger.png",
+          "label": "Iron Straight Dagger"
+        },
+        {
+          "file": "iron_straight_curved_down_round_dagger.png",
+          "label": "Iron Straight Dagger"
+        },
+        {
+          "file": "iron_straight_curved_down_spike_dagger.png",
+          "label": "Iron Straight Dagger"
+        },
+        {
+          "file": "iron_straight_round_round_dagger.png",
+          "label": "Iron Straight Dagger"
+        },
+        {
+          "file": "iron_straight_round_spike_dagger.png",
+          "label": "Iron Straight Dagger"
+        },
+        {
+          "file": "iron_straight_diamond_round_dagger.png",
+          "label": "Iron Straight Dagger"
+        },
+        {
+          "file": "iron_straight_diamond_spike_dagger.png",
+          "label": "Iron Straight Dagger"
+        },
+        {
+          "file": "iron_curved_straight_round_dagger.png",
+          "label": "Iron Curved Dagger"
+        },
+        {
+          "file": "iron_curved_straight_spike_dagger.png",
+          "label": "Iron Curved Dagger"
+        },
+        {
+          "file": "iron_curved_curved_up_round_dagger.png",
+          "label": "Iron Curved Dagger"
+        },
+        {
+          "file": "iron_curved_curved_up_spike_dagger.png",
+          "label": "Iron Curved Dagger"
+        },
+        {
+          "file": "iron_curved_curved_down_round_dagger.png",
+          "label": "Iron Curved Dagger"
+        },
+        {
+          "file": "iron_curved_curved_down_spike_dagger.png",
+          "label": "Iron Curved Dagger"
+        },
+        {
+          "file": "iron_curved_round_round_dagger.png",
+          "label": "Iron Curved Dagger"
+        },
+        {
+          "file": "iron_curved_round_spike_dagger.png",
+          "label": "Iron Curved Dagger"
+        },
+        {
+          "file": "iron_curved_diamond_round_dagger.png",
+          "label": "Iron Curved Dagger"
+        },
+        {
+          "file": "iron_curved_diamond_spike_dagger.png",
+          "label": "Iron Curved Dagger"
+        },
+        {
+          "file": "iron_jagged_straight_round_dagger.png",
+          "label": "Iron Jagged Dagger"
+        },
+        {
+          "file": "iron_jagged_straight_spike_dagger.png",
+          "label": "Iron Jagged Dagger"
+        },
+        {
+          "file": "iron_jagged_curved_up_round_dagger.png",
+          "label": "Iron Jagged Dagger"
+        },
+        {
+          "file": "iron_jagged_curved_up_spike_dagger.png",
+          "label": "Iron Jagged Dagger"
+        },
+        {
+          "file": "iron_jagged_curved_down_round_dagger.png",
+          "label": "Iron Jagged Dagger"
+        },
+        {
+          "file": "iron_jagged_curved_down_spike_dagger.png",
+          "label": "Iron Jagged Dagger"
+        },
+        {
+          "file": "iron_jagged_round_round_dagger.png",
+          "label": "Iron Jagged Dagger"
+        },
+        {
+          "file": "iron_jagged_round_spike_dagger.png",
+          "label": "Iron Jagged Dagger"
+        },
+        {
+          "file": "iron_jagged_diamond_round_dagger.png",
+          "label": "Iron Jagged Dagger"
+        },
+        {
+          "file": "iron_jagged_diamond_spike_dagger.png",
+          "label": "Iron Jagged Dagger"
+        },
+        {
+          "file": "iron_short_straight_round_dagger.png",
+          "label": "Iron Short Dagger"
+        },
+        {
+          "file": "iron_short_straight_spike_dagger.png",
+          "label": "Iron Short Dagger"
+        },
+        {
+          "file": "iron_short_curved_up_round_dagger.png",
+          "label": "Iron Short Dagger"
+        },
+        {
+          "file": "iron_short_curved_up_spike_dagger.png",
+          "label": "Iron Short Dagger"
+        },
+        {
+          "file": "iron_short_curved_down_round_dagger.png",
+          "label": "Iron Short Dagger"
+        },
+        {
+          "file": "iron_short_curved_down_spike_dagger.png",
+          "label": "Iron Short Dagger"
+        },
+        {
+          "file": "iron_short_round_round_dagger.png",
+          "label": "Iron Short Dagger"
+        },
+        {
+          "file": "iron_short_round_spike_dagger.png",
+          "label": "Iron Short Dagger"
+        },
+        {
+          "file": "iron_short_diamond_round_dagger.png",
+          "label": "Iron Short Dagger"
+        },
+        {
+          "file": "iron_short_diamond_spike_dagger.png",
+          "label": "Iron Short Dagger"
+        },
+        {
+          "file": "iron_serrated_curved_down_round_dagger.png",
+          "label": "Iron Serrated Dagger"
+        },
+        {
+          "file": "iron_single_oak_axe.png",
+          "label": "Iron Single Axe (oak)"
+        },
+        {
+          "file": "iron_single_wrapped_axe.png",
+          "label": "Iron Single Axe (wrapped)"
+        },
+        {
+          "file": "iron_single_long_axe.png",
+          "label": "Iron Single Axe (long)"
+        },
+        {
+          "file": "steel_single_oak_axe.png",
+          "label": "Steel Single Axe (oak)"
+        },
+        {
+          "file": "steel_single_wrapped_axe.png",
+          "label": "Steel Single Axe (wrapped)"
+        },
+        {
+          "file": "steel_single_long_axe.png",
+          "label": "Steel Single Axe (long)"
+        },
+        {
+          "file": "bronze_single_oak_axe.png",
+          "label": "Bronze Single Axe (oak)"
+        },
+        {
+          "file": "bronze_single_wrapped_axe.png",
+          "label": "Bronze Single Axe (wrapped)"
+        },
+        {
+          "file": "bronze_single_long_axe.png",
+          "label": "Bronze Single Axe (long)"
+        },
+        {
+          "file": "shadow_single_oak_axe.png",
+          "label": "Shadow Single Axe (oak)"
+        },
+        {
+          "file": "shadow_single_wrapped_axe.png",
+          "label": "Shadow Single Axe (wrapped)"
+        },
+        {
+          "file": "shadow_single_long_axe.png",
+          "label": "Shadow Single Axe (long)"
+        },
+        {
+          "file": "iron_double_oak_axe.png",
+          "label": "Iron Double Axe (oak)"
+        },
+        {
+          "file": "iron_double_wrapped_axe.png",
+          "label": "Iron Double Axe (wrapped)"
+        },
+        {
+          "file": "iron_double_long_axe.png",
+          "label": "Iron Double Axe (long)"
+        },
+        {
+          "file": "steel_double_oak_axe.png",
+          "label": "Steel Double Axe (oak)"
+        },
+        {
+          "file": "steel_double_wrapped_axe.png",
+          "label": "Steel Double Axe (wrapped)"
+        },
+        {
+          "file": "steel_double_long_axe.png",
+          "label": "Steel Double Axe (long)"
+        },
+        {
+          "file": "bronze_double_oak_axe.png",
+          "label": "Bronze Double Axe (oak)"
+        },
+        {
+          "file": "bronze_double_wrapped_axe.png",
+          "label": "Bronze Double Axe (wrapped)"
+        },
+        {
+          "file": "bronze_double_long_axe.png",
+          "label": "Bronze Double Axe (long)"
+        },
+        {
+          "file": "shadow_double_oak_axe.png",
+          "label": "Shadow Double Axe (oak)"
+        },
+        {
+          "file": "shadow_double_wrapped_axe.png",
+          "label": "Shadow Double Axe (wrapped)"
+        },
+        {
+          "file": "shadow_double_long_axe.png",
+          "label": "Shadow Double Axe (long)"
+        },
+        {
+          "file": "iron_crescent_oak_axe.png",
+          "label": "Iron Crescent Axe (oak)"
+        },
+        {
+          "file": "iron_crescent_wrapped_axe.png",
+          "label": "Iron Crescent Axe (wrapped)"
+        },
+        {
+          "file": "iron_crescent_long_axe.png",
+          "label": "Iron Crescent Axe (long)"
+        },
+        {
+          "file": "steel_crescent_oak_axe.png",
+          "label": "Steel Crescent Axe (oak)"
+        },
+        {
+          "file": "steel_crescent_wrapped_axe.png",
+          "label": "Steel Crescent Axe (wrapped)"
+        },
+        {
+          "file": "steel_crescent_long_axe.png",
+          "label": "Steel Crescent Axe (long)"
+        },
+        {
+          "file": "bronze_crescent_oak_axe.png",
+          "label": "Bronze Crescent Axe (oak)"
+        },
+        {
+          "file": "bronze_crescent_wrapped_axe.png",
+          "label": "Bronze Crescent Axe (wrapped)"
+        },
+        {
+          "file": "bronze_crescent_long_axe.png",
+          "label": "Bronze Crescent Axe (long)"
+        },
+        {
+          "file": "shadow_crescent_oak_axe.png",
+          "label": "Shadow Crescent Axe (oak)"
+        },
+        {
+          "file": "shadow_crescent_wrapped_axe.png",
+          "label": "Shadow Crescent Axe (wrapped)"
+        },
+        {
+          "file": "shadow_crescent_long_axe.png",
+          "label": "Shadow Crescent Axe (long)"
+        },
+        {
+          "file": "iron_bearded_oak_axe.png",
+          "label": "Iron Bearded Axe (oak)"
+        },
+        {
+          "file": "iron_bearded_wrapped_axe.png",
+          "label": "Iron Bearded Axe (wrapped)"
+        },
+        {
+          "file": "iron_bearded_long_axe.png",
+          "label": "Iron Bearded Axe (long)"
+        },
+        {
+          "file": "steel_bearded_oak_axe.png",
+          "label": "Steel Bearded Axe (oak)"
+        },
+        {
+          "file": "steel_bearded_wrapped_axe.png",
+          "label": "Steel Bearded Axe (wrapped)"
+        },
+        {
+          "file": "steel_bearded_long_axe.png",
+          "label": "Steel Bearded Axe (long)"
+        },
+        {
+          "file": "bronze_bearded_oak_axe.png",
+          "label": "Bronze Bearded Axe (oak)"
+        },
+        {
+          "file": "bronze_bearded_wrapped_axe.png",
+          "label": "Bronze Bearded Axe (wrapped)"
+        },
+        {
+          "file": "bronze_bearded_long_axe.png",
+          "label": "Bronze Bearded Axe (long)"
+        },
+        {
+          "file": "shadow_bearded_oak_axe.png",
+          "label": "Shadow Bearded Axe (oak)"
+        },
+        {
+          "file": "shadow_bearded_wrapped_axe.png",
+          "label": "Shadow Bearded Axe (wrapped)"
+        },
+        {
+          "file": "shadow_bearded_long_axe.png",
+          "label": "Shadow Bearded Axe (long)"
+        },
+        {
+          "file": "iron_flanged_oak_mace.png",
+          "label": "Iron Flanged Mace (oak)"
+        },
+        {
+          "file": "iron_flanged_ironshod_mace.png",
+          "label": "Iron Flanged Mace (ironshod)"
+        },
+        {
+          "file": "steel_flanged_oak_mace.png",
+          "label": "Steel Flanged Mace (oak)"
+        },
+        {
+          "file": "steel_flanged_ironshod_mace.png",
+          "label": "Steel Flanged Mace (ironshod)"
+        },
+        {
+          "file": "bronze_flanged_oak_mace.png",
+          "label": "Bronze Flanged Mace (oak)"
+        },
+        {
+          "file": "bronze_flanged_ironshod_mace.png",
+          "label": "Bronze Flanged Mace (ironshod)"
+        },
+        {
+          "file": "iron_spiked_oak_mace.png",
+          "label": "Iron Spiked Mace (oak)"
+        },
+        {
+          "file": "iron_spiked_ironshod_mace.png",
+          "label": "Iron Spiked Mace (ironshod)"
+        },
+        {
+          "file": "steel_spiked_oak_mace.png",
+          "label": "Steel Spiked Mace (oak)"
+        },
+        {
+          "file": "steel_spiked_ironshod_mace.png",
+          "label": "Steel Spiked Mace (ironshod)"
+        },
+        {
+          "file": "bronze_spiked_oak_mace.png",
+          "label": "Bronze Spiked Mace (oak)"
+        },
+        {
+          "file": "bronze_spiked_ironshod_mace.png",
+          "label": "Bronze Spiked Mace (ironshod)"
+        },
+        {
+          "file": "iron_morningstar_oak_mace.png",
+          "label": "Iron Morningstar Mace (oak)"
+        },
+        {
+          "file": "iron_morningstar_ironshod_mace.png",
+          "label": "Iron Morningstar Mace (ironshod)"
+        },
+        {
+          "file": "steel_morningstar_oak_mace.png",
+          "label": "Steel Morningstar Mace (oak)"
+        },
+        {
+          "file": "steel_morningstar_ironshod_mace.png",
+          "label": "Steel Morningstar Mace (ironshod)"
+        },
+        {
+          "file": "bronze_morningstar_oak_mace.png",
+          "label": "Bronze Morningstar Mace (oak)"
+        },
+        {
+          "file": "bronze_morningstar_ironshod_mace.png",
+          "label": "Bronze Morningstar Mace (ironshod)"
+        },
+        {
+          "file": "iron_cube_oak_mace.png",
+          "label": "Iron Cube Mace (oak)"
+        },
+        {
+          "file": "iron_cube_ironshod_mace.png",
+          "label": "Iron Cube Mace (ironshod)"
+        },
+        {
+          "file": "steel_cube_oak_mace.png",
+          "label": "Steel Cube Mace (oak)"
+        },
+        {
+          "file": "steel_cube_ironshod_mace.png",
+          "label": "Steel Cube Mace (ironshod)"
+        },
+        {
+          "file": "bronze_cube_oak_mace.png",
+          "label": "Bronze Cube Mace (oak)"
+        },
+        {
+          "file": "bronze_cube_ironshod_mace.png",
+          "label": "Bronze Cube Mace (ironshod)"
+        },
+        {
+          "file": "iron_disc_oak_mace.png",
+          "label": "Iron Disc Mace (oak)"
+        },
+        {
+          "file": "iron_disc_ironshod_mace.png",
+          "label": "Iron Disc Mace (ironshod)"
+        },
+        {
+          "file": "steel_disc_oak_mace.png",
+          "label": "Steel Disc Mace (oak)"
+        },
+        {
+          "file": "steel_disc_ironshod_mace.png",
+          "label": "Steel Disc Mace (ironshod)"
+        },
+        {
+          "file": "bronze_disc_oak_mace.png",
+          "label": "Bronze Disc Mace (oak)"
+        },
+        {
+          "file": "bronze_disc_ironshod_mace.png",
+          "label": "Bronze Disc Mace (ironshod)"
+        },
+        {
+          "file": "iron_hammer_oak_mace.png",
+          "label": "Iron Hammer Mace (oak)"
+        },
+        {
+          "file": "iron_hammer_ironshod_mace.png",
+          "label": "Iron Hammer Mace (ironshod)"
+        },
+        {
+          "file": "steel_hammer_oak_mace.png",
+          "label": "Steel Hammer Mace (oak)"
+        },
+        {
+          "file": "steel_hammer_ironshod_mace.png",
+          "label": "Steel Hammer Mace (ironshod)"
+        },
+        {
+          "file": "bronze_hammer_oak_mace.png",
+          "label": "Bronze Hammer Mace (oak)"
+        },
+        {
+          "file": "bronze_hammer_ironshod_mace.png",
+          "label": "Bronze Hammer Mace (ironshod)"
+        },
+        {
+          "file": "iron_leaf_ash_spear.png",
+          "label": "Iron Leaf Spear (ash)"
+        },
+        {
+          "file": "iron_leaf_darkwood_spear.png",
+          "label": "Iron Leaf Spear (darkwood)"
+        },
+        {
+          "file": "steel_leaf_ash_spear.png",
+          "label": "Steel Leaf Spear (ash)"
+        },
+        {
+          "file": "steel_leaf_darkwood_spear.png",
+          "label": "Steel Leaf Spear (darkwood)"
+        },
+        {
+          "file": "bronze_leaf_ash_spear.png",
+          "label": "Bronze Leaf Spear (ash)"
+        },
+        {
+          "file": "bronze_leaf_darkwood_spear.png",
+          "label": "Bronze Leaf Spear (darkwood)"
+        },
+        {
+          "file": "iron_diamond_ash_spear.png",
+          "label": "Iron Diamond Spear (ash)"
+        },
+        {
+          "file": "iron_diamond_darkwood_spear.png",
+          "label": "Iron Diamond Spear (darkwood)"
+        },
+        {
+          "file": "steel_diamond_ash_spear.png",
+          "label": "Steel Diamond Spear (ash)"
+        },
+        {
+          "file": "steel_diamond_darkwood_spear.png",
+          "label": "Steel Diamond Spear (darkwood)"
+        },
+        {
+          "file": "bronze_diamond_ash_spear.png",
+          "label": "Bronze Diamond Spear (ash)"
+        },
+        {
+          "file": "bronze_diamond_darkwood_spear.png",
+          "label": "Bronze Diamond Spear (darkwood)"
+        },
+        {
+          "file": "iron_barbed_ash_spear.png",
+          "label": "Iron Barbed Spear (ash)"
+        },
+        {
+          "file": "iron_barbed_darkwood_spear.png",
+          "label": "Iron Barbed Spear (darkwood)"
+        },
+        {
+          "file": "steel_barbed_ash_spear.png",
+          "label": "Steel Barbed Spear (ash)"
+        },
+        {
+          "file": "steel_barbed_darkwood_spear.png",
+          "label": "Steel Barbed Spear (darkwood)"
+        },
+        {
+          "file": "bronze_barbed_ash_spear.png",
+          "label": "Bronze Barbed Spear (ash)"
+        },
+        {
+          "file": "bronze_barbed_darkwood_spear.png",
+          "label": "Bronze Barbed Spear (darkwood)"
+        },
+        {
+          "file": "iron_trident_ash_spear.png",
+          "label": "Iron Trident Spear (ash)"
+        },
+        {
+          "file": "iron_trident_darkwood_spear.png",
+          "label": "Iron Trident Spear (darkwood)"
+        },
+        {
+          "file": "steel_trident_ash_spear.png",
+          "label": "Steel Trident Spear (ash)"
+        },
+        {
+          "file": "steel_trident_darkwood_spear.png",
+          "label": "Steel Trident Spear (darkwood)"
+        },
+        {
+          "file": "bronze_trident_ash_spear.png",
+          "label": "Bronze Trident Spear (ash)"
+        },
+        {
+          "file": "bronze_trident_darkwood_spear.png",
+          "label": "Bronze Trident Spear (darkwood)"
+        },
+        {
+          "file": "iron_pike_ash_spear.png",
+          "label": "Iron Pike Spear (ash)"
+        },
+        {
+          "file": "iron_pike_darkwood_spear.png",
+          "label": "Iron Pike Spear (darkwood)"
+        },
+        {
+          "file": "steel_pike_ash_spear.png",
+          "label": "Steel Pike Spear (ash)"
+        },
+        {
+          "file": "steel_pike_darkwood_spear.png",
+          "label": "Steel Pike Spear (darkwood)"
+        },
+        {
+          "file": "bronze_pike_ash_spear.png",
+          "label": "Bronze Pike Spear (ash)"
+        },
+        {
+          "file": "bronze_pike_darkwood_spear.png",
+          "label": "Bronze Pike Spear (darkwood)"
+        },
+        {
+          "file": "longbow_oak_plain_0.png",
+          "label": "Longbow (Oak, plain)"
+        },
+        {
+          "file": "longbow_darkwood_nocked_1.png",
+          "label": "Longbow (Darkwood, nocked)"
+        },
+        {
+          "file": "longbow_yew_wrapped_2.png",
+          "label": "Longbow (Yew, wrapped)"
+        },
+        {
+          "file": "longbow_oak_tipped_3.png",
+          "label": "Longbow (Oak, tipped)"
+        },
+        {
+          "file": "recurve_oak_plain_4.png",
+          "label": "Recurve (Oak, plain)"
+        },
+        {
+          "file": "recurve_bronze_nocked_5.png",
+          "label": "Recurve (Bronze, nocked)"
+        },
+        {
+          "file": "recurve_yew_wrapped_6.png",
+          "label": "Recurve (Yew, wrapped)"
+        },
+        {
+          "file": "shortbow_oak_plain_7.png",
+          "label": "Shortbow (Oak, plain)"
+        },
+        {
+          "file": "shortbow_yew_nocked_8.png",
+          "label": "Shortbow (Yew, nocked)"
+        },
+        {
+          "file": "shortbow_darkwood_wrapped_9.png",
+          "label": "Shortbow (Darkwood, wrapped)"
+        },
+        {
+          "file": "crossbow_oak_plain_10.png",
+          "label": "Crossbow (Oak, plain)"
+        },
+        {
+          "file": "crossbow_steel_nocked_11.png",
+          "label": "Crossbow (Steel, nocked)"
+        },
+        {
+          "file": "longbow_bronze_nocked_12.png",
+          "label": "Longbow (Bronze, nocked)"
+        },
+        {
+          "file": "recurve_oak_tipped_13.png",
+          "label": "Recurve (Oak, tipped)"
+        },
+        {
+          "file": "shortbow_bronze_plain_14.png",
+          "label": "Shortbow (Bronze, plain)"
+        },
+        {
+          "file": "crossbow_darkwood_wrapped_15.png",
+          "label": "Crossbow (Darkwood, wrapped)"
+        },
+        {
+          "file": "oak_staff_fire_orb.png",
+          "label": "Oak Staff of Fire Orb"
+        },
+        {
+          "file": "oak_staff_frost_orb.png",
+          "label": "Oak Staff of Frost Orb"
+        },
+        {
+          "file": "oak_staff_nature_orb.png",
+          "label": "Oak Staff of Nature Orb"
+        },
+        {
+          "file": "oak_staff_shadow_orb.png",
+          "label": "Oak Staff of Shadow Orb"
+        },
+        {
+          "file": "oak_staff_crystal.png",
+          "label": "Oak Staff of Crystal"
+        },
+        {
+          "file": "oak_staff_skull.png",
+          "label": "Oak Staff of Skull"
+        },
+        {
+          "file": "oak_staff_star.png",
+          "label": "Oak Staff of Star"
+        },
+        {
+          "file": "oak_staff_moon.png",
+          "label": "Oak Staff of Moon"
+        },
+        {
+          "file": "oak_staff_flame.png",
+          "label": "Oak Staff of Flame"
+        },
+        {
+          "file": "oak_staff_feather.png",
+          "label": "Oak Staff of Feather"
+        },
+        {
+          "file": "darkwood_staff_fire_orb.png",
+          "label": "Darkwood Staff of Fire Orb"
+        },
+        {
+          "file": "darkwood_staff_frost_orb.png",
+          "label": "Darkwood Staff of Frost Orb"
+        },
+        {
+          "file": "darkwood_staff_nature_orb.png",
+          "label": "Darkwood Staff of Nature Orb"
+        },
+        {
+          "file": "darkwood_staff_shadow_orb.png",
+          "label": "Darkwood Staff of Shadow Orb"
+        },
+        {
+          "file": "darkwood_staff_crystal.png",
+          "label": "Darkwood Staff of Crystal"
+        },
+        {
+          "file": "darkwood_staff_skull.png",
+          "label": "Darkwood Staff of Skull"
+        },
+        {
+          "file": "darkwood_staff_star.png",
+          "label": "Darkwood Staff of Star"
+        },
+        {
+          "file": "darkwood_staff_moon.png",
+          "label": "Darkwood Staff of Moon"
+        },
+        {
+          "file": "darkwood_staff_flame.png",
+          "label": "Darkwood Staff of Flame"
+        },
+        {
+          "file": "darkwood_staff_feather.png",
+          "label": "Darkwood Staff of Feather"
+        },
+        {
+          "file": "ironshod_staff_fire_orb.png",
+          "label": "Ironshod Staff of Fire Orb"
+        },
+        {
+          "file": "ironshod_staff_frost_orb.png",
+          "label": "Ironshod Staff of Frost Orb"
+        },
+        {
+          "file": "ironshod_staff_nature_orb.png",
+          "label": "Ironshod Staff of Nature Orb"
+        },
+        {
+          "file": "ironshod_staff_shadow_orb.png",
+          "label": "Ironshod Staff of Shadow Orb"
+        },
+        {
+          "file": "ironshod_staff_crystal.png",
+          "label": "Ironshod Staff of Crystal"
+        },
+        {
+          "file": "ironshod_staff_skull.png",
+          "label": "Ironshod Staff of Skull"
+        },
+        {
+          "file": "ironshod_staff_star.png",
+          "label": "Ironshod Staff of Star"
+        },
+        {
+          "file": "ironshod_staff_moon.png",
+          "label": "Ironshod Staff of Moon"
+        },
+        {
+          "file": "ironshod_staff_flame.png",
+          "label": "Ironshod Staff of Flame"
+        },
+        {
+          "file": "ironshod_staff_feather.png",
+          "label": "Ironshod Staff of Feather"
+        },
+        {
+          "file": "straight_wand_spark.png",
+          "label": "Straight Wand (spark)"
+        },
+        {
+          "file": "straight_wand_star.png",
+          "label": "Straight Wand (star)"
+        },
+        {
+          "file": "straight_wand_orb.png",
+          "label": "Straight Wand (orb)"
+        },
+        {
+          "file": "straight_wand_crystal.png",
+          "label": "Straight Wand (crystal)"
+        },
+        {
+          "file": "straight_wand_leaf.png",
+          "label": "Straight Wand (leaf)"
+        },
+        {
+          "file": "straight_wand_ember.png",
+          "label": "Straight Wand (ember)"
+        },
+        {
+          "file": "twisted_wand_spark.png",
+          "label": "Twisted Wand (spark)"
+        },
+        {
+          "file": "twisted_wand_star.png",
+          "label": "Twisted Wand (star)"
+        },
+        {
+          "file": "twisted_wand_orb.png",
+          "label": "Twisted Wand (orb)"
+        },
+        {
+          "file": "twisted_wand_crystal.png",
+          "label": "Twisted Wand (crystal)"
+        },
+        {
+          "file": "twisted_wand_leaf.png",
+          "label": "Twisted Wand (leaf)"
+        },
+        {
+          "file": "twisted_wand_ember.png",
+          "label": "Twisted Wand (ember)"
+        },
+        {
+          "file": "bent_wand_spark.png",
+          "label": "Bent Wand (spark)"
+        },
+        {
+          "file": "bent_wand_star.png",
+          "label": "Bent Wand (star)"
+        },
+        {
+          "file": "bent_wand_orb.png",
+          "label": "Bent Wand (orb)"
+        },
+        {
+          "file": "bent_wand_crystal.png",
+          "label": "Bent Wand (crystal)"
+        },
+        {
+          "file": "bent_wand_leaf.png",
+          "label": "Bent Wand (leaf)"
+        },
+        {
+          "file": "bent_wand_ember.png",
+          "label": "Bent Wand (ember)"
+        },
+        {
+          "file": "gnarled_wand_spark.png",
+          "label": "Gnarled Wand (spark)"
+        },
+        {
+          "file": "gnarled_wand_star.png",
+          "label": "Gnarled Wand (star)"
+        },
+        {
+          "file": "gnarled_wand_orb.png",
+          "label": "Gnarled Wand (orb)"
+        },
+        {
+          "file": "gnarled_wand_crystal.png",
+          "label": "Gnarled Wand (crystal)"
+        },
+        {
+          "file": "gnarled_wand_leaf.png",
+          "label": "Gnarled Wand (leaf)"
+        },
+        {
+          "file": "gnarled_wand_ember.png",
+          "label": "Gnarled Wand (ember)"
+        }
+      ]
+    },
+    "armor": {
+      "title": "Armor",
+      "count": 161,
+      "icons": [
+        {
+          "file": "iron_round_shield.png",
+          "label": "Iron Round Shield"
+        },
+        {
+          "file": "bronze_round_shield.png",
+          "label": "Bronze Round Shield"
+        },
+        {
+          "file": "steel_round_cross_shield.png",
+          "label": "Steel Round Shield (cross)"
+        },
+        {
+          "file": "iron_round_chevron_shield.png",
+          "label": "Iron Round Shield (chevron)"
+        },
+        {
+          "file": "bronze_round_chevron_shield.png",
+          "label": "Bronze Round Shield (chevron)"
+        },
+        {
+          "file": "steel_round_stripe_shield.png",
+          "label": "Steel Round Shield (stripe)"
+        },
+        {
+          "file": "iron_round_circle_shield.png",
+          "label": "Iron Round Shield (circle)"
+        },
+        {
+          "file": "bronze_round_circle_shield.png",
+          "label": "Bronze Round Shield (circle)"
+        },
+        {
+          "file": "steel_round_skull_shield.png",
+          "label": "Steel Round Shield (skull)"
+        },
+        {
+          "file": "iron_round_star_shield.png",
+          "label": "Iron Round Shield (star)"
+        },
+        {
+          "file": "bronze_round_star_shield.png",
+          "label": "Bronze Round Shield (star)"
+        },
+        {
+          "file": "steel_heater_shield.png",
+          "label": "Steel Heater Shield"
+        },
+        {
+          "file": "iron_heater_cross_shield.png",
+          "label": "Iron Heater Shield (cross)"
+        },
+        {
+          "file": "bronze_heater_cross_shield.png",
+          "label": "Bronze Heater Shield (cross)"
+        },
+        {
+          "file": "steel_heater_chevron_shield.png",
+          "label": "Steel Heater Shield (chevron)"
+        },
+        {
+          "file": "iron_heater_stripe_shield.png",
+          "label": "Iron Heater Shield (stripe)"
+        },
+        {
+          "file": "bronze_heater_stripe_shield.png",
+          "label": "Bronze Heater Shield (stripe)"
+        },
+        {
+          "file": "steel_heater_circle_shield.png",
+          "label": "Steel Heater Shield (circle)"
+        },
+        {
+          "file": "iron_heater_skull_shield.png",
+          "label": "Iron Heater Shield (skull)"
+        },
+        {
+          "file": "bronze_heater_skull_shield.png",
+          "label": "Bronze Heater Shield (skull)"
+        },
+        {
+          "file": "steel_heater_star_shield.png",
+          "label": "Steel Heater Shield (star)"
+        },
+        {
+          "file": "iron_kite_shield.png",
+          "label": "Iron Kite Shield"
+        },
+        {
+          "file": "bronze_kite_shield.png",
+          "label": "Bronze Kite Shield"
+        },
+        {
+          "file": "steel_kite_cross_shield.png",
+          "label": "Steel Kite Shield (cross)"
+        },
+        {
+          "file": "iron_kite_chevron_shield.png",
+          "label": "Iron Kite Shield (chevron)"
+        },
+        {
+          "file": "bronze_kite_chevron_shield.png",
+          "label": "Bronze Kite Shield (chevron)"
+        },
+        {
+          "file": "steel_kite_stripe_shield.png",
+          "label": "Steel Kite Shield (stripe)"
+        },
+        {
+          "file": "iron_kite_circle_shield.png",
+          "label": "Iron Kite Shield (circle)"
+        },
+        {
+          "file": "bronze_kite_circle_shield.png",
+          "label": "Bronze Kite Shield (circle)"
+        },
+        {
+          "file": "steel_kite_skull_shield.png",
+          "label": "Steel Kite Shield (skull)"
+        },
+        {
+          "file": "iron_kite_star_shield.png",
+          "label": "Iron Kite Shield (star)"
+        },
+        {
+          "file": "bronze_kite_star_shield.png",
+          "label": "Bronze Kite Shield (star)"
+        },
+        {
+          "file": "steel_tower_shield.png",
+          "label": "Steel Tower Shield"
+        },
+        {
+          "file": "iron_tower_cross_shield.png",
+          "label": "Iron Tower Shield (cross)"
+        },
+        {
+          "file": "bronze_tower_cross_shield.png",
+          "label": "Bronze Tower Shield (cross)"
+        },
+        {
+          "file": "steel_tower_chevron_shield.png",
+          "label": "Steel Tower Shield (chevron)"
+        },
+        {
+          "file": "iron_tower_stripe_shield.png",
+          "label": "Iron Tower Shield (stripe)"
+        },
+        {
+          "file": "bronze_tower_stripe_shield.png",
+          "label": "Bronze Tower Shield (stripe)"
+        },
+        {
+          "file": "steel_tower_circle_shield.png",
+          "label": "Steel Tower Shield (circle)"
+        },
+        {
+          "file": "iron_tower_skull_shield.png",
+          "label": "Iron Tower Shield (skull)"
+        },
+        {
+          "file": "bronze_tower_skull_shield.png",
+          "label": "Bronze Tower Shield (skull)"
+        },
+        {
+          "file": "steel_tower_star_shield.png",
+          "label": "Steel Tower Shield (star)"
+        },
+        {
+          "file": "iron_buckler_shield.png",
+          "label": "Iron Buckler Shield"
+        },
+        {
+          "file": "bronze_buckler_shield.png",
+          "label": "Bronze Buckler Shield"
+        },
+        {
+          "file": "steel_buckler_cross_shield.png",
+          "label": "Steel Buckler Shield (cross)"
+        },
+        {
+          "file": "iron_buckler_chevron_shield.png",
+          "label": "Iron Buckler Shield (chevron)"
+        },
+        {
+          "file": "bronze_buckler_chevron_shield.png",
+          "label": "Bronze Buckler Shield (chevron)"
+        },
+        {
+          "file": "steel_buckler_stripe_shield.png",
+          "label": "Steel Buckler Shield (stripe)"
+        },
+        {
+          "file": "iron_buckler_circle_shield.png",
+          "label": "Iron Buckler Shield (circle)"
+        },
+        {
+          "file": "bronze_buckler_circle_shield.png",
+          "label": "Bronze Buckler Shield (circle)"
+        },
+        {
+          "file": "steel_buckler_skull_shield.png",
+          "label": "Steel Buckler Shield (skull)"
+        },
+        {
+          "file": "iron_buckler_star_shield.png",
+          "label": "Iron Buckler Shield (star)"
+        },
+        {
+          "file": "bronze_buckler_star_shield.png",
+          "label": "Bronze Buckler Shield (star)"
+        },
+        {
+          "file": "steel_oval_shield.png",
+          "label": "Steel Oval Shield"
+        },
+        {
+          "file": "iron_oval_cross_shield.png",
+          "label": "Iron Oval Shield (cross)"
+        },
+        {
+          "file": "bronze_oval_cross_shield.png",
+          "label": "Bronze Oval Shield (cross)"
+        },
+        {
+          "file": "steel_oval_chevron_shield.png",
+          "label": "Steel Oval Shield (chevron)"
+        },
+        {
+          "file": "iron_oval_stripe_shield.png",
+          "label": "Iron Oval Shield (stripe)"
+        },
+        {
+          "file": "bronze_oval_stripe_shield.png",
+          "label": "Bronze Oval Shield (stripe)"
+        },
+        {
+          "file": "steel_oval_circle_shield.png",
+          "label": "Steel Oval Shield (circle)"
+        },
+        {
+          "file": "iron_oval_skull_shield.png",
+          "label": "Iron Oval Shield (skull)"
+        },
+        {
+          "file": "bronze_oval_skull_shield.png",
+          "label": "Bronze Oval Shield (skull)"
+        },
+        {
+          "file": "steel_oval_star_shield.png",
+          "label": "Steel Oval Shield (star)"
+        },
+        {
+          "file": "iron_diamond_shield.png",
+          "label": "Iron Diamond Shield"
+        },
+        {
+          "file": "bronze_diamond_shield.png",
+          "label": "Bronze Diamond Shield"
+        },
+        {
+          "file": "steel_diamond_cross_shield.png",
+          "label": "Steel Diamond Shield (cross)"
+        },
+        {
+          "file": "iron_diamond_chevron_shield.png",
+          "label": "Iron Diamond Shield (chevron)"
+        },
+        {
+          "file": "bronze_diamond_chevron_shield.png",
+          "label": "Bronze Diamond Shield (chevron)"
+        },
+        {
+          "file": "steel_diamond_stripe_shield.png",
+          "label": "Steel Diamond Shield (stripe)"
+        },
+        {
+          "file": "iron_diamond_circle_shield.png",
+          "label": "Iron Diamond Shield (circle)"
+        },
+        {
+          "file": "bronze_diamond_circle_shield.png",
+          "label": "Bronze Diamond Shield (circle)"
+        },
+        {
+          "file": "steel_diamond_skull_shield.png",
+          "label": "Steel Diamond Shield (skull)"
+        },
+        {
+          "file": "iron_knight_helmet.png",
+          "label": "Iron Knight Helmet"
+        },
+        {
+          "file": "steel_knight_helmet.png",
+          "label": "Steel Knight Helmet"
+        },
+        {
+          "file": "bronze_knight_helmet.png",
+          "label": "Bronze Knight Helmet"
+        },
+        {
+          "file": "iron_nasal_helmet.png",
+          "label": "Iron Nasal Helmet"
+        },
+        {
+          "file": "steel_nasal_helmet.png",
+          "label": "Steel Nasal Helmet"
+        },
+        {
+          "file": "bronze_nasal_helmet.png",
+          "label": "Bronze Nasal Helmet"
+        },
+        {
+          "file": "iron_viking_helmet.png",
+          "label": "Iron Viking Helmet"
+        },
+        {
+          "file": "steel_viking_helmet.png",
+          "label": "Steel Viking Helmet"
+        },
+        {
+          "file": "bronze_viking_helmet.png",
+          "label": "Bronze Viking Helmet"
+        },
+        {
+          "file": "iron_kettle_helmet.png",
+          "label": "Iron Kettle Helmet"
+        },
+        {
+          "file": "steel_kettle_helmet.png",
+          "label": "Steel Kettle Helmet"
+        },
+        {
+          "file": "bronze_kettle_helmet.png",
+          "label": "Bronze Kettle Helmet"
+        },
+        {
+          "file": "hood_helmet.png",
+          "label": "Hood Helmet"
+        },
+        {
+          "file": "crown_helmet.png",
+          "label": "Crown Helmet"
+        },
+        {
+          "file": "circlet_helmet.png",
+          "label": "Circlet Helmet"
+        },
+        {
+          "file": "mage_hat_helmet.png",
+          "label": "Mage Hat Helmet"
+        },
+        {
+          "file": "iron_cuirass_chestplate.png",
+          "label": "Iron Cuirass Chestplate"
+        },
+        {
+          "file": "steel_cuirass_chestplate.png",
+          "label": "Steel Cuirass Chestplate"
+        },
+        {
+          "file": "bronze_cuirass_chestplate.png",
+          "label": "Bronze Cuirass Chestplate"
+        },
+        {
+          "file": "mithril_cuirass_chestplate.png",
+          "label": "Mithril Cuirass Chestplate"
+        },
+        {
+          "file": "iron_chainmail_chestplate.png",
+          "label": "Iron Chainmail Chestplate"
+        },
+        {
+          "file": "steel_chainmail_chestplate.png",
+          "label": "Steel Chainmail Chestplate"
+        },
+        {
+          "file": "bronze_chainmail_chestplate.png",
+          "label": "Bronze Chainmail Chestplate"
+        },
+        {
+          "file": "mithril_chainmail_chestplate.png",
+          "label": "Mithril Chainmail Chestplate"
+        },
+        {
+          "file": "iron_plate_chestplate.png",
+          "label": "Iron Plate Chestplate"
+        },
+        {
+          "file": "steel_plate_chestplate.png",
+          "label": "Steel Plate Chestplate"
+        },
+        {
+          "file": "bronze_plate_chestplate.png",
+          "label": "Bronze Plate Chestplate"
+        },
+        {
+          "file": "mithril_plate_chestplate.png",
+          "label": "Mithril Plate Chestplate"
+        },
+        {
+          "file": "leather_chestplate.png",
+          "label": "Leather Chestplate"
+        },
+        {
+          "file": "robes_chestplate.png",
+          "label": "Robes Chestplate"
+        },
+        {
+          "file": "iron_greave.png",
+          "label": "Iron Greave"
+        },
+        {
+          "file": "steel_greave.png",
+          "label": "Steel Greave"
+        },
+        {
+          "file": "bronze_greave.png",
+          "label": "Bronze Greave"
+        },
+        {
+          "file": "leather_greave.png",
+          "label": "Leather Greave"
+        },
+        {
+          "file": "iron_sabaton.png",
+          "label": "Iron Sabaton"
+        },
+        {
+          "file": "steel_sabaton.png",
+          "label": "Steel Sabaton"
+        },
+        {
+          "file": "bronze_sabaton.png",
+          "label": "Bronze Sabaton"
+        },
+        {
+          "file": "leather_sabaton.png",
+          "label": "Leather Sabaton"
+        },
+        {
+          "file": "boot.png",
+          "label": "Boot"
+        },
+        {
+          "file": "shoe.png",
+          "label": "Shoe"
+        },
+        {
+          "file": "iron_mitten_gauntlet.png",
+          "label": "Iron Mitten Gauntlet"
+        },
+        {
+          "file": "steel_mitten_gauntlet.png",
+          "label": "Steel Mitten Gauntlet"
+        },
+        {
+          "file": "bronze_mitten_gauntlet.png",
+          "label": "Bronze Mitten Gauntlet"
+        },
+        {
+          "file": "leather_mitten_gauntlet.png",
+          "label": "Leather Mitten Gauntlet"
+        },
+        {
+          "file": "iron_plate_gauntlet.png",
+          "label": "Iron Plate Gauntlet"
+        },
+        {
+          "file": "steel_plate_gauntlet.png",
+          "label": "Steel Plate Gauntlet"
+        },
+        {
+          "file": "bronze_plate_gauntlet.png",
+          "label": "Bronze Plate Gauntlet"
+        },
+        {
+          "file": "leather_plate_gauntlet.png",
+          "label": "Leather Plate Gauntlet"
+        },
+        {
+          "file": "iron_clawed_gauntlet.png",
+          "label": "Iron Clawed Gauntlet"
+        },
+        {
+          "file": "steel_clawed_gauntlet.png",
+          "label": "Steel Clawed Gauntlet"
+        },
+        {
+          "file": "bronze_clawed_gauntlet.png",
+          "label": "Bronze Clawed Gauntlet"
+        },
+        {
+          "file": "leather_clawed_gauntlet.png",
+          "label": "Leather Clawed Gauntlet"
+        },
+        {
+          "file": "glove_gauntlet.png",
+          "label": "Glove Gauntlet"
+        },
+        {
+          "file": "iron_round_pauldron.png",
+          "label": "Iron Round Pauldron"
+        },
+        {
+          "file": "steel_round_pauldron.png",
+          "label": "Steel Round Pauldron"
+        },
+        {
+          "file": "bronze_round_pauldron.png",
+          "label": "Bronze Round Pauldron"
+        },
+        {
+          "file": "gold_round_pauldron.png",
+          "label": "Gold Round Pauldron"
+        },
+        {
+          "file": "iron_spiked_pauldron.png",
+          "label": "Iron Spiked Pauldron"
+        },
+        {
+          "file": "steel_spiked_pauldron.png",
+          "label": "Steel Spiked Pauldron"
+        },
+        {
+          "file": "bronze_spiked_pauldron.png",
+          "label": "Bronze Spiked Pauldron"
+        },
+        {
+          "file": "gold_spiked_pauldron.png",
+          "label": "Gold Spiked Pauldron"
+        },
+        {
+          "file": "iron_layered_pauldron.png",
+          "label": "Iron Layered Pauldron"
+        },
+        {
+          "file": "steel_layered_pauldron.png",
+          "label": "Steel Layered Pauldron"
+        },
+        {
+          "file": "bronze_layered_pauldron.png",
+          "label": "Bronze Layered Pauldron"
+        },
+        {
+          "file": "gold_layered_pauldron.png",
+          "label": "Gold Layered Pauldron"
+        },
+        {
+          "file": "brown_square_belt.png",
+          "label": "Brown Belt (square buckle)"
+        },
+        {
+          "file": "black_square_belt.png",
+          "label": "Black Belt (square buckle)"
+        },
+        {
+          "file": "red_square_belt.png",
+          "label": "Red Belt (square buckle)"
+        },
+        {
+          "file": "brown_round_belt.png",
+          "label": "Brown Belt (round buckle)"
+        },
+        {
+          "file": "black_round_belt.png",
+          "label": "Black Belt (round buckle)"
+        },
+        {
+          "file": "red_round_belt.png",
+          "label": "Red Belt (round buckle)"
+        },
+        {
+          "file": "brown_skull_belt.png",
+          "label": "Brown Belt (skull buckle)"
+        },
+        {
+          "file": "black_skull_belt.png",
+          "label": "Black Belt (skull buckle)"
+        },
+        {
+          "file": "red_skull_belt.png",
+          "label": "Red Belt (skull buckle)"
+        },
+        {
+          "file": "brown_gem_belt.png",
+          "label": "Brown Belt (gem buckle)"
+        },
+        {
+          "file": "black_gem_belt.png",
+          "label": "Black Belt (gem buckle)"
+        },
+        {
+          "file": "red_gem_belt.png",
+          "label": "Red Belt (gem buckle)"
+        },
+        {
+          "file": "red_traveler_cloak.png",
+          "label": "Red Traveler Cloak"
+        },
+        {
+          "file": "blue_traveler_cloak.png",
+          "label": "Blue Traveler Cloak"
+        },
+        {
+          "file": "green_traveler_cloak.png",
+          "label": "Green Traveler Cloak"
+        },
+        {
+          "file": "purple_traveler_cloak.png",
+          "label": "Purple Traveler Cloak"
+        },
+        {
+          "file": "red_royal_cloak.png",
+          "label": "Red Royal Cloak"
+        },
+        {
+          "file": "blue_royal_cloak.png",
+          "label": "Blue Royal Cloak"
+        },
+        {
+          "file": "green_royal_cloak.png",
+          "label": "Green Royal Cloak"
+        },
+        {
+          "file": "purple_royal_cloak.png",
+          "label": "Purple Royal Cloak"
+        },
+        {
+          "file": "red_hooded_cloak.png",
+          "label": "Red Hooded Cloak"
+        },
+        {
+          "file": "blue_hooded_cloak.png",
+          "label": "Blue Hooded Cloak"
+        },
+        {
+          "file": "green_hooded_cloak.png",
+          "label": "Green Hooded Cloak"
+        },
+        {
+          "file": "purple_hooded_cloak.png",
+          "label": "Purple Hooded Cloak"
+        }
+      ]
+    },
+    "potions": {
+      "title": "Potions & Consumables",
+      "count": 174,
+      "icons": [
+        {
+          "file": "healing_potion_flask_cork.png",
+          "label": "Healing Potion (flask, cork)"
+        },
+        {
+          "file": "healing_potion_flask.png",
+          "label": "Healing Potion (flask)"
+        },
+        {
+          "file": "mana_potion_flask_cap.png",
+          "label": "Mana Potion (flask, cap)"
+        },
+        {
+          "file": "poison_potion_flask_cork.png",
+          "label": "Poison Potion (flask, cork)"
+        },
+        {
+          "file": "poison_potion_flask.png",
+          "label": "Poison Potion (flask)"
+        },
+        {
+          "file": "shadow_potion_flask_cap.png",
+          "label": "Shadow Potion (flask, cap)"
+        },
+        {
+          "file": "fire_potion_flask_cork.png",
+          "label": "Fire Potion (flask, cork)"
+        },
+        {
+          "file": "fire_potion_flask.png",
+          "label": "Fire Potion (flask)"
+        },
+        {
+          "file": "frost_potion_flask_cap.png",
+          "label": "Frost Potion (flask, cap)"
+        },
+        {
+          "file": "nature_potion_flask_cork.png",
+          "label": "Nature Potion (flask, cork)"
+        },
+        {
+          "file": "nature_potion_flask.png",
+          "label": "Nature Potion (flask)"
+        },
+        {
+          "file": "love_potion_flask_cap.png",
+          "label": "Love Potion (flask, cap)"
+        },
+        {
+          "file": "holy_potion_flask_cork.png",
+          "label": "Holy Potion (flask, cork)"
+        },
+        {
+          "file": "holy_potion_flask.png",
+          "label": "Holy Potion (flask)"
+        },
+        {
+          "file": "stamina_potion_flask_cap.png",
+          "label": "Stamina Potion (flask, cap)"
+        },
+        {
+          "file": "healing_potion_tall_vial_cork.png",
+          "label": "Healing Potion (tall vial, cork)"
+        },
+        {
+          "file": "healing_potion_tall_vial.png",
+          "label": "Healing Potion (tall vial)"
+        },
+        {
+          "file": "mana_potion_tall_vial_cap.png",
+          "label": "Mana Potion (tall vial, cap)"
+        },
+        {
+          "file": "poison_potion_tall_vial_cork.png",
+          "label": "Poison Potion (tall vial, cork)"
+        },
+        {
+          "file": "poison_potion_tall_vial.png",
+          "label": "Poison Potion (tall vial)"
+        },
+        {
+          "file": "shadow_potion_tall_vial_cap.png",
+          "label": "Shadow Potion (tall vial, cap)"
+        },
+        {
+          "file": "fire_potion_tall_vial_cork.png",
+          "label": "Fire Potion (tall vial, cork)"
+        },
+        {
+          "file": "fire_potion_tall_vial.png",
+          "label": "Fire Potion (tall vial)"
+        },
+        {
+          "file": "frost_potion_tall_vial_cap.png",
+          "label": "Frost Potion (tall vial, cap)"
+        },
+        {
+          "file": "nature_potion_tall_vial_cork.png",
+          "label": "Nature Potion (tall vial, cork)"
+        },
+        {
+          "file": "nature_potion_tall_vial.png",
+          "label": "Nature Potion (tall vial)"
+        },
+        {
+          "file": "love_potion_tall_vial_cap.png",
+          "label": "Love Potion (tall vial, cap)"
+        },
+        {
+          "file": "holy_potion_tall_vial_cork.png",
+          "label": "Holy Potion (tall vial, cork)"
+        },
+        {
+          "file": "holy_potion_tall_vial.png",
+          "label": "Holy Potion (tall vial)"
+        },
+        {
+          "file": "stamina_potion_tall_vial_cap.png",
+          "label": "Stamina Potion (tall vial, cap)"
+        },
+        {
+          "file": "healing_potion_square_bottle_cork.png",
+          "label": "Healing Potion (square bottle, cork)"
+        },
+        {
+          "file": "healing_potion_square_bottle.png",
+          "label": "Healing Potion (square bottle)"
+        },
+        {
+          "file": "mana_potion_square_bottle_cap.png",
+          "label": "Mana Potion (square bottle, cap)"
+        },
+        {
+          "file": "poison_potion_square_bottle_cork.png",
+          "label": "Poison Potion (square bottle, cork)"
+        },
+        {
+          "file": "poison_potion_square_bottle.png",
+          "label": "Poison Potion (square bottle)"
+        },
+        {
+          "file": "shadow_potion_square_bottle_cap.png",
+          "label": "Shadow Potion (square bottle, cap)"
+        },
+        {
+          "file": "fire_potion_square_bottle_cork.png",
+          "label": "Fire Potion (square bottle, cork)"
+        },
+        {
+          "file": "fire_potion_square_bottle.png",
+          "label": "Fire Potion (square bottle)"
+        },
+        {
+          "file": "frost_potion_square_bottle_cap.png",
+          "label": "Frost Potion (square bottle, cap)"
+        },
+        {
+          "file": "nature_potion_square_bottle_cork.png",
+          "label": "Nature Potion (square bottle, cork)"
+        },
+        {
+          "file": "nature_potion_square_bottle.png",
+          "label": "Nature Potion (square bottle)"
+        },
+        {
+          "file": "love_potion_square_bottle_cap.png",
+          "label": "Love Potion (square bottle, cap)"
+        },
+        {
+          "file": "holy_potion_square_bottle_cork.png",
+          "label": "Holy Potion (square bottle, cork)"
+        },
+        {
+          "file": "holy_potion_square_bottle.png",
+          "label": "Holy Potion (square bottle)"
+        },
+        {
+          "file": "stamina_potion_square_bottle_cap.png",
+          "label": "Stamina Potion (square bottle, cap)"
+        },
+        {
+          "file": "healing_potion_gourd_cork.png",
+          "label": "Healing Potion (gourd, cork)"
+        },
+        {
+          "file": "healing_potion_gourd.png",
+          "label": "Healing Potion (gourd)"
+        },
+        {
+          "file": "mana_potion_gourd_cap.png",
+          "label": "Mana Potion (gourd, cap)"
+        },
+        {
+          "file": "poison_potion_gourd_cork.png",
+          "label": "Poison Potion (gourd, cork)"
+        },
+        {
+          "file": "poison_potion_gourd.png",
+          "label": "Poison Potion (gourd)"
+        },
+        {
+          "file": "shadow_potion_gourd_cap.png",
+          "label": "Shadow Potion (gourd, cap)"
+        },
+        {
+          "file": "fire_potion_gourd_cork.png",
+          "label": "Fire Potion (gourd, cork)"
+        },
+        {
+          "file": "fire_potion_gourd.png",
+          "label": "Fire Potion (gourd)"
+        },
+        {
+          "file": "frost_potion_gourd_cap.png",
+          "label": "Frost Potion (gourd, cap)"
+        },
+        {
+          "file": "nature_potion_gourd_cork.png",
+          "label": "Nature Potion (gourd, cork)"
+        },
+        {
+          "file": "nature_potion_gourd.png",
+          "label": "Nature Potion (gourd)"
+        },
+        {
+          "file": "love_potion_gourd_cap.png",
+          "label": "Love Potion (gourd, cap)"
+        },
+        {
+          "file": "holy_potion_gourd_cork.png",
+          "label": "Holy Potion (gourd, cork)"
+        },
+        {
+          "file": "holy_potion_gourd.png",
+          "label": "Holy Potion (gourd)"
+        },
+        {
+          "file": "stamina_potion_gourd_cap.png",
+          "label": "Stamina Potion (gourd, cap)"
+        },
+        {
+          "file": "healing_potion_teardrop_cork.png",
+          "label": "Healing Potion (teardrop, cork)"
+        },
+        {
+          "file": "healing_potion_teardrop.png",
+          "label": "Healing Potion (teardrop)"
+        },
+        {
+          "file": "mana_potion_teardrop_cap.png",
+          "label": "Mana Potion (teardrop, cap)"
+        },
+        {
+          "file": "poison_potion_teardrop_cork.png",
+          "label": "Poison Potion (teardrop, cork)"
+        },
+        {
+          "file": "poison_potion_teardrop.png",
+          "label": "Poison Potion (teardrop)"
+        },
+        {
+          "file": "shadow_potion_teardrop_cap.png",
+          "label": "Shadow Potion (teardrop, cap)"
+        },
+        {
+          "file": "fire_potion_teardrop_cork.png",
+          "label": "Fire Potion (teardrop, cork)"
+        },
+        {
+          "file": "fire_potion_teardrop.png",
+          "label": "Fire Potion (teardrop)"
+        },
+        {
+          "file": "frost_potion_teardrop_cap.png",
+          "label": "Frost Potion (teardrop, cap)"
+        },
+        {
+          "file": "nature_potion_teardrop_cork.png",
+          "label": "Nature Potion (teardrop, cork)"
+        },
+        {
+          "file": "nature_potion_teardrop.png",
+          "label": "Nature Potion (teardrop)"
+        },
+        {
+          "file": "love_potion_teardrop_cap.png",
+          "label": "Love Potion (teardrop, cap)"
+        },
+        {
+          "file": "holy_potion_teardrop_cork.png",
+          "label": "Holy Potion (teardrop, cork)"
+        },
+        {
+          "file": "holy_potion_teardrop.png",
+          "label": "Holy Potion (teardrop)"
+        },
+        {
+          "file": "stamina_potion_teardrop_cap.png",
+          "label": "Stamina Potion (teardrop, cap)"
+        },
+        {
+          "file": "healing_potion_wide_jar_cork.png",
+          "label": "Healing Potion (wide jar, cork)"
+        },
+        {
+          "file": "healing_potion_wide_jar.png",
+          "label": "Healing Potion (wide jar)"
+        },
+        {
+          "file": "mana_potion_wide_jar_cap.png",
+          "label": "Mana Potion (wide jar, cap)"
+        },
+        {
+          "file": "poison_potion_wide_jar_cork.png",
+          "label": "Poison Potion (wide jar, cork)"
+        },
+        {
+          "file": "poison_potion_wide_jar.png",
+          "label": "Poison Potion (wide jar)"
+        },
+        {
+          "file": "shadow_potion_wide_jar_cap.png",
+          "label": "Shadow Potion (wide jar, cap)"
+        },
+        {
+          "file": "fire_potion_wide_jar_cork.png",
+          "label": "Fire Potion (wide jar, cork)"
+        },
+        {
+          "file": "fire_potion_wide_jar.png",
+          "label": "Fire Potion (wide jar)"
+        },
+        {
+          "file": "frost_potion_wide_jar_cap.png",
+          "label": "Frost Potion (wide jar, cap)"
+        },
+        {
+          "file": "nature_potion_wide_jar_cork.png",
+          "label": "Nature Potion (wide jar, cork)"
+        },
+        {
+          "file": "nature_potion_wide_jar.png",
+          "label": "Nature Potion (wide jar)"
+        },
+        {
+          "file": "love_potion_wide_jar_cap.png",
+          "label": "Love Potion (wide jar, cap)"
+        },
+        {
+          "file": "holy_potion_wide_jar_cork.png",
+          "label": "Holy Potion (wide jar, cork)"
+        },
+        {
+          "file": "holy_potion_wide_jar.png",
+          "label": "Holy Potion (wide jar)"
+        },
+        {
+          "file": "stamina_potion_wide_jar_cap.png",
+          "label": "Stamina Potion (wide jar, cap)"
+        },
+        {
+          "file": "healing_potion_phial_cork.png",
+          "label": "Healing Potion (phial, cork)"
+        },
+        {
+          "file": "healing_potion_phial.png",
+          "label": "Healing Potion (phial)"
+        },
+        {
+          "file": "mana_potion_phial_cap.png",
+          "label": "Mana Potion (phial, cap)"
+        },
+        {
+          "file": "poison_potion_phial_cork.png",
+          "label": "Poison Potion (phial, cork)"
+        },
+        {
+          "file": "poison_potion_phial.png",
+          "label": "Poison Potion (phial)"
+        },
+        {
+          "file": "shadow_potion_phial_cap.png",
+          "label": "Shadow Potion (phial, cap)"
+        },
+        {
+          "file": "fire_potion_phial_cork.png",
+          "label": "Fire Potion (phial, cork)"
+        },
+        {
+          "file": "fire_potion_phial.png",
+          "label": "Fire Potion (phial)"
+        },
+        {
+          "file": "frost_potion_phial_cap.png",
+          "label": "Frost Potion (phial, cap)"
+        },
+        {
+          "file": "nature_potion_phial_cork.png",
+          "label": "Nature Potion (phial, cork)"
+        },
+        {
+          "file": "nature_potion_phial.png",
+          "label": "Nature Potion (phial)"
+        },
+        {
+          "file": "love_potion_phial_cap.png",
+          "label": "Love Potion (phial, cap)"
+        },
+        {
+          "file": "holy_potion_phial_cork.png",
+          "label": "Holy Potion (phial, cork)"
+        },
+        {
+          "file": "holy_potion_phial.png",
+          "label": "Holy Potion (phial)"
+        },
+        {
+          "file": "stamina_potion_phial_cap.png",
+          "label": "Stamina Potion (phial, cap)"
+        },
+        {
+          "file": "healing_potion_round_belly_cork.png",
+          "label": "Healing Potion (round belly, cork)"
+        },
+        {
+          "file": "healing_potion_round_belly.png",
+          "label": "Healing Potion (round belly)"
+        },
+        {
+          "file": "mana_potion_round_belly_cap.png",
+          "label": "Mana Potion (round belly, cap)"
+        },
+        {
+          "file": "poison_potion_round_belly_cork.png",
+          "label": "Poison Potion (round belly, cork)"
+        },
+        {
+          "file": "poison_potion_round_belly.png",
+          "label": "Poison Potion (round belly)"
+        },
+        {
+          "file": "bread_fresh.png",
+          "label": "Bread (fresh)"
+        },
+        {
+          "file": "bread_cooked.png",
+          "label": "Bread (cooked)"
+        },
+        {
+          "file": "meat_fresh.png",
+          "label": "Meat (fresh)"
+        },
+        {
+          "file": "meat_cooked.png",
+          "label": "Meat (cooked)"
+        },
+        {
+          "file": "apple_fresh.png",
+          "label": "Apple (fresh)"
+        },
+        {
+          "file": "apple_cooked.png",
+          "label": "Apple (cooked)"
+        },
+        {
+          "file": "cheese_fresh.png",
+          "label": "Cheese (fresh)"
+        },
+        {
+          "file": "cheese_cooked.png",
+          "label": "Cheese (cooked)"
+        },
+        {
+          "file": "fish_fresh.png",
+          "label": "Fish (fresh)"
+        },
+        {
+          "file": "fish_cooked.png",
+          "label": "Fish (cooked)"
+        },
+        {
+          "file": "mushroom_fresh.png",
+          "label": "Mushroom (fresh)"
+        },
+        {
+          "file": "mushroom_cooked.png",
+          "label": "Mushroom (cooked)"
+        },
+        {
+          "file": "pie_fresh.png",
+          "label": "Pie (fresh)"
+        },
+        {
+          "file": "pie_cooked.png",
+          "label": "Pie (cooked)"
+        },
+        {
+          "file": "carrot_fresh.png",
+          "label": "Carrot (fresh)"
+        },
+        {
+          "file": "carrot_cooked.png",
+          "label": "Carrot (cooked)"
+        },
+        {
+          "file": "cake_fresh.png",
+          "label": "Cake (fresh)"
+        },
+        {
+          "file": "cake_cooked.png",
+          "label": "Cake (cooked)"
+        },
+        {
+          "file": "egg_fresh.png",
+          "label": "Egg (fresh)"
+        },
+        {
+          "file": "egg_cooked.png",
+          "label": "Egg (cooked)"
+        },
+        {
+          "file": "berries_fresh.png",
+          "label": "Berries (fresh)"
+        },
+        {
+          "file": "berries_cooked.png",
+          "label": "Berries (cooked)"
+        },
+        {
+          "file": "drumstick_fresh.png",
+          "label": "Drumstick (fresh)"
+        },
+        {
+          "file": "drumstick_cooked.png",
+          "label": "Drumstick (cooked)"
+        },
+        {
+          "file": "herb_sprig_sprout.png",
+          "label": "Sprig Herb (sprout)"
+        },
+        {
+          "file": "herb_sprig_mature.png",
+          "label": "Sprig Herb (mature)"
+        },
+        {
+          "file": "herb_flower_sprout.png",
+          "label": "Flower Herb (sprout)"
+        },
+        {
+          "file": "herb_flower_mature.png",
+          "label": "Flower Herb (mature)"
+        },
+        {
+          "file": "herb_root_sprout.png",
+          "label": "Root Herb (sprout)"
+        },
+        {
+          "file": "herb_root_mature.png",
+          "label": "Root Herb (mature)"
+        },
+        {
+          "file": "herb_bluecap_sprout.png",
+          "label": "Bluecap Herb (sprout)"
+        },
+        {
+          "file": "herb_bluecap_mature.png",
+          "label": "Bluecap Herb (mature)"
+        },
+        {
+          "file": "herb_glowshroom_sprout.png",
+          "label": "Glowshroom Herb (sprout)"
+        },
+        {
+          "file": "herb_glowshroom_mature.png",
+          "label": "Glowshroom Herb (mature)"
+        },
+        {
+          "file": "herb_thorn_sprout.png",
+          "label": "Thorn Herb (sprout)"
+        },
+        {
+          "file": "herb_thorn_mature.png",
+          "label": "Thorn Herb (mature)"
+        },
+        {
+          "file": "herb_moss_sprout.png",
+          "label": "Moss Herb (sprout)"
+        },
+        {
+          "file": "herb_moss_mature.png",
+          "label": "Moss Herb (mature)"
+        },
+        {
+          "file": "herb_sunpetal_sprout.png",
+          "label": "Sunpetal Herb (sprout)"
+        },
+        {
+          "file": "herb_sunpetal_mature.png",
+          "label": "Sunpetal Herb (mature)"
+        },
+        {
+          "file": "healing_elixir_slim.png",
+          "label": "Healing Elixir (slim)"
+        },
+        {
+          "file": "mana_elixir_slim.png",
+          "label": "Mana Elixir (slim)"
+        },
+        {
+          "file": "poison_elixir_slim.png",
+          "label": "Poison Elixir (slim)"
+        },
+        {
+          "file": "shadow_elixir_slim.png",
+          "label": "Shadow Elixir (slim)"
+        },
+        {
+          "file": "fire_elixir_slim.png",
+          "label": "Fire Elixir (slim)"
+        },
+        {
+          "file": "frost_elixir_slim.png",
+          "label": "Frost Elixir (slim)"
+        },
+        {
+          "file": "nature_elixir_slim.png",
+          "label": "Nature Elixir (slim)"
+        },
+        {
+          "file": "love_elixir_slim.png",
+          "label": "Love Elixir (slim)"
+        },
+        {
+          "file": "holy_elixir_slim.png",
+          "label": "Holy Elixir (slim)"
+        },
+        {
+          "file": "stamina_elixir_slim.png",
+          "label": "Stamina Elixir (slim)"
+        },
+        {
+          "file": "healing_elixir_bulb.png",
+          "label": "Healing Elixir (bulb)"
+        },
+        {
+          "file": "mana_elixir_bulb.png",
+          "label": "Mana Elixir (bulb)"
+        },
+        {
+          "file": "poison_elixir_bulb.png",
+          "label": "Poison Elixir (bulb)"
+        },
+        {
+          "file": "shadow_elixir_bulb.png",
+          "label": "Shadow Elixir (bulb)"
+        },
+        {
+          "file": "fire_elixir_bulb.png",
+          "label": "Fire Elixir (bulb)"
+        },
+        {
+          "file": "frost_elixir_bulb.png",
+          "label": "Frost Elixir (bulb)"
+        },
+        {
+          "file": "nature_elixir_bulb.png",
+          "label": "Nature Elixir (bulb)"
+        },
+        {
+          "file": "love_elixir_bulb.png",
+          "label": "Love Elixir (bulb)"
+        },
+        {
+          "file": "holy_elixir_bulb.png",
+          "label": "Holy Elixir (bulb)"
+        },
+        {
+          "file": "stamina_elixir_bulb.png",
+          "label": "Stamina Elixir (bulb)"
+        },
+        {
+          "file": "healing_elixir_twin.png",
+          "label": "Healing Elixir (twin)"
+        },
+        {
+          "file": "mana_elixir_twin.png",
+          "label": "Mana Elixir (twin)"
+        },
+        {
+          "file": "poison_elixir_twin.png",
+          "label": "Poison Elixir (twin)"
+        },
+        {
+          "file": "shadow_elixir_twin.png",
+          "label": "Shadow Elixir (twin)"
+        }
+      ]
+    },
+    "magic": {
+      "title": "Magic",
+      "count": 147,
+      "icons": [
+        {
+          "file": "ember_rune_cross.png",
+          "label": "Ember Rune (cross)"
+        },
+        {
+          "file": "frost_rune_cross.png",
+          "label": "Frost Rune (cross)"
+        },
+        {
+          "file": "venom_rune_cross.png",
+          "label": "Venom Rune (cross)"
+        },
+        {
+          "file": "shadow_rune_cross.png",
+          "label": "Shadow Rune (cross)"
+        },
+        {
+          "file": "storm_rune_cross.png",
+          "label": "Storm Rune (cross)"
+        },
+        {
+          "file": "blood_rune_cross.png",
+          "label": "Blood Rune (cross)"
+        },
+        {
+          "file": "ember_rune_x.png",
+          "label": "Ember Rune (x)"
+        },
+        {
+          "file": "frost_rune_x.png",
+          "label": "Frost Rune (x)"
+        },
+        {
+          "file": "venom_rune_x.png",
+          "label": "Venom Rune (x)"
+        },
+        {
+          "file": "shadow_rune_x.png",
+          "label": "Shadow Rune (x)"
+        },
+        {
+          "file": "storm_rune_x.png",
+          "label": "Storm Rune (x)"
+        },
+        {
+          "file": "blood_rune_x.png",
+          "label": "Blood Rune (x)"
+        },
+        {
+          "file": "ember_rune_triangle.png",
+          "label": "Ember Rune (triangle)"
+        },
+        {
+          "file": "frost_rune_triangle.png",
+          "label": "Frost Rune (triangle)"
+        },
+        {
+          "file": "venom_rune_triangle.png",
+          "label": "Venom Rune (triangle)"
+        },
+        {
+          "file": "shadow_rune_triangle.png",
+          "label": "Shadow Rune (triangle)"
+        },
+        {
+          "file": "storm_rune_triangle.png",
+          "label": "Storm Rune (triangle)"
+        },
+        {
+          "file": "blood_rune_triangle.png",
+          "label": "Blood Rune (triangle)"
+        },
+        {
+          "file": "ember_rune_square.png",
+          "label": "Ember Rune (square)"
+        },
+        {
+          "file": "frost_rune_square.png",
+          "label": "Frost Rune (square)"
+        },
+        {
+          "file": "venom_rune_square.png",
+          "label": "Venom Rune (square)"
+        },
+        {
+          "file": "shadow_rune_square.png",
+          "label": "Shadow Rune (square)"
+        },
+        {
+          "file": "storm_rune_square.png",
+          "label": "Storm Rune (square)"
+        },
+        {
+          "file": "blood_rune_square.png",
+          "label": "Blood Rune (square)"
+        },
+        {
+          "file": "ember_rune_zigzag.png",
+          "label": "Ember Rune (zigzag)"
+        },
+        {
+          "file": "frost_rune_zigzag.png",
+          "label": "Frost Rune (zigzag)"
+        },
+        {
+          "file": "venom_rune_zigzag.png",
+          "label": "Venom Rune (zigzag)"
+        },
+        {
+          "file": "shadow_rune_zigzag.png",
+          "label": "Shadow Rune (zigzag)"
+        },
+        {
+          "file": "storm_rune_zigzag.png",
+          "label": "Storm Rune (zigzag)"
+        },
+        {
+          "file": "blood_rune_zigzag.png",
+          "label": "Blood Rune (zigzag)"
+        },
+        {
+          "file": "ember_rune_dots.png",
+          "label": "Ember Rune (dots)"
+        },
+        {
+          "file": "frost_rune_dots.png",
+          "label": "Frost Rune (dots)"
+        },
+        {
+          "file": "venom_rune_dots.png",
+          "label": "Venom Rune (dots)"
+        },
+        {
+          "file": "shadow_rune_dots.png",
+          "label": "Shadow Rune (dots)"
+        },
+        {
+          "file": "storm_rune_dots.png",
+          "label": "Storm Rune (dots)"
+        },
+        {
+          "file": "blood_rune_dots.png",
+          "label": "Blood Rune (dots)"
+        },
+        {
+          "file": "ember_rune_star.png",
+          "label": "Ember Rune (star)"
+        },
+        {
+          "file": "frost_rune_star.png",
+          "label": "Frost Rune (star)"
+        },
+        {
+          "file": "venom_rune_star.png",
+          "label": "Venom Rune (star)"
+        },
+        {
+          "file": "shadow_rune_star.png",
+          "label": "Shadow Rune (star)"
+        },
+        {
+          "file": "storm_rune_star.png",
+          "label": "Storm Rune (star)"
+        },
+        {
+          "file": "blood_rune_star.png",
+          "label": "Blood Rune (star)"
+        },
+        {
+          "file": "ember_rune_diamond.png",
+          "label": "Ember Rune (diamond)"
+        },
+        {
+          "file": "frost_rune_diamond.png",
+          "label": "Frost Rune (diamond)"
+        },
+        {
+          "file": "venom_rune_diamond.png",
+          "label": "Venom Rune (diamond)"
+        },
+        {
+          "file": "shadow_rune_diamond.png",
+          "label": "Shadow Rune (diamond)"
+        },
+        {
+          "file": "storm_rune_diamond.png",
+          "label": "Storm Rune (diamond)"
+        },
+        {
+          "file": "blood_rune_diamond.png",
+          "label": "Blood Rune (diamond)"
+        },
+        {
+          "file": "ember_rune_wave.png",
+          "label": "Ember Rune (wave)"
+        },
+        {
+          "file": "frost_rune_wave.png",
+          "label": "Frost Rune (wave)"
+        },
+        {
+          "file": "venom_rune_wave.png",
+          "label": "Venom Rune (wave)"
+        },
+        {
+          "file": "shadow_rune_wave.png",
+          "label": "Shadow Rune (wave)"
+        },
+        {
+          "file": "storm_rune_wave.png",
+          "label": "Storm Rune (wave)"
+        },
+        {
+          "file": "blood_rune_wave.png",
+          "label": "Blood Rune (wave)"
+        },
+        {
+          "file": "ember_rune_fork.png",
+          "label": "Ember Rune (fork)"
+        },
+        {
+          "file": "frost_rune_fork.png",
+          "label": "Frost Rune (fork)"
+        },
+        {
+          "file": "venom_rune_fork.png",
+          "label": "Venom Rune (fork)"
+        },
+        {
+          "file": "shadow_rune_fork.png",
+          "label": "Shadow Rune (fork)"
+        },
+        {
+          "file": "storm_rune_fork.png",
+          "label": "Storm Rune (fork)"
+        },
+        {
+          "file": "blood_rune_fork.png",
+          "label": "Blood Rune (fork)"
+        },
+        {
+          "file": "fire_orb_plain.png",
+          "label": "Fire Orb (plain)"
+        },
+        {
+          "file": "fire_orb_swirl.png",
+          "label": "Fire Orb (swirl)"
+        },
+        {
+          "file": "frost_orb_plain.png",
+          "label": "Frost Orb (plain)"
+        },
+        {
+          "file": "frost_orb_swirl.png",
+          "label": "Frost Orb (swirl)"
+        },
+        {
+          "file": "nature_orb_plain.png",
+          "label": "Nature Orb (plain)"
+        },
+        {
+          "file": "nature_orb_swirl.png",
+          "label": "Nature Orb (swirl)"
+        },
+        {
+          "file": "shadow_orb_plain.png",
+          "label": "Shadow Orb (plain)"
+        },
+        {
+          "file": "shadow_orb_swirl.png",
+          "label": "Shadow Orb (swirl)"
+        },
+        {
+          "file": "arcane_orb_plain.png",
+          "label": "Arcane Orb (plain)"
+        },
+        {
+          "file": "arcane_orb_swirl.png",
+          "label": "Arcane Orb (swirl)"
+        },
+        {
+          "file": "holy_orb_plain.png",
+          "label": "Holy Orb (plain)"
+        },
+        {
+          "file": "holy_orb_swirl.png",
+          "label": "Holy Orb (swirl)"
+        },
+        {
+          "file": "blood_orb_plain.png",
+          "label": "Blood Orb (plain)"
+        },
+        {
+          "file": "blood_orb_swirl.png",
+          "label": "Blood Orb (swirl)"
+        },
+        {
+          "file": "storm_orb_plain.png",
+          "label": "Storm Orb (plain)"
+        },
+        {
+          "file": "storm_orb_swirl.png",
+          "label": "Storm Orb (swirl)"
+        },
+        {
+          "file": "open_scroll_wax_red.png",
+          "label": "Open Scroll (wax red)"
+        },
+        {
+          "file": "open_scroll_wax_blue.png",
+          "label": "Open Scroll (wax blue)"
+        },
+        {
+          "file": "open_scroll_gold.png",
+          "label": "Open Scroll (gold)"
+        },
+        {
+          "file": "open_scroll_none.png",
+          "label": "Open Scroll (none)"
+        },
+        {
+          "file": "rolled_scroll_wax_red.png",
+          "label": "Rolled Scroll (wax red)"
+        },
+        {
+          "file": "rolled_scroll_wax_blue.png",
+          "label": "Rolled Scroll (wax blue)"
+        },
+        {
+          "file": "rolled_scroll_gold.png",
+          "label": "Rolled Scroll (gold)"
+        },
+        {
+          "file": "rolled_scroll_none.png",
+          "label": "Rolled Scroll (none)"
+        },
+        {
+          "file": "tied_scroll_wax_red.png",
+          "label": "Tied Scroll (wax red)"
+        },
+        {
+          "file": "tied_scroll_wax_blue.png",
+          "label": "Tied Scroll (wax blue)"
+        },
+        {
+          "file": "tied_scroll_gold.png",
+          "label": "Tied Scroll (gold)"
+        },
+        {
+          "file": "tied_scroll_none.png",
+          "label": "Tied Scroll (none)"
+        },
+        {
+          "file": "torn_scroll_wax_red.png",
+          "label": "Torn Scroll (wax red)"
+        },
+        {
+          "file": "torn_scroll_wax_blue.png",
+          "label": "Torn Scroll (wax blue)"
+        },
+        {
+          "file": "torn_scroll_gold.png",
+          "label": "Torn Scroll (gold)"
+        },
+        {
+          "file": "torn_scroll_none.png",
+          "label": "Torn Scroll (none)"
+        },
+        {
+          "file": "ancient_scroll_wax_red.png",
+          "label": "Ancient Scroll (wax red)"
+        },
+        {
+          "file": "ancient_scroll_wax_blue.png",
+          "label": "Ancient Scroll (wax blue)"
+        },
+        {
+          "file": "ancient_scroll_gold.png",
+          "label": "Ancient Scroll (gold)"
+        },
+        {
+          "file": "ancient_scroll_none.png",
+          "label": "Ancient Scroll (none)"
+        },
+        {
+          "file": "crimson_spellbook_star.png",
+          "label": "Crimson Spellbook (star)"
+        },
+        {
+          "file": "crimson_spellbook_moon.png",
+          "label": "Crimson Spellbook (moon)"
+        },
+        {
+          "file": "crimson_spellbook_eye.png",
+          "label": "Crimson Spellbook (eye)"
+        },
+        {
+          "file": "azure_spellbook_star.png",
+          "label": "Azure Spellbook (star)"
+        },
+        {
+          "file": "azure_spellbook_moon.png",
+          "label": "Azure Spellbook (moon)"
+        },
+        {
+          "file": "azure_spellbook_eye.png",
+          "label": "Azure Spellbook (eye)"
+        },
+        {
+          "file": "emerald_spellbook_star.png",
+          "label": "Emerald Spellbook (star)"
+        },
+        {
+          "file": "emerald_spellbook_moon.png",
+          "label": "Emerald Spellbook (moon)"
+        },
+        {
+          "file": "emerald_spellbook_eye.png",
+          "label": "Emerald Spellbook (eye)"
+        },
+        {
+          "file": "violet_spellbook_star.png",
+          "label": "Violet Spellbook (star)"
+        },
+        {
+          "file": "violet_spellbook_moon.png",
+          "label": "Violet Spellbook (moon)"
+        },
+        {
+          "file": "violet_spellbook_eye.png",
+          "label": "Violet Spellbook (eye)"
+        },
+        {
+          "file": "obsidian_spellbook_star.png",
+          "label": "Obsidian Spellbook (star)"
+        },
+        {
+          "file": "obsidian_spellbook_moon.png",
+          "label": "Obsidian Spellbook (moon)"
+        },
+        {
+          "file": "obsidian_spellbook_eye.png",
+          "label": "Obsidian Spellbook (eye)"
+        },
+        {
+          "file": "parchment_spellbook_star.png",
+          "label": "Parchment Spellbook (star)"
+        },
+        {
+          "file": "parchment_spellbook_moon.png",
+          "label": "Parchment Spellbook (moon)"
+        },
+        {
+          "file": "parchment_spellbook_eye.png",
+          "label": "Parchment Spellbook (eye)"
+        },
+        {
+          "file": "teal_spellbook_star.png",
+          "label": "Teal Spellbook (star)"
+        },
+        {
+          "file": "teal_spellbook_moon.png",
+          "label": "Teal Spellbook (moon)"
+        },
+        {
+          "file": "teal_spellbook_eye.png",
+          "label": "Teal Spellbook (eye)"
+        },
+        {
+          "file": "ruby_crystal_shard.png",
+          "label": "Ruby Crystal (shard)"
+        },
+        {
+          "file": "sapphire_crystal_shard.png",
+          "label": "Sapphire Crystal (shard)"
+        },
+        {
+          "file": "emerald_crystal_shard.png",
+          "label": "Emerald Crystal (shard)"
+        },
+        {
+          "file": "amethyst_crystal_shard.png",
+          "label": "Amethyst Crystal (shard)"
+        },
+        {
+          "file": "topaz_crystal_shard.png",
+          "label": "Topaz Crystal (shard)"
+        },
+        {
+          "file": "aqua_crystal_shard.png",
+          "label": "Aqua Crystal (shard)"
+        },
+        {
+          "file": "ruby_crystal_cluster.png",
+          "label": "Ruby Crystal (cluster)"
+        },
+        {
+          "file": "sapphire_crystal_cluster.png",
+          "label": "Sapphire Crystal (cluster)"
+        },
+        {
+          "file": "emerald_crystal_cluster.png",
+          "label": "Emerald Crystal (cluster)"
+        },
+        {
+          "file": "amethyst_crystal_cluster.png",
+          "label": "Amethyst Crystal (cluster)"
+        },
+        {
+          "file": "topaz_crystal_cluster.png",
+          "label": "Topaz Crystal (cluster)"
+        },
+        {
+          "file": "aqua_crystal_cluster.png",
+          "label": "Aqua Crystal (cluster)"
+        },
+        {
+          "file": "ruby_crystal_prism.png",
+          "label": "Ruby Crystal (prism)"
+        },
+        {
+          "file": "sapphire_crystal_prism.png",
+          "label": "Sapphire Crystal (prism)"
+        },
+        {
+          "file": "emerald_crystal_prism.png",
+          "label": "Emerald Crystal (prism)"
+        },
+        {
+          "file": "amethyst_crystal_prism.png",
+          "label": "Amethyst Crystal (prism)"
+        },
+        {
+          "file": "topaz_crystal_prism.png",
+          "label": "Topaz Crystal (prism)"
+        },
+        {
+          "file": "aqua_crystal_prism.png",
+          "label": "Aqua Crystal (prism)"
+        },
+        {
+          "file": "ruby_crystal_geode.png",
+          "label": "Ruby Crystal (geode)"
+        },
+        {
+          "file": "sapphire_crystal_geode.png",
+          "label": "Sapphire Crystal (geode)"
+        },
+        {
+          "file": "emerald_crystal_geode.png",
+          "label": "Emerald Crystal (geode)"
+        },
+        {
+          "file": "amethyst_crystal_geode.png",
+          "label": "Amethyst Crystal (geode)"
+        },
+        {
+          "file": "topaz_crystal_geode.png",
+          "label": "Topaz Crystal (geode)"
+        },
+        {
+          "file": "aqua_crystal_geode.png",
+          "label": "Aqua Crystal (geode)"
+        },
+        {
+          "file": "ruby_crystal_obelisk.png",
+          "label": "Ruby Crystal (obelisk)"
+        },
+        {
+          "file": "sapphire_crystal_obelisk.png",
+          "label": "Sapphire Crystal (obelisk)"
+        },
+        {
+          "file": "emerald_crystal_obelisk.png",
+          "label": "Emerald Crystal (obelisk)"
+        },
+        {
+          "file": "amethyst_crystal_obelisk.png",
+          "label": "Amethyst Crystal (obelisk)"
+        },
+        {
+          "file": "topaz_crystal_obelisk.png",
+          "label": "Topaz Crystal (obelisk)"
+        },
+        {
+          "file": "aqua_crystal_obelisk.png",
+          "label": "Aqua Crystal (obelisk)"
+        }
+      ]
+    },
+    "treasure": {
+      "title": "Treasure",
+      "count": 164,
+      "icons": [
+        {
+          "file": "gold_coins_single.png",
+          "label": "Gold Coins (single)"
+        },
+        {
+          "file": "gold_coins_stack.png",
+          "label": "Gold Coins (stack)"
+        },
+        {
+          "file": "gold_coins_pile.png",
+          "label": "Gold Coins (pile)"
+        },
+        {
+          "file": "gold_coins_scattered.png",
+          "label": "Gold Coins (scattered)"
+        },
+        {
+          "file": "silver_coins_single.png",
+          "label": "Silver Coins (single)"
+        },
+        {
+          "file": "silver_coins_stack.png",
+          "label": "Silver Coins (stack)"
+        },
+        {
+          "file": "silver_coins_pile.png",
+          "label": "Silver Coins (pile)"
+        },
+        {
+          "file": "silver_coins_scattered.png",
+          "label": "Silver Coins (scattered)"
+        },
+        {
+          "file": "bronze_coins_single.png",
+          "label": "Bronze Coins (single)"
+        },
+        {
+          "file": "bronze_coins_stack.png",
+          "label": "Bronze Coins (stack)"
+        },
+        {
+          "file": "bronze_coins_pile.png",
+          "label": "Bronze Coins (pile)"
+        },
+        {
+          "file": "bronze_coins_scattered.png",
+          "label": "Bronze Coins (scattered)"
+        },
+        {
+          "file": "copper_coins_single.png",
+          "label": "Copper Coins (single)"
+        },
+        {
+          "file": "copper_coins_stack.png",
+          "label": "Copper Coins (stack)"
+        },
+        {
+          "file": "copper_coins_pile.png",
+          "label": "Copper Coins (pile)"
+        },
+        {
+          "file": "copper_coins_scattered.png",
+          "label": "Copper Coins (scattered)"
+        },
+        {
+          "file": "mithril_coins_single.png",
+          "label": "Mithril Coins (single)"
+        },
+        {
+          "file": "mithril_coins_stack.png",
+          "label": "Mithril Coins (stack)"
+        },
+        {
+          "file": "mithril_coins_pile.png",
+          "label": "Mithril Coins (pile)"
+        },
+        {
+          "file": "mithril_coins_scattered.png",
+          "label": "Mithril Coins (scattered)"
+        },
+        {
+          "file": "ruby_round_gem.png",
+          "label": "Ruby Gem (round)"
+        },
+        {
+          "file": "sapphire_round_gem.png",
+          "label": "Sapphire Gem (round)"
+        },
+        {
+          "file": "emerald_round_gem.png",
+          "label": "Emerald Gem (round)"
+        },
+        {
+          "file": "amethyst_round_gem.png",
+          "label": "Amethyst Gem (round)"
+        },
+        {
+          "file": "topaz_round_gem.png",
+          "label": "Topaz Gem (round)"
+        },
+        {
+          "file": "aqua_round_gem.png",
+          "label": "Aqua Gem (round)"
+        },
+        {
+          "file": "rose_round_gem.png",
+          "label": "Rose Gem (round)"
+        },
+        {
+          "file": "ruby_diamond_gem.png",
+          "label": "Ruby Gem (diamond)"
+        },
+        {
+          "file": "sapphire_diamond_gem.png",
+          "label": "Sapphire Gem (diamond)"
+        },
+        {
+          "file": "emerald_diamond_gem.png",
+          "label": "Emerald Gem (diamond)"
+        },
+        {
+          "file": "amethyst_diamond_gem.png",
+          "label": "Amethyst Gem (diamond)"
+        },
+        {
+          "file": "topaz_diamond_gem.png",
+          "label": "Topaz Gem (diamond)"
+        },
+        {
+          "file": "aqua_diamond_gem.png",
+          "label": "Aqua Gem (diamond)"
+        },
+        {
+          "file": "rose_diamond_gem.png",
+          "label": "Rose Gem (diamond)"
+        },
+        {
+          "file": "ruby_emerald_gem.png",
+          "label": "Ruby Gem (emerald)"
+        },
+        {
+          "file": "sapphire_emerald_gem.png",
+          "label": "Sapphire Gem (emerald)"
+        },
+        {
+          "file": "emerald_emerald_gem.png",
+          "label": "Emerald Gem (emerald)"
+        },
+        {
+          "file": "amethyst_emerald_gem.png",
+          "label": "Amethyst Gem (emerald)"
+        },
+        {
+          "file": "topaz_emerald_gem.png",
+          "label": "Topaz Gem (emerald)"
+        },
+        {
+          "file": "aqua_emerald_gem.png",
+          "label": "Aqua Gem (emerald)"
+        },
+        {
+          "file": "rose_emerald_gem.png",
+          "label": "Rose Gem (emerald)"
+        },
+        {
+          "file": "ruby_triangle_gem.png",
+          "label": "Ruby Gem (triangle)"
+        },
+        {
+          "file": "sapphire_triangle_gem.png",
+          "label": "Sapphire Gem (triangle)"
+        },
+        {
+          "file": "emerald_triangle_gem.png",
+          "label": "Emerald Gem (triangle)"
+        },
+        {
+          "file": "amethyst_triangle_gem.png",
+          "label": "Amethyst Gem (triangle)"
+        },
+        {
+          "file": "topaz_triangle_gem.png",
+          "label": "Topaz Gem (triangle)"
+        },
+        {
+          "file": "aqua_triangle_gem.png",
+          "label": "Aqua Gem (triangle)"
+        },
+        {
+          "file": "rose_triangle_gem.png",
+          "label": "Rose Gem (triangle)"
+        },
+        {
+          "file": "ruby_oval_gem.png",
+          "label": "Ruby Gem (oval)"
+        },
+        {
+          "file": "sapphire_oval_gem.png",
+          "label": "Sapphire Gem (oval)"
+        },
+        {
+          "file": "emerald_oval_gem.png",
+          "label": "Emerald Gem (oval)"
+        },
+        {
+          "file": "amethyst_oval_gem.png",
+          "label": "Amethyst Gem (oval)"
+        },
+        {
+          "file": "topaz_oval_gem.png",
+          "label": "Topaz Gem (oval)"
+        },
+        {
+          "file": "aqua_oval_gem.png",
+          "label": "Aqua Gem (oval)"
+        },
+        {
+          "file": "rose_oval_gem.png",
+          "label": "Rose Gem (oval)"
+        },
+        {
+          "file": "ruby_hexagon_gem.png",
+          "label": "Ruby Gem (hexagon)"
+        },
+        {
+          "file": "sapphire_hexagon_gem.png",
+          "label": "Sapphire Gem (hexagon)"
+        },
+        {
+          "file": "emerald_hexagon_gem.png",
+          "label": "Emerald Gem (hexagon)"
+        },
+        {
+          "file": "amethyst_hexagon_gem.png",
+          "label": "Amethyst Gem (hexagon)"
+        },
+        {
+          "file": "topaz_hexagon_gem.png",
+          "label": "Topaz Gem (hexagon)"
+        },
+        {
+          "file": "aqua_hexagon_gem.png",
+          "label": "Aqua Gem (hexagon)"
+        },
+        {
+          "file": "rose_hexagon_gem.png",
+          "label": "Rose Gem (hexagon)"
+        },
+        {
+          "file": "ruby_shard_gem.png",
+          "label": "Ruby Gem (shard)"
+        },
+        {
+          "file": "sapphire_shard_gem.png",
+          "label": "Sapphire Gem (shard)"
+        },
+        {
+          "file": "emerald_shard_gem.png",
+          "label": "Emerald Gem (shard)"
+        },
+        {
+          "file": "amethyst_shard_gem.png",
+          "label": "Amethyst Gem (shard)"
+        },
+        {
+          "file": "topaz_shard_gem.png",
+          "label": "Topaz Gem (shard)"
+        },
+        {
+          "file": "aqua_shard_gem.png",
+          "label": "Aqua Gem (shard)"
+        },
+        {
+          "file": "rose_shard_gem.png",
+          "label": "Rose Gem (shard)"
+        },
+        {
+          "file": "wooden_chest_closed.png",
+          "label": "Wooden Chest (closed)"
+        },
+        {
+          "file": "wooden_chest_open.png",
+          "label": "Wooden Chest (open)"
+        },
+        {
+          "file": "wooden_chest_locked.png",
+          "label": "Wooden Chest (locked)"
+        },
+        {
+          "file": "wooden_chest_trapped.png",
+          "label": "Wooden Chest (trapped)"
+        },
+        {
+          "file": "ironbound_chest_closed.png",
+          "label": "Ironbound Chest (closed)"
+        },
+        {
+          "file": "ironbound_chest_open.png",
+          "label": "Ironbound Chest (open)"
+        },
+        {
+          "file": "ironbound_chest_locked.png",
+          "label": "Ironbound Chest (locked)"
+        },
+        {
+          "file": "ironbound_chest_trapped.png",
+          "label": "Ironbound Chest (trapped)"
+        },
+        {
+          "file": "golden_chest_closed.png",
+          "label": "Golden Chest (closed)"
+        },
+        {
+          "file": "golden_chest_open.png",
+          "label": "Golden Chest (open)"
+        },
+        {
+          "file": "golden_chest_locked.png",
+          "label": "Golden Chest (locked)"
+        },
+        {
+          "file": "golden_chest_trapped.png",
+          "label": "Golden Chest (trapped)"
+        },
+        {
+          "file": "darkwood_chest_closed.png",
+          "label": "Darkwood Chest (closed)"
+        },
+        {
+          "file": "darkwood_chest_open.png",
+          "label": "Darkwood Chest (open)"
+        },
+        {
+          "file": "darkwood_chest_locked.png",
+          "label": "Darkwood Chest (locked)"
+        },
+        {
+          "file": "darkwood_chest_trapped.png",
+          "label": "Darkwood Chest (trapped)"
+        },
+        {
+          "file": "round_key_single.png",
+          "label": "Round Key (single teeth)"
+        },
+        {
+          "file": "round_key_double.png",
+          "label": "Round Key (double teeth)"
+        },
+        {
+          "file": "round_key_triple.png",
+          "label": "Round Key (triple teeth)"
+        },
+        {
+          "file": "square_key_single.png",
+          "label": "Square Key (single teeth)"
+        },
+        {
+          "file": "square_key_double.png",
+          "label": "Square Key (double teeth)"
+        },
+        {
+          "file": "square_key_triple.png",
+          "label": "Square Key (triple teeth)"
+        },
+        {
+          "file": "diamond_key_single.png",
+          "label": "Diamond Key (single teeth)"
+        },
+        {
+          "file": "diamond_key_double.png",
+          "label": "Diamond Key (double teeth)"
+        },
+        {
+          "file": "diamond_key_triple.png",
+          "label": "Diamond Key (triple teeth)"
+        },
+        {
+          "file": "ornate_key_single.png",
+          "label": "Ornate Key (single teeth)"
+        },
+        {
+          "file": "ornate_key_double.png",
+          "label": "Ornate Key (double teeth)"
+        },
+        {
+          "file": "ornate_key_triple.png",
+          "label": "Ornate Key (triple teeth)"
+        },
+        {
+          "file": "skull_key_single.png",
+          "label": "Skull Key (single teeth)"
+        },
+        {
+          "file": "skull_key_double.png",
+          "label": "Skull Key (double teeth)"
+        },
+        {
+          "file": "skull_key_triple.png",
+          "label": "Skull Key (triple teeth)"
+        },
+        {
+          "file": "gold_ring_ruby.png",
+          "label": "Gold Ring (ruby)"
+        },
+        {
+          "file": "gold_ring_sapphire.png",
+          "label": "Gold Ring (sapphire)"
+        },
+        {
+          "file": "gold_ring_emerald.png",
+          "label": "Gold Ring (emerald)"
+        },
+        {
+          "file": "gold_ring.png",
+          "label": "Gold Ring"
+        },
+        {
+          "file": "gold_ring_diamond.png",
+          "label": "Gold Ring (diamond)"
+        },
+        {
+          "file": "gold_ring_amethyst.png",
+          "label": "Gold Ring (amethyst)"
+        },
+        {
+          "file": "silver_ring_ruby.png",
+          "label": "Silver Ring (ruby)"
+        },
+        {
+          "file": "silver_ring_sapphire.png",
+          "label": "Silver Ring (sapphire)"
+        },
+        {
+          "file": "silver_ring_emerald.png",
+          "label": "Silver Ring (emerald)"
+        },
+        {
+          "file": "silver_ring.png",
+          "label": "Silver Ring"
+        },
+        {
+          "file": "silver_ring_diamond.png",
+          "label": "Silver Ring (diamond)"
+        },
+        {
+          "file": "silver_ring_amethyst.png",
+          "label": "Silver Ring (amethyst)"
+        },
+        {
+          "file": "bronze_ring_ruby.png",
+          "label": "Bronze Ring (ruby)"
+        },
+        {
+          "file": "bronze_ring_sapphire.png",
+          "label": "Bronze Ring (sapphire)"
+        },
+        {
+          "file": "bronze_ring_emerald.png",
+          "label": "Bronze Ring (emerald)"
+        },
+        {
+          "file": "bronze_ring.png",
+          "label": "Bronze Ring"
+        },
+        {
+          "file": "bronze_ring_diamond.png",
+          "label": "Bronze Ring (diamond)"
+        },
+        {
+          "file": "bronze_ring_amethyst.png",
+          "label": "Bronze Ring (amethyst)"
+        },
+        {
+          "file": "dark_ring_ruby.png",
+          "label": "Dark Ring (ruby)"
+        },
+        {
+          "file": "dark_ring_sapphire.png",
+          "label": "Dark Ring (sapphire)"
+        },
+        {
+          "file": "dark_ring_emerald.png",
+          "label": "Dark Ring (emerald)"
+        },
+        {
+          "file": "dark_ring.png",
+          "label": "Dark Ring"
+        },
+        {
+          "file": "dark_ring_diamond.png",
+          "label": "Dark Ring (diamond)"
+        },
+        {
+          "file": "dark_ring_amethyst.png",
+          "label": "Dark Ring (amethyst)"
+        },
+        {
+          "file": "teardrop_amulet_ruby.png",
+          "label": "Teardrop Amulet (ruby)"
+        },
+        {
+          "file": "teardrop_amulet_sapphire.png",
+          "label": "Teardrop Amulet (sapphire)"
+        },
+        {
+          "file": "teardrop_amulet_emerald.png",
+          "label": "Teardrop Amulet (emerald)"
+        },
+        {
+          "file": "teardrop_amulet_amber.png",
+          "label": "Teardrop Amulet (amber)"
+        },
+        {
+          "file": "teardrop_amulet_amethyst.png",
+          "label": "Teardrop Amulet (amethyst)"
+        },
+        {
+          "file": "circle_amulet_ruby.png",
+          "label": "Circle Amulet (ruby)"
+        },
+        {
+          "file": "circle_amulet_sapphire.png",
+          "label": "Circle Amulet (sapphire)"
+        },
+        {
+          "file": "circle_amulet_emerald.png",
+          "label": "Circle Amulet (emerald)"
+        },
+        {
+          "file": "circle_amulet_amber.png",
+          "label": "Circle Amulet (amber)"
+        },
+        {
+          "file": "circle_amulet_amethyst.png",
+          "label": "Circle Amulet (amethyst)"
+        },
+        {
+          "file": "diamond_amulet_ruby.png",
+          "label": "Diamond Amulet (ruby)"
+        },
+        {
+          "file": "diamond_amulet_sapphire.png",
+          "label": "Diamond Amulet (sapphire)"
+        },
+        {
+          "file": "diamond_amulet_emerald.png",
+          "label": "Diamond Amulet (emerald)"
+        },
+        {
+          "file": "diamond_amulet_amber.png",
+          "label": "Diamond Amulet (amber)"
+        },
+        {
+          "file": "diamond_amulet_amethyst.png",
+          "label": "Diamond Amulet (amethyst)"
+        },
+        {
+          "file": "fang_amulet_ruby.png",
+          "label": "Fang Amulet (ruby)"
+        },
+        {
+          "file": "fang_amulet_sapphire.png",
+          "label": "Fang Amulet (sapphire)"
+        },
+        {
+          "file": "fang_amulet_emerald.png",
+          "label": "Fang Amulet (emerald)"
+        },
+        {
+          "file": "fang_amulet_amber.png",
+          "label": "Fang Amulet (amber)"
+        },
+        {
+          "file": "fang_amulet_amethyst.png",
+          "label": "Fang Amulet (amethyst)"
+        },
+        {
+          "file": "coin_amulet_ruby.png",
+          "label": "Coin Amulet (ruby)"
+        },
+        {
+          "file": "coin_amulet_sapphire.png",
+          "label": "Coin Amulet (sapphire)"
+        },
+        {
+          "file": "coin_amulet_emerald.png",
+          "label": "Coin Amulet (emerald)"
+        },
+        {
+          "file": "coin_amulet_amber.png",
+          "label": "Coin Amulet (amber)"
+        },
+        {
+          "file": "coin_amulet_amethyst.png",
+          "label": "Coin Amulet (amethyst)"
+        },
+        {
+          "file": "gold_royal_crown.png",
+          "label": "Gold Royal Crown"
+        },
+        {
+          "file": "silver_royal_crown.png",
+          "label": "Silver Royal Crown"
+        },
+        {
+          "file": "bronze_royal_crown.png",
+          "label": "Bronze Royal Crown"
+        },
+        {
+          "file": "gold_circlet_crown.png",
+          "label": "Gold Circlet Crown"
+        },
+        {
+          "file": "silver_circlet_crown.png",
+          "label": "Silver Circlet Crown"
+        },
+        {
+          "file": "bronze_circlet_crown.png",
+          "label": "Bronze Circlet Crown"
+        },
+        {
+          "file": "gold_war_crown.png",
+          "label": "Gold War Crown"
+        },
+        {
+          "file": "silver_war_crown.png",
+          "label": "Silver War Crown"
+        },
+        {
+          "file": "bronze_war_crown.png",
+          "label": "Bronze War Crown"
+        },
+        {
+          "file": "gold_laurel_crown.png",
+          "label": "Gold Laurel Crown"
+        },
+        {
+          "file": "silver_laurel_crown.png",
+          "label": "Silver Laurel Crown"
+        },
+        {
+          "file": "bronze_laurel_crown.png",
+          "label": "Bronze Laurel Crown"
+        },
+        {
+          "file": "gold_tiara_crown.png",
+          "label": "Gold Tiara Crown"
+        },
+        {
+          "file": "silver_tiara_crown.png",
+          "label": "Silver Tiara Crown"
+        },
+        {
+          "file": "bronze_tiara_crown.png",
+          "label": "Bronze Tiara Crown"
+        }
+      ]
+    },
+    "monsters": {
+      "title": "Monsters",
+      "count": 97,
+      "icons": [
+        {
+          "file": "green_slime_happy.png",
+          "label": "Green Slime (happy)"
+        },
+        {
+          "file": "green_slime_angry.png",
+          "label": "Green Slime (angry)"
+        },
+        {
+          "file": "blue_slime_happy.png",
+          "label": "Blue Slime (happy)"
+        },
+        {
+          "file": "blue_slime_angry.png",
+          "label": "Blue Slime (angry)"
+        },
+        {
+          "file": "red_slime_happy.png",
+          "label": "Red Slime (happy)"
+        },
+        {
+          "file": "red_slime_angry.png",
+          "label": "Red Slime (angry)"
+        },
+        {
+          "file": "purple_slime_happy.png",
+          "label": "Purple Slime (happy)"
+        },
+        {
+          "file": "purple_slime_angry.png",
+          "label": "Purple Slime (angry)"
+        },
+        {
+          "file": "gold_slime_happy.png",
+          "label": "Gold Slime (happy)"
+        },
+        {
+          "file": "gold_slime_angry.png",
+          "label": "Gold Slime (angry)"
+        },
+        {
+          "file": "shadow_slime_happy.png",
+          "label": "Shadow Slime (happy)"
+        },
+        {
+          "file": "shadow_slime_angry.png",
+          "label": "Shadow Slime (angry)"
+        },
+        {
+          "file": "frost_slime_happy.png",
+          "label": "Frost Slime (happy)"
+        },
+        {
+          "file": "frost_slime_angry.png",
+          "label": "Frost Slime (angry)"
+        },
+        {
+          "file": "lava_slime_happy.png",
+          "label": "Lava Slime (happy)"
+        },
+        {
+          "file": "lava_slime_angry.png",
+          "label": "Lava Slime (angry)"
+        },
+        {
+          "file": "bone_skull_human.png",
+          "label": "Bone Skull (human)"
+        },
+        {
+          "file": "dark_skull_human.png",
+          "label": "Dark Skull (human)"
+        },
+        {
+          "file": "mossy_skull_human.png",
+          "label": "Mossy Skull (human)"
+        },
+        {
+          "file": "bone_skull_horned.png",
+          "label": "Bone Skull (horned)"
+        },
+        {
+          "file": "dark_skull_horned.png",
+          "label": "Dark Skull (horned)"
+        },
+        {
+          "file": "mossy_skull_horned.png",
+          "label": "Mossy Skull (horned)"
+        },
+        {
+          "file": "bone_skull_beast.png",
+          "label": "Bone Skull (beast)"
+        },
+        {
+          "file": "dark_skull_beast.png",
+          "label": "Dark Skull (beast)"
+        },
+        {
+          "file": "mossy_skull_beast.png",
+          "label": "Mossy Skull (beast)"
+        },
+        {
+          "file": "bone_skull_small.png",
+          "label": "Bone Skull (small)"
+        },
+        {
+          "file": "dark_skull_small.png",
+          "label": "Dark Skull (small)"
+        },
+        {
+          "file": "mossy_skull_small.png",
+          "label": "Mossy Skull (small)"
+        },
+        {
+          "file": "bone_skull_cracked.png",
+          "label": "Bone Skull (cracked)"
+        },
+        {
+          "file": "dark_skull_cracked.png",
+          "label": "Dark Skull (cracked)"
+        },
+        {
+          "file": "mossy_skull_cracked.png",
+          "label": "Mossy Skull (cracked)"
+        },
+        {
+          "file": "brown_bat_up.png",
+          "label": "Brown Bat (wings up)"
+        },
+        {
+          "file": "brown_bat_down.png",
+          "label": "Brown Bat (wings down)"
+        },
+        {
+          "file": "black_bat_up.png",
+          "label": "Black Bat (wings up)"
+        },
+        {
+          "file": "black_bat_down.png",
+          "label": "Black Bat (wings down)"
+        },
+        {
+          "file": "red_bat_up.png",
+          "label": "Red Bat (wings up)"
+        },
+        {
+          "file": "red_bat_down.png",
+          "label": "Red Bat (wings down)"
+        },
+        {
+          "file": "purple_bat_up.png",
+          "label": "Purple Bat (wings up)"
+        },
+        {
+          "file": "purple_bat_down.png",
+          "label": "Purple Bat (wings down)"
+        },
+        {
+          "file": "floating_eye_red_round.png",
+          "label": "Floating Eye (red, round pupil)"
+        },
+        {
+          "file": "floating_eye_red_slit.png",
+          "label": "Floating Eye (red, slit pupil)"
+        },
+        {
+          "file": "floating_eye_blue_round.png",
+          "label": "Floating Eye (blue, round pupil)"
+        },
+        {
+          "file": "floating_eye_blue_slit.png",
+          "label": "Floating Eye (blue, slit pupil)"
+        },
+        {
+          "file": "floating_eye_green_round.png",
+          "label": "Floating Eye (green, round pupil)"
+        },
+        {
+          "file": "floating_eye_green_slit.png",
+          "label": "Floating Eye (green, slit pupil)"
+        },
+        {
+          "file": "floating_eye_purple_round.png",
+          "label": "Floating Eye (purple, round pupil)"
+        },
+        {
+          "file": "floating_eye_purple_slit.png",
+          "label": "Floating Eye (purple, slit pupil)"
+        },
+        {
+          "file": "floating_eye_gold_round.png",
+          "label": "Floating Eye (gold, round pupil)"
+        },
+        {
+          "file": "floating_eye_gold_slit.png",
+          "label": "Floating Eye (gold, slit pupil)"
+        },
+        {
+          "file": "floating_eye_shadow_round.png",
+          "label": "Floating Eye (shadow, round pupil)"
+        },
+        {
+          "file": "floating_eye_shadow_slit.png",
+          "label": "Floating Eye (shadow, slit pupil)"
+        },
+        {
+          "file": "white_ghost_boo.png",
+          "label": "White Ghost (boo)"
+        },
+        {
+          "file": "white_ghost_wail.png",
+          "label": "White Ghost (wail)"
+        },
+        {
+          "file": "blue_ghost_boo.png",
+          "label": "Blue Ghost (boo)"
+        },
+        {
+          "file": "blue_ghost_wail.png",
+          "label": "Blue Ghost (wail)"
+        },
+        {
+          "file": "green_ghost_boo.png",
+          "label": "Green Ghost (boo)"
+        },
+        {
+          "file": "green_ghost_wail.png",
+          "label": "Green Ghost (wail)"
+        },
+        {
+          "file": "purple_ghost_boo.png",
+          "label": "Purple Ghost (boo)"
+        },
+        {
+          "file": "purple_ghost_wail.png",
+          "label": "Purple Ghost (wail)"
+        },
+        {
+          "file": "black_spider_marked.png",
+          "label": "Black Spider (marked)"
+        },
+        {
+          "file": "black_spider_plain.png",
+          "label": "Black Spider (plain)"
+        },
+        {
+          "file": "red_spider_marked.png",
+          "label": "Red Spider (marked)"
+        },
+        {
+          "file": "red_spider_plain.png",
+          "label": "Red Spider (plain)"
+        },
+        {
+          "file": "purple_spider_marked.png",
+          "label": "Purple Spider (marked)"
+        },
+        {
+          "file": "purple_spider_plain.png",
+          "label": "Purple Spider (plain)"
+        },
+        {
+          "file": "brown_spider_marked.png",
+          "label": "Brown Spider (marked)"
+        },
+        {
+          "file": "brown_spider_plain.png",
+          "label": "Brown Spider (plain)"
+        },
+        {
+          "file": "green_dragon_egg_spotted.png",
+          "label": "Green Dragon Egg (spotted)"
+        },
+        {
+          "file": "green_dragon_egg_zigzag.png",
+          "label": "Green Dragon Egg (zigzag)"
+        },
+        {
+          "file": "blue_dragon_egg_spotted.png",
+          "label": "Blue Dragon Egg (spotted)"
+        },
+        {
+          "file": "blue_dragon_egg_zigzag.png",
+          "label": "Blue Dragon Egg (zigzag)"
+        },
+        {
+          "file": "red_dragon_egg_spotted.png",
+          "label": "Red Dragon Egg (spotted)"
+        },
+        {
+          "file": "red_dragon_egg_zigzag.png",
+          "label": "Red Dragon Egg (zigzag)"
+        },
+        {
+          "file": "purple_dragon_egg_spotted.png",
+          "label": "Purple Dragon Egg (spotted)"
+        },
+        {
+          "file": "purple_dragon_egg_zigzag.png",
+          "label": "Purple Dragon Egg (zigzag)"
+        },
+        {
+          "file": "gold_dragon_egg_spotted.png",
+          "label": "Gold Dragon Egg (spotted)"
+        },
+        {
+          "file": "gold_dragon_egg_zigzag.png",
+          "label": "Gold Dragon Egg (zigzag)"
+        },
+        {
+          "file": "shadow_dragon_egg_spotted.png",
+          "label": "Shadow Dragon Egg (spotted)"
+        },
+        {
+          "file": "shadow_dragon_egg_zigzag.png",
+          "label": "Shadow Dragon Egg (zigzag)"
+        },
+        {
+          "file": "purple_tentacle_curl_left.png",
+          "label": "Purple Tentacle (curl left)"
+        },
+        {
+          "file": "purple_tentacle_curl_right.png",
+          "label": "Purple Tentacle (curl right)"
+        },
+        {
+          "file": "green_tentacle_curl_left.png",
+          "label": "Green Tentacle (curl left)"
+        },
+        {
+          "file": "green_tentacle_curl_right.png",
+          "label": "Green Tentacle (curl right)"
+        },
+        {
+          "file": "red_tentacle_curl_left.png",
+          "label": "Red Tentacle (curl left)"
+        },
+        {
+          "file": "red_tentacle_curl_right.png",
+          "label": "Red Tentacle (curl right)"
+        },
+        {
+          "file": "blue_tentacle_curl_left.png",
+          "label": "Blue Tentacle (curl left)"
+        },
+        {
+          "file": "blue_tentacle_curl_right.png",
+          "label": "Blue Tentacle (curl right)"
+        },
+        {
+          "file": "blue_wisp_trail.png",
+          "label": "Blue Wisp (trail)"
+        },
+        {
+          "file": "blue_wisp_no_trail.png",
+          "label": "Blue Wisp (no trail)"
+        },
+        {
+          "file": "green_wisp_trail.png",
+          "label": "Green Wisp (trail)"
+        },
+        {
+          "file": "green_wisp_no_trail.png",
+          "label": "Green Wisp (no trail)"
+        },
+        {
+          "file": "purple_wisp_trail.png",
+          "label": "Purple Wisp (trail)"
+        },
+        {
+          "file": "purple_wisp_no_trail.png",
+          "label": "Purple Wisp (no trail)"
+        },
+        {
+          "file": "gold_wisp_trail.png",
+          "label": "Gold Wisp (trail)"
+        },
+        {
+          "file": "gold_wisp_no_trail.png",
+          "label": "Gold Wisp (no trail)"
+        },
+        {
+          "file": "red_wisp_trail.png",
+          "label": "Red Wisp (trail)"
+        },
+        {
+          "file": "red_wisp_no_trail.png",
+          "label": "Red Wisp (no trail)"
+        }
+      ]
+    },
+    "items": {
+      "title": "Tools & Items",
+      "count": 122,
+      "icons": [
+        {
+          "file": "lantern_square_lit.png",
+          "label": "Lantern Square (lit)"
+        },
+        {
+          "file": "lantern_square_unlit.png",
+          "label": "Lantern Square (unlit)"
+        },
+        {
+          "file": "lantern_round_lit.png",
+          "label": "Lantern Round (lit)"
+        },
+        {
+          "file": "lantern_round_unlit.png",
+          "label": "Lantern Round (unlit)"
+        },
+        {
+          "file": "torch_lit.png",
+          "label": "Torch (lit)"
+        },
+        {
+          "file": "torch_unlit.png",
+          "label": "Torch (unlit)"
+        },
+        {
+          "file": "candle_cluster_lit.png",
+          "label": "Candle Cluster (lit)"
+        },
+        {
+          "file": "candle_cluster_unlit.png",
+          "label": "Candle Cluster (unlit)"
+        },
+        {
+          "file": "oil_lamp_lit.png",
+          "label": "Oil Lamp (lit)"
+        },
+        {
+          "file": "oil_lamp_unlit.png",
+          "label": "Oil Lamp (unlit)"
+        },
+        {
+          "file": "brazier_lit.png",
+          "label": "Brazier (lit)"
+        },
+        {
+          "file": "brazier_unlit.png",
+          "label": "Brazier (unlit)"
+        },
+        {
+          "file": "chandelier_lit.png",
+          "label": "Chandelier (lit)"
+        },
+        {
+          "file": "chandelier_unlit.png",
+          "label": "Chandelier (unlit)"
+        },
+        {
+          "file": "glowstone_lit.png",
+          "label": "Glowstone (lit)"
+        },
+        {
+          "file": "glowstone_unlit.png",
+          "label": "Glowstone (unlit)"
+        },
+        {
+          "file": "rope_coil_standard.png",
+          "label": "Rope Coil (standard)"
+        },
+        {
+          "file": "rope_coil_dark_iron.png",
+          "label": "Rope Coil (dark iron)"
+        },
+        {
+          "file": "grappling_hook_standard.png",
+          "label": "Grappling Hook (standard)"
+        },
+        {
+          "file": "grappling_hook_dark_iron.png",
+          "label": "Grappling Hook (dark iron)"
+        },
+        {
+          "file": "chain_standard.png",
+          "label": "Chain (standard)"
+        },
+        {
+          "file": "chain_dark_iron.png",
+          "label": "Chain (dark iron)"
+        },
+        {
+          "file": "net_standard.png",
+          "label": "Net (standard)"
+        },
+        {
+          "file": "net_dark_iron.png",
+          "label": "Net (dark iron)"
+        },
+        {
+          "file": "pulley_standard.png",
+          "label": "Pulley (standard)"
+        },
+        {
+          "file": "pulley_dark_iron.png",
+          "label": "Pulley (dark iron)"
+        },
+        {
+          "file": "hook_standard.png",
+          "label": "Hook (standard)"
+        },
+        {
+          "file": "hook_dark_iron.png",
+          "label": "Hook (dark iron)"
+        },
+        {
+          "file": "scroll_map_marked.png",
+          "label": "Scroll Map (marked)"
+        },
+        {
+          "file": "scroll_map_plain.png",
+          "label": "Scroll Map (plain)"
+        },
+        {
+          "file": "folded_map_marked.png",
+          "label": "Folded Map (marked)"
+        },
+        {
+          "file": "folded_map_plain.png",
+          "label": "Folded Map (plain)"
+        },
+        {
+          "file": "treasure_map_marked.png",
+          "label": "Treasure Map (marked)"
+        },
+        {
+          "file": "treasure_map_plain.png",
+          "label": "Treasure Map (plain)"
+        },
+        {
+          "file": "world_map_marked.png",
+          "label": "World Map (marked)"
+        },
+        {
+          "file": "world_map_plain.png",
+          "label": "World Map (plain)"
+        },
+        {
+          "file": "dungeon_map_marked.png",
+          "label": "Dungeon Map (marked)"
+        },
+        {
+          "file": "dungeon_map_plain.png",
+          "label": "Dungeon Map (plain)"
+        },
+        {
+          "file": "compass_0.png",
+          "label": "Compass (variant 1)"
+        },
+        {
+          "file": "compass_1.png",
+          "label": "Compass (variant 2)"
+        },
+        {
+          "file": "compass_2.png",
+          "label": "Compass (variant 3)"
+        },
+        {
+          "file": "compass_3.png",
+          "label": "Compass (variant 4)"
+        },
+        {
+          "file": "compass_4.png",
+          "label": "Compass (variant 5)"
+        },
+        {
+          "file": "compass_5.png",
+          "label": "Compass (variant 6)"
+        },
+        {
+          "file": "round_bomb.png",
+          "label": "Round Bomb"
+        },
+        {
+          "file": "dynamite.png",
+          "label": "Dynamite"
+        },
+        {
+          "file": "powder_keg.png",
+          "label": "Powder Keg"
+        },
+        {
+          "file": "grenade.png",
+          "label": "Grenade"
+        },
+        {
+          "file": "firecracker.png",
+          "label": "Firecracker"
+        },
+        {
+          "file": "smoke_bomb.png",
+          "label": "Smoke Bomb"
+        },
+        {
+          "file": "bomb_bundle.png",
+          "label": "Bomb Bundle"
+        },
+        {
+          "file": "big_keg.png",
+          "label": "Big Keg"
+        },
+        {
+          "file": "powder_horn.png",
+          "label": "Powder Horn"
+        },
+        {
+          "file": "land_mine.png",
+          "label": "Land Mine"
+        },
+        {
+          "file": "arrow.png",
+          "label": "Arrow"
+        },
+        {
+          "file": "bolt.png",
+          "label": "Bolt"
+        },
+        {
+          "file": "fire_arrow.png",
+          "label": "Fire Arrow"
+        },
+        {
+          "file": "frost_arrow.png",
+          "label": "Frost Arrow"
+        },
+        {
+          "file": "quiver.png",
+          "label": "Quiver"
+        },
+        {
+          "file": "bundle.png",
+          "label": "Bundle"
+        },
+        {
+          "file": "long_arrow.png",
+          "label": "Long Arrow"
+        },
+        {
+          "file": "barbed_arrow.png",
+          "label": "Barbed Arrow"
+        },
+        {
+          "file": "hunting_arrow.png",
+          "label": "Hunting Arrow"
+        },
+        {
+          "file": "war_bolt.png",
+          "label": "War Bolt"
+        },
+        {
+          "file": "javelin.png",
+          "label": "Javelin"
+        },
+        {
+          "file": "quiver_full.png",
+          "label": "Quiver Full"
+        },
+        {
+          "file": "signal_arrow.png",
+          "label": "Signal Arrow"
+        },
+        {
+          "file": "blunt_arrow.png",
+          "label": "Blunt Arrow"
+        },
+        {
+          "file": "pickaxe_oak.png",
+          "label": "Pickaxe (oak)"
+        },
+        {
+          "file": "pickaxe_darkwood.png",
+          "label": "Pickaxe (darkwood)"
+        },
+        {
+          "file": "shovel_oak.png",
+          "label": "Shovel (oak)"
+        },
+        {
+          "file": "shovel_darkwood.png",
+          "label": "Shovel (darkwood)"
+        },
+        {
+          "file": "hoe_oak.png",
+          "label": "Hoe (oak)"
+        },
+        {
+          "file": "hoe_darkwood.png",
+          "label": "Hoe (darkwood)"
+        },
+        {
+          "file": "sickle_oak.png",
+          "label": "Sickle (oak)"
+        },
+        {
+          "file": "sickle_darkwood.png",
+          "label": "Sickle (darkwood)"
+        },
+        {
+          "file": "trowel_oak.png",
+          "label": "Trowel (oak)"
+        },
+        {
+          "file": "trowel_darkwood.png",
+          "label": "Trowel (darkwood)"
+        },
+        {
+          "file": "bucket_full.png",
+          "label": "Bucket (full)"
+        },
+        {
+          "file": "bucket_empty.png",
+          "label": "Bucket (empty)"
+        },
+        {
+          "file": "tankard_full.png",
+          "label": "Tankard (full)"
+        },
+        {
+          "file": "tankard_empty.png",
+          "label": "Tankard (empty)"
+        },
+        {
+          "file": "bowl_full.png",
+          "label": "Bowl (full)"
+        },
+        {
+          "file": "bowl_empty.png",
+          "label": "Bowl (empty)"
+        },
+        {
+          "file": "plate_full.png",
+          "label": "Plate (full)"
+        },
+        {
+          "file": "plate_empty.png",
+          "label": "Plate (empty)"
+        },
+        {
+          "file": "waterskin_full.png",
+          "label": "Waterskin (full)"
+        },
+        {
+          "file": "waterskin_empty.png",
+          "label": "Waterskin (empty)"
+        },
+        {
+          "file": "tent_day.png",
+          "label": "Tent (day)"
+        },
+        {
+          "file": "tent_night.png",
+          "label": "Tent (night)"
+        },
+        {
+          "file": "bedroll_day.png",
+          "label": "Bedroll (day)"
+        },
+        {
+          "file": "bedroll_night.png",
+          "label": "Bedroll (night)"
+        },
+        {
+          "file": "campfire_day.png",
+          "label": "Campfire (day)"
+        },
+        {
+          "file": "campfire_night.png",
+          "label": "Campfire (night)"
+        },
+        {
+          "file": "banner_day.png",
+          "label": "Banner (day)"
+        },
+        {
+          "file": "banner_night.png",
+          "label": "Banner (night)"
+        },
+        {
+          "file": "crate_day.png",
+          "label": "Crate (day)"
+        },
+        {
+          "file": "crate_night.png",
+          "label": "Crate (night)"
+        },
+        {
+          "file": "lute_notes.png",
+          "label": "Lute (notes)"
+        },
+        {
+          "file": "lute_silent.png",
+          "label": "Lute (silent)"
+        },
+        {
+          "file": "horn_notes.png",
+          "label": "Horn (notes)"
+        },
+        {
+          "file": "horn_silent.png",
+          "label": "Horn (silent)"
+        },
+        {
+          "file": "drum_notes.png",
+          "label": "Drum (notes)"
+        },
+        {
+          "file": "drum_silent.png",
+          "label": "Drum (silent)"
+        },
+        {
+          "file": "flute_notes.png",
+          "label": "Flute (notes)"
+        },
+        {
+          "file": "flute_silent.png",
+          "label": "Flute (silent)"
+        },
+        {
+          "file": "red_tome_closed.png",
+          "label": "Red Tome (closed)"
+        },
+        {
+          "file": "red_tome_open.png",
+          "label": "Red Tome (open)"
+        },
+        {
+          "file": "blue_tome_closed.png",
+          "label": "Blue Tome (closed)"
+        },
+        {
+          "file": "blue_tome_open.png",
+          "label": "Blue Tome (open)"
+        },
+        {
+          "file": "green_tome_closed.png",
+          "label": "Green Tome (closed)"
+        },
+        {
+          "file": "green_tome_open.png",
+          "label": "Green Tome (open)"
+        },
+        {
+          "file": "purple_tome_closed.png",
+          "label": "Purple Tome (closed)"
+        },
+        {
+          "file": "purple_tome_open.png",
+          "label": "Purple Tome (open)"
+        },
+        {
+          "file": "candle_0.png",
+          "label": "Candle (variant 1)"
+        },
+        {
+          "file": "candle_1.png",
+          "label": "Candle (variant 2)"
+        },
+        {
+          "file": "candle_2.png",
+          "label": "Candle (variant 3)"
+        },
+        {
+          "file": "candle_3.png",
+          "label": "Candle (variant 4)"
+        },
+        {
+          "file": "candle_4.png",
+          "label": "Candle (variant 5)"
+        },
+        {
+          "file": "candle_5.png",
+          "label": "Candle (variant 6)"
+        },
+        {
+          "file": "candle_6.png",
+          "label": "Candle (variant 7)"
+        },
+        {
+          "file": "candle_7.png",
+          "label": "Candle (variant 8)"
+        }
+      ]
+    },
+    "ui": {
+      "title": "UI Elements",
+      "count": 80,
+      "icons": [
+        {
+          "file": "red_heart_full.png",
+          "label": "Red Heart (full)"
+        },
+        {
+          "file": "red_heart_container.png",
+          "label": "Red Heart (container)"
+        },
+        {
+          "file": "blue_heart_full.png",
+          "label": "Blue Heart (full)"
+        },
+        {
+          "file": "blue_heart_container.png",
+          "label": "Blue Heart (container)"
+        },
+        {
+          "file": "green_heart_full.png",
+          "label": "Green Heart (full)"
+        },
+        {
+          "file": "green_heart_container.png",
+          "label": "Green Heart (container)"
+        },
+        {
+          "file": "purple_heart_full.png",
+          "label": "Purple Heart (full)"
+        },
+        {
+          "file": "purple_heart_container.png",
+          "label": "Purple Heart (container)"
+        },
+        {
+          "file": "gold_heart_full.png",
+          "label": "Gold Heart (full)"
+        },
+        {
+          "file": "gold_heart_container.png",
+          "label": "Gold Heart (container)"
+        },
+        {
+          "file": "dark_heart_full.png",
+          "label": "Dark Heart (full)"
+        },
+        {
+          "file": "dark_heart_container.png",
+          "label": "Dark Heart (container)"
+        },
+        {
+          "file": "blue_mana_drop.png",
+          "label": "Blue Mana (drop)"
+        },
+        {
+          "file": "blue_mana_vial.png",
+          "label": "Blue Mana (vial)"
+        },
+        {
+          "file": "green_mana_drop.png",
+          "label": "Green Mana (drop)"
+        },
+        {
+          "file": "green_mana_vial.png",
+          "label": "Green Mana (vial)"
+        },
+        {
+          "file": "purple_mana_drop.png",
+          "label": "Purple Mana (drop)"
+        },
+        {
+          "file": "purple_mana_vial.png",
+          "label": "Purple Mana (vial)"
+        },
+        {
+          "file": "red_mana_drop.png",
+          "label": "Red Mana (drop)"
+        },
+        {
+          "file": "red_mana_vial.png",
+          "label": "Red Mana (vial)"
+        },
+        {
+          "file": "gold_mana_drop.png",
+          "label": "Gold Mana (drop)"
+        },
+        {
+          "file": "gold_mana_vial.png",
+          "label": "Gold Mana (vial)"
+        },
+        {
+          "file": "gold_star_plain.png",
+          "label": "Gold Star (plain)"
+        },
+        {
+          "file": "gold_star_sparkle.png",
+          "label": "Gold Star (sparkle)"
+        },
+        {
+          "file": "silver_star_plain.png",
+          "label": "Silver Star (plain)"
+        },
+        {
+          "file": "silver_star_sparkle.png",
+          "label": "Silver Star (sparkle)"
+        },
+        {
+          "file": "bronze_star_plain.png",
+          "label": "Bronze Star (plain)"
+        },
+        {
+          "file": "bronze_star_sparkle.png",
+          "label": "Bronze Star (sparkle)"
+        },
+        {
+          "file": "red_star_plain.png",
+          "label": "Red Star (plain)"
+        },
+        {
+          "file": "red_star_sparkle.png",
+          "label": "Red Star (sparkle)"
+        },
+        {
+          "file": "arrow_up_gold.png",
+          "label": "Arrow Up (gold)"
+        },
+        {
+          "file": "arrow_up_steel.png",
+          "label": "Arrow Up (steel)"
+        },
+        {
+          "file": "arrow_up_red.png",
+          "label": "Arrow Up (red)"
+        },
+        {
+          "file": "arrow_down_gold.png",
+          "label": "Arrow Down (gold)"
+        },
+        {
+          "file": "arrow_down_steel.png",
+          "label": "Arrow Down (steel)"
+        },
+        {
+          "file": "arrow_down_red.png",
+          "label": "Arrow Down (red)"
+        },
+        {
+          "file": "arrow_left_gold.png",
+          "label": "Arrow Left (gold)"
+        },
+        {
+          "file": "arrow_left_steel.png",
+          "label": "Arrow Left (steel)"
+        },
+        {
+          "file": "arrow_left_red.png",
+          "label": "Arrow Left (red)"
+        },
+        {
+          "file": "arrow_right_gold.png",
+          "label": "Arrow Right (gold)"
+        },
+        {
+          "file": "arrow_right_steel.png",
+          "label": "Arrow Right (steel)"
+        },
+        {
+          "file": "arrow_right_red.png",
+          "label": "Arrow Right (red)"
+        },
+        {
+          "file": "status_poison.png",
+          "label": "Status: Poison"
+        },
+        {
+          "file": "status_burn.png",
+          "label": "Status: Burn"
+        },
+        {
+          "file": "status_freeze.png",
+          "label": "Status: Freeze"
+        },
+        {
+          "file": "status_stun.png",
+          "label": "Status: Stun"
+        },
+        {
+          "file": "status_shield_up.png",
+          "label": "Status: Shield Up"
+        },
+        {
+          "file": "status_rage.png",
+          "label": "Status: Rage"
+        },
+        {
+          "file": "status_haste.png",
+          "label": "Status: Haste"
+        },
+        {
+          "file": "status_curse.png",
+          "label": "Status: Curse"
+        },
+        {
+          "file": "status_charm.png",
+          "label": "Status: Charm"
+        },
+        {
+          "file": "status_regen.png",
+          "label": "Status: Regen"
+        },
+        {
+          "file": "status_silence.png",
+          "label": "Status: Silence"
+        },
+        {
+          "file": "status_blessed.png",
+          "label": "Status: Blessed"
+        },
+        {
+          "file": "round_button_red.png",
+          "label": "Round Button (red)"
+        },
+        {
+          "file": "round_button_blue.png",
+          "label": "Round Button (blue)"
+        },
+        {
+          "file": "round_button_green.png",
+          "label": "Round Button (green)"
+        },
+        {
+          "file": "round_button_gold.png",
+          "label": "Round Button (gold)"
+        },
+        {
+          "file": "round_button_gray.png",
+          "label": "Round Button (gray)"
+        },
+        {
+          "file": "square_button_red.png",
+          "label": "Square Button (red)"
+        },
+        {
+          "file": "square_button_blue.png",
+          "label": "Square Button (blue)"
+        },
+        {
+          "file": "square_button_green.png",
+          "label": "Square Button (green)"
+        },
+        {
+          "file": "square_button_gold.png",
+          "label": "Square Button (gold)"
+        },
+        {
+          "file": "square_button_gray.png",
+          "label": "Square Button (gray)"
+        },
+        {
+          "file": "red_banner_swallowtail.png",
+          "label": "Red Banner (swallowtail)"
+        },
+        {
+          "file": "red_banner_straight.png",
+          "label": "Red Banner (straight)"
+        },
+        {
+          "file": "blue_banner_swallowtail.png",
+          "label": "Blue Banner (swallowtail)"
+        },
+        {
+          "file": "blue_banner_straight.png",
+          "label": "Blue Banner (straight)"
+        },
+        {
+          "file": "green_banner_swallowtail.png",
+          "label": "Green Banner (swallowtail)"
+        },
+        {
+          "file": "green_banner_straight.png",
+          "label": "Green Banner (straight)"
+        },
+        {
+          "file": "purple_banner_swallowtail.png",
+          "label": "Purple Banner (swallowtail)"
+        },
+        {
+          "file": "purple_banner_straight.png",
+          "label": "Purple Banner (straight)"
+        },
+        {
+          "file": "blue_level_gem_1pip.png",
+          "label": "Blue Level Gem (1 pip)"
+        },
+        {
+          "file": "blue_level_gem_2pip.png",
+          "label": "Blue Level Gem (2 pip)"
+        },
+        {
+          "file": "green_level_gem_1pip.png",
+          "label": "Green Level Gem (1 pip)"
+        },
+        {
+          "file": "green_level_gem_2pip.png",
+          "label": "Green Level Gem (2 pip)"
+        },
+        {
+          "file": "red_level_gem_1pip.png",
+          "label": "Red Level Gem (1 pip)"
+        },
+        {
+          "file": "red_level_gem_2pip.png",
+          "label": "Red Level Gem (2 pip)"
+        },
+        {
+          "file": "purple_level_gem_1pip.png",
+          "label": "Purple Level Gem (1 pip)"
+        },
+        {
+          "file": "purple_level_gem_2pip.png",
+          "label": "Purple Level Gem (2 pip)"
+        }
+      ]
+    }
+  }
+}

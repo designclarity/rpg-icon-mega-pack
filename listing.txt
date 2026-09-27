@@ -1,0 +1,43 @@
+TITLE: RPG Icon Mega-Pack — 1,262 Original Pixel-Art Game Icons (CC0)
+
+SHORT: 1,262 original fantasy pixel-art RPG icons in 8 categories.
+32x32 + 64x64 transparent PNGs. CC0 public domain — use commercially,
+no attribution required.
+
+DESCRIPTION:
+Build your RPG faster with a complete, consistent pixel-art icon
+library. The RPG Icon Mega-Pack contains 1,262 original hand-designed
+(human-directed, AI-assisted) fantasy icons covering everything an RPG,
+roguelike, dungeon crawler, or idle game needs.
+
+WHAT YOU GET
+- 1,262 icons at 32x32 px (transparent PNG)
+- 1,262 icons at 64x64 px (transparent PNG)
+- 8 categories: Weapons (317), Armor (161), Potions & Consumables (174),
+  Magic (147), Treasure (164), Monsters (97), Tools & Items (122),
+  UI Elements (80)
+- Category contact sheets + preview image for browsing
+- CATEGORY-INDEX.txt (full listing) and index.json (for engines/tools)
+- CC0 1.0 Universal license — public domain
+
+USE IT FOR
+- RPG / roguelike / dungeon-crawler inventory & UI
+- Mobile & idle game art
+- Game jams (drop-in ready, no credit needed)
+- Streams, videos, and tabletop companions
+
+LICENSE
+CC0 public domain: use in commercial projects, modify, redistribute —
+no attribution required, no royalties, forever.
+
+QUALITY
+Every icon is an original pixel artwork, authored on a 16x16 grid and
+exported with crisp nearest-neighbor scaling. Automated QA verified all
+1,262 designs are unique (no duplicates) and every PNG decodes cleanly.
+
+TAGS: pixel art, rpg icons, game icons, game assets, inventory icons,
+fantasy icons, roguelike, dungeon crawler, indie game, godot assets,
+unity assets, ui icons, potions, weapons, monsters, cc0, public domain,
+game dev, 2d assets, sprite icons
+
+Cover images created with AI tools; all printable designs are original.
